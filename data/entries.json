@@ -1237,6 +1237,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-65659ab88f1b",
+    "title": "When should AI companies alert police? What the Tumbler Ridge tragedy reveals about regulating AI - CBC",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmd2TWk5Y1ZuVGZQVFBwbkZfLVlSVjJ4anExOFp6ZGxUZHhZUkoyN0NzVWxLZnVYZVJFQkVxTVdTNmZiOEV5TVJabEgxMW5teFhINUVvZ3ozSTNpb0FHM2RzZGc1R01rc3J6UFRPOVBaMXkwemIwdEZfdTZyS3k5b29DZGtvWWZjQnBub3VzTXB2dTNvNWV4YXZDVkRmRmw0ZENvSnJkWmV4emVYZkszWjhNZmw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Criminal Justice"
+    ],
+    "date_introduced": "2026-03-02",
+    "date_last_action": "2026-03-02",
+    "last_action_summary": "",
+    "summary": "When should AI companies alert police? What the Tumbler Ridge tragedy reveals about regulating AI  CBC",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
     "id": "news-781f6f4b6d22",
     "title": "Trust Without Teeth: The EU AI Act, Healthcare, and the Limits of a Voluntary Bill of Rights - Stanford Law School",
     "jurisdiction": "European Union",
@@ -1635,6 +1654,25 @@
     "summary": "Global AI Law and Policy Tracker: Highlights and takeaways&nbsp;&nbsp;IAPP",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-2c5b1d9dcddc",
+    "title": "European Commission misses deadline for AI Act guidance on high-risk systems - IAPP",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMllBVVVoaXJKT0Q2MGRYcXhOUEx5ZTRhUFh1cXUwdkZmTFp6SHQzNmEycHNmWEE0dko5NW1FSGxuSkhDUHEzR3BTamZfOGtfbUt2SlcyTExoQ2NtTE9samRMNndyS0h6ZlVrb0ExQlVKWmVqRlA5dlViYWpWNU9NOGxnUHRNM0V4Uk1qN2xEdTNwWmFEaWZ6MVhmZTlkdWg3NXc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-03",
+    "date_last_action": "2026-02-03",
+    "last_action_summary": "",
+    "summary": "European Commission misses deadline for AI Act guidance on high-risk systems  IAPP",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
   },
   {
     "id": "news-0ee289be323a",
@@ -2399,6 +2437,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-eef7e66e44ce",
+    "title": "Evan Solomon teases new AI laws as experts warn Canada is behind international peers - BetaKit",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDlpQ0JaQ0pDWl8tZFFfOWNNQ1UxQmw3OEFUSkdPcWJ2c29SM29fUG03ZWJKUnM2ZW5Jd0l2aDY2cTZsR19CMVNlSkxLU2kzTWdrU2oxMjIxQ2d2Q2NrYnhVeVFIb2dWcElHdTJZT19XVTVwU2pfWVp3aHZBYkN1X2lvd0praWVYSi1ObDZ0UXh6UkV3amdTY05QeFIyOUxSbmUzTEkyeEI?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-10-24",
+    "date_last_action": "2025-10-24",
+    "last_action_summary": "",
+    "summary": "Evan Solomon teases new AI laws as experts warn Canada is behind international peers  BetaKit",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
     "id": "news-7c6ca1db7754",
     "title": "EPIC Endorses Algorithmic Accountability Act of 2025 - EPIC – Electronic Privacy Information Center",
     "jurisdiction": "International",
@@ -2473,6 +2530,25 @@
     "summary": "American Voices in Federal Lands ActThis bill directs the Bureau of Land Management to modify its public comment system by (1) only considering public comments from U.S. citizens; and (2) deterring attempts at public involvement via artificial intelligence (AI), such as&nbsp;AI&nbsp;bots,&nbsp;by establishing and implementing a Completely Automated Public Turing Test to tell Computers and Humans Apart (CAPTCHA test).&nbsp;&nbsp;",
     "date_first_seen": "2026-03-28",
     "date_last_updated": "2026-03-28"
+  },
+  {
+    "id": "news-70738f4ac7f0",
+    "title": "Algorithmic Accountability Is Like The Game Of Clue - forbes.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONlV1M3JSZ2dpbjQ5Mm5TdEVSeGNlcVdYQ0t5Y1V1UzFVaEtMSm16OFBNOUYyWENpblpUdjI3YkFvTFZCSjNUTTZXT0NoaTNlZ3IyWmwtN2pWLU1NWTVuX1Rkd2g3OTBXZGpTSnB0aGVCaGdsMzBDRkwxcXZGNi1iXzVFc2FwRmU2clRfTEtOTlFqTEZXOXVoekxkTlB6YVFudF9aWVEwS1NEUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-07-07",
+    "date_last_action": "2025-07-07",
+    "last_action_summary": "",
+    "summary": "Algorithmic Accountability Is Like The Game Of Clue  forbes.com",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
   },
   {
     "id": "congress-gov-hr3854-119",
