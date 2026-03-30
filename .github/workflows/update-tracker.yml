@@ -80,7 +80,7 @@ jobs:
         run: npm ci
 
       - name: Copy data to frontend
-        run: cp -r data/ frontend/public/data/
+        run: mkdir -p frontend/public/data && cp -r data/* frontend/public/data/
 
       - name: Build frontend
         working-directory: frontend
