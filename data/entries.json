@@ -1,5 +1,24 @@
 [
   {
+    "id": "news-d734ef33b482",
+    "title": "Western Visayas adopts regional AI policy - newsbytes.ph",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YT20tQi1FMzdPZ2FvSkhFQWdDWWhIay1MMEI4M29BdXZ5NWFVUXZwRFBLY1FNVlVFc2ZBU2FiT1BwZkdELUdIWXMxU0Ntb1RFMl94aEdVNHZxT3VRdzVzM19RSmNla0dkU3lLOEZlVHFVdHpVV3pPbjdUaXM1a0U?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-30",
+    "date_last_action": "2026-03-30",
+    "last_action_summary": "",
+    "summary": "Western Visayas adopts regional AI policy  newsbytes.ph",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
     "id": "news-50f145e19414",
     "title": "EU Parliament Votes to Delay AI Act Compliance Deadlines - PYMNTS.com",
     "jurisdiction": "European Union",
@@ -188,6 +207,25 @@
     "summary": "EU Parliament backs delaying AI Act deadlines for biometrics, high-risk applications&nbsp;&nbsp;Biometric Update",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-9d79179b5f2b",
+    "title": "Blockchain for AI Compliance With Immutable Logs - Blockchain Council",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHRLQmRKWmlkUDNmQXlXOFRwMC0zRUlPaE9rMW1IazlMRmlCbWxBVDQ2X1U2dm9zcjZtS0Jwdmc1bXU0SmN3bVhGNHhuM2lYNmN0RElndnlCTWllYUtYTTl5cUc0aFhUZFhiS3cwTVd6Y0lxeWFRaXJjVV9vemZXcWI4Z1pBTzloNkJjbkFtMnQwQTNHdlVLdF9iVy11YlRwbG5HWEljZUpadnJVUEZQSQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-27",
+    "date_last_action": "2026-03-27",
+    "last_action_summary": "",
+    "summary": "Blockchain for AI Compliance With Immutable Logs  Blockchain Council",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
   },
   {
     "id": "fed-register-2026-05925",
@@ -990,6 +1028,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-5ad57606759c",
+    "title": "EU AI Act Brief – Pt. 5, General-Purpose AI Models - - Center for Democracy and Technology",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qR3RObGdBYW9TUGlTcTFVTlFFc3dLLWpIZ1A1T3BzTjRycnlZOTRhREZKUHo1dWlUS1hXdU1Ma1JrSS1OM0o0ZzhNekNxeEIzSVczNjZOR3dVV2N3OXc5bnpfV3Y5eHFTZTY5SHp4Tmd4YkQxVXprYkxBZ0U?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-12",
+    "date_last_action": "2026-03-12",
+    "last_action_summary": "",
+    "summary": "EU AI Act Brief – Pt. 5, General-Purpose AI Models  - Center for Democracy and Technology",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
     "id": "news-f059131456a3",
     "title": "A People-Centered Justice Approach to Implementing AI Governance | CIC - Center on International Cooperation",
     "jurisdiction": "International",
@@ -1064,6 +1121,25 @@
     "summary": "Legal Accountability for AI-Driven Autonomous Weapons&nbsp;&nbsp;Lieber Institute West Point",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-e69267e5fdf0",
+    "title": "South Korea’s Approach to AI Governance: Mitigating Risks and Ensuring AI Safety - The National Bureau of Asian Research (NBR)",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUtpUnctaDhMWUdhd2VodWxtdjZiX2pjRlZVRkk3cEJTNldQc1U3NVpIZElhdm1INkhwT1NKdU5tNDlobHkwVE5wdWRDdncwQmVuRTY0WU1ncmxIN3BqZVF3NC1SQ0pkdnN6VkQ1NnFfUlp6SldtYzBWTUxiYVpFQW1FRmd0X0FoVERiaUNLQ3BEbWYzdXNMUlNmSU1oSkxzVnVVeE5kRlFhWnFsbmQxOA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-09",
+    "date_last_action": "2026-03-09",
+    "last_action_summary": "",
+    "summary": "South Korea’s Approach to AI Governance: Mitigating Risks and Ensuring AI Safety  The National Bureau of Asian Research (NBR)",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
   },
   {
     "id": "news-c07cf6058041",
@@ -1404,6 +1480,25 @@
     "date_last_action": "2026-02-25",
     "last_action_summary": "",
     "summary": "Canada’s AI minister blames OpenAI for ‘failure’ after mass shooting  Politico",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
+    "id": "news-8d2b45082f5c",
+    "title": "What Is Shaping Artificial Intelligence Governance Policies In Southeast Asia? – Analysis - Eurasia Review",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWVRtd1JoRVFtWDdMVzByMFB3aVpLaHowN05lOUV4QThOaG9FZl9CelBlS0daUFIxM0MzUllPTG5UZTEzbVV2OFo5NmFHTFZBaFZBZzhxLVVuaFdxNG9fRHBZNHNrU0Nrb2NiWVRxeGtxTFNLLXJ4d1NwdXNPcVdSV3JYMUM2VGp2djl4Y0xjR0o1ZWtUMWVfS2V0VjRtS1BVYnB2WXVlQWFBZy1XVDFPLU5TUjA0NEJRM29yVWpDeFVhNUIw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-25",
+    "date_last_action": "2026-02-25",
+    "last_action_summary": "",
+    "summary": "What Is Shaping Artificial Intelligence Governance Policies In Southeast Asia? – Analysis  Eurasia Review",
     "date_first_seen": "2026-03-30",
     "date_last_updated": "2026-03-30"
   },
@@ -1790,6 +1885,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-76ce25538bc9",
+    "title": "How AI Safety Rules Could Backfire On Competition - Forbes",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0FIRV9QZDMyWjAxTzIyZm1OZ3NTbXBOR3pRZ1lrdkZzMzVYN2RfckYzOXpBUEV5b2pIdzJ6bGtxTlQ5dDdfSUQxTVZKMWVnRUFvNi1Lc1dWWl9aU2czMXJNQTRuTXZFdnFMd05CLTU5TWFFQ1A0dE9EUldrNzg2c1RMVUxYdk95Q2h1bGVtbnZOeU9IT0c3eGFycDZ5cjM4WEpzQWNQZUVxSHdRWXh4V1NmM2Y?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-01-08",
+    "date_last_action": "2026-01-08",
+    "last_action_summary": "",
+    "summary": "How AI Safety Rules Could Backfire On Competition  Forbes",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
     "id": "news-cd329cc3feca",
     "title": "2026 AI Legal Forecast: From Innovation to Compliance - Baker Donelson",
     "jurisdiction": "International",
@@ -1826,6 +1940,25 @@
     "summary": "CES26: EU, South Korea Frame Early Global Push for AI Regulation&nbsp;&nbsp;Broadband Breakfast",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-1f557097a9ee",
+    "title": "Scared of artificial intelligence? New law forces makers to disclose disaster plans - CalMatters",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TalN1Qm1qYzhmdTNMUHBZN21GdWJpQzBJVllXR2tNb3ZzeW9TZURHemRnMVlmNHdBNjN3WldFS0MydkNuSzVDTFlmNVBHMXB0ak5NWFRLMGFZTWhwNGNsYlhEOGxqOVJkeEg0ZEtQN0doMnRiZFpv?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-12-31",
+    "date_last_action": "2025-12-31",
+    "last_action_summary": "",
+    "summary": "Scared of artificial intelligence? New law forces makers to disclose disaster plans  CalMatters",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
   },
   {
     "id": "news-e633fe6697a1",
@@ -2587,6 +2720,25 @@
     "summary": "Small Business Artificial Intelligence Advancement ActThis bill directs the National Institute of Standards and Technology (NIST) to develop or identify&nbsp;resources for small businesses to address&nbsp;concerns relating to the use of artificial intelligence (AI). Resources must be generally applicable, technology neutral, and based on relevant voluntary international standards, among other requirements.&nbsp;NIST must coordinate with the Small Business Administration with respect to the distribution of these resources. NIST must also review and update the resources at least biennially.",
     "date_first_seen": "2026-03-28",
     "date_last_updated": "2026-03-28"
+  },
+  {
+    "id": "news-1c3637516c40",
+    "title": "New Artificial Intelligence Governance Policy - The University of Maryland, Baltimore",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeE9wbS1uOGNzVXJ0eVc3LVNSNmJmMXRGSk5jeUpVM0FYY05ieFIwb095amJlRnB5U3ozcUpNWWpyM2FiLWp1eU94Q2VnMzNpX0NKaDl5TkhfQnQzaTYtcHFCeXRKT1d5R2k2b3dCZ3R3TXJWVm1hcGUwNXNkbTJjSVlVTVA2RVk?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Education"
+    ],
+    "date_introduced": "2025-05-22",
+    "date_last_action": "2025-05-22",
+    "last_action_summary": "",
+    "summary": "New Artificial Intelligence Governance Policy  The University of Maryland, Baltimore",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
   },
   {
     "id": "congress-gov-s1833-119",
