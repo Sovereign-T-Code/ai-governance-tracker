@@ -419,6 +419,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-8ac1b9478845",
+    "title": "Notes from the IAPP Europe: Digital Omnibus package developments, end to voluntary CSAM detection and more - IAPP",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTTI5dXlBZ3NIYmhKN056TkxzTFB4OVk4VVpxNTFVWkpUZE5aRHJEOUxjUjRseUo1MUplVGFkU0FTLU1TTFBOa24zNTVPYVZ3ZkJycUxZbDRqdHBzd1JJdkNKV3ByVmlqTHhVNlFvUjhLUnQ4XzBWLWFOLXpyanlaUkxYSERHZ0dGWi1PRVlTWUhpRXlmdlotWTgzSlBta3dBQ1cwZGJvbG01Uk1ZYThrYXJtYmVfUVBENmVhbzBxS3l0MnRnZUhr?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-26",
+    "date_last_action": "2026-03-26",
+    "last_action_summary": "",
+    "summary": "Notes from the IAPP Europe: Digital Omnibus package developments, end to voluntary CSAM detection and more  IAPP",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
     "id": "news-5b62be09ce7a",
     "title": "White House Releases Long-Awaited Artificial Intelligence Framework, Setting the Stage for Federal Preemption Debate and Further Legislative Action - Akin",
     "jurisdiction": "United States — Federal",
@@ -533,6 +552,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-5e8aecc21e99",
+    "title": "Save & Close AI governance: who sets the rules for digital identity? - UOC",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsNUdxNWNITW1HVWpjdFg1a1hVSkxxNXgzRFJhYjhJamdMUFdGMk9XUVNqZHFkSDBkdzVMTVpCZWplRWRMSS1GN2xfeEpDd1IyekR5eGxoSGEwTktXUDk3YjM3eDJVdHhkY1ZXT2JFRUdHYUw2NlA4T25rczhTb1U?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-25",
+    "date_last_action": "2026-03-25",
+    "last_action_summary": "",
+    "summary": "Save & Close AI governance: who sets the rules for digital identity?  UOC",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
     "id": "news-74e1f8aec419",
     "title": "White House Releases National AI Policy Framework - K&L Gates",
     "jurisdiction": "United States — Federal",
@@ -626,6 +664,25 @@
     "summary": "Deregulating artificial intelligence will not boost EU tech markets&nbsp;&nbsp;Bruegel",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-48a1386ce691",
+    "title": "Asia’s AI era - Law.asia",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxalBiZWJtNUhSN1FJQTBJeUk3TG9WakZWdHF3cFBmZE1RMzM4aUNSbWZac0dCeFJKcVpkX1AyOVI4TkRQNFFUVDlzXzMySTJES0N1YVY2bEhSQQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-24",
+    "date_last_action": "2026-03-24",
+    "last_action_summary": "",
+    "summary": "Asia’s AI era  Law.asia",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
   },
   {
     "id": "news-0a3c824b38ee",
@@ -740,6 +797,44 @@
     "summary": "The Trump administration is targeting state AI legislation - again. Why that matters&nbsp;&nbsp;ZDNET",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-d90d218421d0",
+    "title": "White House Unveils A.I. Policy Aimed at Blocking State Laws - The New York Times",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2E3X3Y5TVA4RHU2NlVkNUcyVnNSbkpiam56UGtrZTlqNnJDanFoZERvQzZjWU1qcUdIbDUwaWxyTGVnRXhWekp1VGt5Q3V3ZkZTaXh2OTVzNjVFVnNmZmhuN3ctdkducWU1WjItWnNJNHVGcERmb0Q2ZnBoSmJfNXZMYnVCa3N3RVFON1dpNW9Gb3ZMSHVLM0VHeUhTcUl5RjN4dUxOTWVFYlNKdk5N?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-20",
+    "date_last_action": "2026-03-20",
+    "last_action_summary": "",
+    "summary": "White House Unveils A.I. Policy Aimed at Blocking State Laws  The New York Times",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
+    "id": "news-8c3de2a7c9cc",
+    "title": "Lineaje Adds Ability to Automatically Apply Governance Policies to AI Components - DevOps.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa0JEekVVVHR2NmVpd0kxeWstNWFXWnJmMlgwNjZSV2pqajh1anE5akpUdlNVblJNd3JyZW43NlBEdnFySHBteTJyQ2xnSGdzUFZEUDRNYkJBaDNNc0ZHSG9DVmtHR2dVaGdpalJJOXFIZGk1OHhVSTNROUhWWGxqM2pMcjd3NGFIVExqbXN4N1N3T0JzUGwzVjZxX0k2bDFzN2c?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-19",
+    "date_last_action": "2026-03-19",
+    "last_action_summary": "",
+    "summary": "Lineaje Adds Ability to Automatically Apply Governance Policies to AI Components  DevOps.com",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
   },
   {
     "id": "news-6e01c14ce930",
@@ -857,6 +952,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-a46d070dc78e",
+    "title": "Augmented intelligence in medicine - American Medical Association",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPajkxSnUyTzFoTVNOdGdtNFZqQlA3bW5SWDJiT18ybWEzR3dZMUJiS1N3dzNSclU2NFkwNC0tcUVxRTFCVFlpVFl4TWctSVdrZ25DaUh5MnR1VTdwUXA4NW9LOWc3T3Y1SzFDR0ZreFl6Y2M2WnJwTU9OcGFWMXpWZ2tXS2VBcTZSaGd2SzdPQmhjaUU5alE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Healthcare"
+    ],
+    "date_introduced": "2026-03-13",
+    "date_last_action": "2026-03-13",
+    "last_action_summary": "",
+    "summary": "Augmented intelligence in medicine  American Medical Association",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
     "id": "news-4d717024700f",
     "title": "MEPs reach preliminary political agreement on AI omnibus - IAPP",
     "jurisdiction": "International",
@@ -914,6 +1028,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-f872b5afa46c",
+    "title": "Military AI Policy by Contract: The Limits of Procurement as Governance - lawfaremedia.org",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcWs2cm91dDIybXp2OUl6ejhMQmRhZ0Vfay1weW1mWC1qaGNuN1J3aTZhRG9pSnlkUm5yMnV3S24yNm9lNUlWWFc1NXBhQ0x5SVBWNk5USVlCNzZVbGdEYUtRa3J0cDU4d0JidGVncDRNYzBQWWFpSnFJZVpSeV9PcTFOYV9HMzNDLUlad1c5WmpGc0hBQXBUTjRZLWNiUkNrYms4OGdGMThSRk5v?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Defence/National Security"
+    ],
+    "date_introduced": "2026-03-10",
+    "date_last_action": "2026-03-10",
+    "last_action_summary": "",
+    "summary": "Military AI Policy by Contract: The Limits of Procurement as Governance  lawfaremedia.org",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
     "id": "news-576fdf5cd8e3",
     "title": "Legal Accountability for AI-Driven Autonomous Weapons - Lieber Institute West Point",
     "jurisdiction": "International",
@@ -931,6 +1064,44 @@
     "summary": "Legal Accountability for AI-Driven Autonomous Weapons&nbsp;&nbsp;Lieber Institute West Point",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-c07cf6058041",
+    "title": "Military AI Policy Needs Democratic Oversight - IEEE Spectrum",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9uT1otYlpyM2Y0ck91R0tVc1lfSU95S0dMR3VzMVA4b05GN1pZNTJuanRpR2VsSEtGQ2lBM3FIVU50MnhQdXo4ZHQxeHJqMkhxVmdtcnFGUTNWTTVi0gFwQVVfeXFMUGxvMWJEbnIxMHRsekVodjFGMjJraXJqd0FwcXU0cWRjT0hSRnhUb0o0VjdDRDRYRTZoT09nZ1M0YjhuN3R6dEJLbVZtNm1mVGlJRjZiT3lXZGNGaDhFRThzUXNUVi1sUHY4cGF3YkRQaQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Defence/National Security"
+    ],
+    "date_introduced": "2026-03-08",
+    "date_last_action": "2026-03-08",
+    "last_action_summary": "",
+    "summary": "Military AI Policy Needs Democratic Oversight  IEEE Spectrum",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
+    "id": "news-2d7d10c7b008",
+    "title": "Should the government regulate AI in Canada? - CBC",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11Tk90Q0FxZzc3WFpvS1ltYUYtaUZoNW0tR0Vha3RiWnhuWHdfb1BrNVNFa0F3RENkcHRrWHRPWUhleHQtWE1MdlAwYXduRW9CWmRkNnkxZkIzdw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-08",
+    "date_last_action": "2026-03-08",
+    "last_action_summary": "",
+    "summary": "Should the government regulate AI in Canada?  CBC",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
   },
   {
     "id": "news-3c4c8bca4d42",
@@ -1197,6 +1368,63 @@
     "summary": "Minister ‘disappointed’ in OpenAI, but why is AI regulation taking years?&nbsp;&nbsp;Global News",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-91e80540d7f8",
+    "title": "Canada’s AI minister blames OpenAI for ‘failure’ after mass shooting - Politico",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUGp0eElUallQLXdyeEotV1FhaUp3X3Zxc1lYSGUzdFJOMm9PZkVTUkdXOUNtX20zTHBOTHNIWEg0a1BpTHBoYk9CRDZnRFUyYlh4azMwSGdsa1l1WUpJVHUzT2V4blYxMWxGenhtQ3ZnSExvdlhiQ1ZyelBlTDBvX1BkMS16ekdUR0EyUzhB?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-25",
+    "date_last_action": "2026-02-25",
+    "last_action_summary": "",
+    "summary": "Canada’s AI minister blames OpenAI for ‘failure’ after mass shooting  Politico",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
+    "id": "news-36053588f667",
+    "title": "Institutional sovereignty is the missing layer in AI governance - cio.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcGlWVVR3QXFQLWVhbHoySkM5d1RyR2VuOFdVc3BQdXB4YURyU2dHV2h6R0pFUzBYX3pGVVFLMWtNYlRqbDZxYnBkTlpUcUd5SUY4ZXhFazg3UTV2MDVvOEN1NUx1YWRSNjhBdHU2MG1seU80SzhSRnIzQUV2VHBsbXNHVFdCeXlsSUU0cmlzS1pRUUNkRkt1UzFmR3hFdnhsYVpHV0ZnVQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-24",
+    "date_last_action": "2026-02-24",
+    "last_action_summary": "",
+    "summary": "Institutional sovereignty is the missing layer in AI governance  cio.com",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
+  },
+  {
+    "id": "news-fec70e1a9cc8",
+    "title": "New data reveals AI governance gap between policy and practice, creating ESG risks - Thomson Reuters",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUjVnbVktUXNLek5TaTdVSTlEbTJIYXo2R0pwYkd2NjFQcVZhSXRDTDBGT19NRkw5UlN6dEFGemZjR3NkLTRjNkM0eUllbDNNWENSTW1kOGZpbElBbjNxdFlrUXNwQ29YZTF0NHdvcE1TZ0dEOVBleUFUVFFGZXozNTBmOTdYcUNRN0NSekJjSQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-23",
+    "date_last_action": "2026-02-23",
+    "last_action_summary": "",
+    "summary": "New data reveals AI governance gap between policy and practice, creating ESG risks  Thomson Reuters",
+    "date_first_seen": "2026-03-30",
+    "date_last_updated": "2026-03-30"
   },
   {
     "id": "news-0f77bdc751c5",
