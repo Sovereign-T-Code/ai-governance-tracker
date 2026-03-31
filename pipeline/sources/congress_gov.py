@@ -202,13 +202,17 @@ def _ordinal(n):
     return f"{n}{suffix}"
 
 
-def fetch():
+def fetch(from_date=SEARCH_START_DATE):
     """
     Fetch AI-related bills from Congress.gov via the summaries endpoint.
 
     Strategy: paginate through recent bill summaries and keyword-filter
     for AI-related content. The summaries endpoint provides full text,
     making it much better for discovery than the bills endpoint.
+
+    Args:
+        from_date: ISO datetime string for the start of the search window
+                   (e.g. "2020-01-01T00:00:00Z"). Defaults to SEARCH_START_DATE.
 
     Returns a list of entry dicts, or an empty list on failure.
     """
@@ -239,7 +243,7 @@ def fetch():
             "limit": limit,
             "offset": offset,
             "sort": "updateDate+desc",
-            "fromDateTime": SEARCH_START_DATE,
+            "fromDateTime": from_date,
             "toDateTime": now_iso,
         })
 
@@ -272,3 +276,62 @@ def fetch():
     entries = list(bills_found.values())
     logger.info(f"Congress.gov: collected {len(entries)} AI-related bills from summaries")
     return entries
+
+
+def refresh(entry):
+    """
+    Re-fetch the current status of a single Congress.gov bill.
+
+    Calls the bill detail endpoint directly using the bill's ID components.
+    Returns an updated entry dict, or None if the refresh failed.
+
+    Args:
+        entry: An existing entry dict with id in the format
+               "congress-gov-{bill_type}{bill_number}-{congress}"
+    """
+    try:
+        api_key = _get_api_key()
+    except ValueError as e:
+        logger.error(str(e))
+        return None
+
+    # Parse ID: congress-gov-{bill_type}{bill_number}-{congress}
+    match = re.match(r"congress-gov-([a-z]+)(\d+)-(\d+)$", entry["id"])
+    if not match:
+        logger.warning(f"Cannot parse Congress.gov ID for refresh: {entry['id']}")
+        return None
+
+    bill_type, bill_number, congress = match.group(1), match.group(2), match.group(3)
+
+    session = requests.Session()
+    session.headers.update({
+        "User-Agent": "AIGovernanceTracker/1.0 (academic research)",
+        "Accept": "application/json",
+    })
+
+    data = _make_request(
+        session,
+        f"{API_BASE}/bill/{congress}/{bill_type.upper()}/{bill_number}",
+        {"api_key": api_key, "format": "json"},
+    )
+
+    if not data:
+        logger.warning(f"No response refreshing {entry['id']}")
+        return None
+
+    bill = data.get("bill", {})
+    if not bill:
+        return None
+
+    latest_action = bill.get("latestAction", {})
+    action_date = latest_action.get("actionDate", entry.get("date_last_action", ""))
+    action_text = latest_action.get("text", entry.get("last_action_summary", ""))
+
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+    updated = dict(entry)
+    updated["status"] = _normalize_status(action_text)
+    updated["date_last_action"] = action_date
+    updated["last_action_summary"] = action_text
+    updated["date_last_updated"] = now
+    return updated

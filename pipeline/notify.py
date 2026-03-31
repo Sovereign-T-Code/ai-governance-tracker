@@ -21,6 +21,7 @@ logger = logging.getLogger(__name__)
 
 SMTP_HOST = "smtp.gmail.com"
 SMTP_PORT = 587
+TRACKER_URL = "https://sovereign-t-code.github.io/ai-governance-tracker"
 
 
 def send_notification(new_entries):
@@ -59,15 +60,18 @@ def send_notification(new_entries):
     ]
 
     for entry in new_entries:
-        entry_type = entry.get("type", "legislation").capitalize()
-        lines.append(f"[{entry_type}] {entry.get('title', 'No title')}")
+        entry_type = entry.get("type", "legislation")
+        desc_label = "Summary" if entry_type in ("legislation", "regulation", "directive") else "Description"
+        description = entry.get("summary") or entry.get("title", "No title")
+        lines.append(f"[{entry_type.capitalize()}] {entry.get('title', 'No title')}")
         lines.append(f"  Jurisdiction: {entry.get('jurisdiction', 'Unknown')}")
         lines.append(f"  Status:       {entry.get('status', 'Unknown')}")
         lines.append(f"  Domains:      {', '.join(entry.get('domains', []))}")
-        lines.append(f"  Link:         {entry.get('source_url', 'N/A')}")
+        lines.append(f"  {desc_label}:    {description}")
         lines.append("")
 
     lines.append("=" * 60)
+    lines.append(f"View the full tracker: {TRACKER_URL}")
     lines.append("This is an automated message from AI Governance Tracker.")
 
     body = "\n".join(lines)
