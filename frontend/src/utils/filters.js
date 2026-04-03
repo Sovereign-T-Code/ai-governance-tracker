@@ -70,6 +70,7 @@ export function extractFilterOptions(entries) {
 export const JURISDICTION_LABELS = {
   'CA-FED': 'Canada — Federal',
   'CA-ON': 'Canada — Ontario',
+  'CA-QC': 'Canada — Quebec',
   'US-FED': 'United States — Federal',
   'EU': 'European Union',
   'INTL': 'International',
@@ -79,6 +80,7 @@ export const JURISDICTION_LABELS = {
 export const JURISDICTION_COLORS = {
   'CA-FED': 'bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-200',
   'CA-ON': 'bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-200',
+  'CA-QC': 'bg-red-100 text-red-800 dark:bg-red-900 dark:text-red-200',
   'US-FED': 'bg-blue-100 text-blue-800 dark:bg-blue-900 dark:text-blue-200',
   'EU': 'bg-amber-100 text-amber-800 dark:bg-amber-900 dark:text-amber-200',
 }

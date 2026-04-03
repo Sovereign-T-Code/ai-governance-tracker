@@ -332,6 +332,17 @@ def main():
     else:
         logger.info("No new entries — skipping notification")
 
+    # Run laws pipeline (separate from main entries pipeline)
+    try:
+        from pipeline.laws_pipeline import run_laws_pipeline
+        laws_changes = run_laws_pipeline()
+        if laws_changes > 0:
+            logger.info(f"Laws pipeline: {laws_changes} law records updated")
+        else:
+            logger.info("Laws pipeline: no changes")
+    except Exception as e:
+        logger.error(f"Laws pipeline failed: {e}")
+
     logger.info("Pipeline run complete")
     return 0
 

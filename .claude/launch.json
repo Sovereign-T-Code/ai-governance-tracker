@@ -3,8 +3,9 @@
   "configurations": [
     {
       "name": "frontend",
-      "runtimeExecutable": "bash",
-      "runtimeArgs": ["-c", "cd frontend && npx vite --port 5173"],
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["vite", "--port", "5173"],
+      "cwd": "frontend",
       "port": 5173
     }
   ]

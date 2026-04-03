@@ -6,9 +6,11 @@ import DataTable from './components/DataTable'
 import Timeline from './components/Timeline'
 import NewsFeed from './components/NewsFeed'
 import ViewToggle from './components/ViewToggle'
+import SectionToggle from './components/SectionToggle'
 import SearchBar from './components/SearchBar'
 import Filters from './components/Filters'
 import ThemeToggle from './components/ThemeToggle'
+import LawsSection from './components/laws/LawsSection'
 
 export default function App() {
   const { entries, meta, loading, error } = useEntries()
@@ -21,6 +23,8 @@ export default function App() {
   const filtered = useMemo(() => filterEntries(entries, filters), [entries, filters])
 
   const currentView = filters.view || 'table'
+  const currentSection = filters.section || ''
+  const isLaws = currentSection === 'laws'
 
   if (loading) {
     return (
@@ -44,12 +48,14 @@ export default function App() {
       <header className="border-b border-gray-200 dark:border-gray-800 px-4 py-3">
         <div className="max-w-7xl mx-auto flex items-center justify-between gap-4">
           <h1 className="text-lg font-bold whitespace-nowrap">AI Governance Tracker</h1>
-          <div className="flex-1 max-w-md">
-            <SearchBar
-              value={filters.q}
-              onChange={(q) => setFilters((prev) => ({ ...prev, q }))}
-            />
-          </div>
+          {!isLaws && (
+            <div className="flex-1 max-w-md">
+              <SearchBar
+                value={filters.q}
+                onChange={(q) => setFilters((prev) => ({ ...prev, q }))}
+              />
+            </div>
+          )}
           <ThemeToggle />
         </div>
       </header>
@@ -57,32 +63,44 @@ export default function App() {
       {/* Main content */}
       <main className="flex-1 px-4 py-4">
         <div className="max-w-7xl mx-auto space-y-4">
-          {/* View toggle + Filters row */}
-          <div className="flex flex-col sm:flex-row sm:items-start gap-3">
-            <ViewToggle
-              current={currentView}
-              onChange={(view) => setFilters((prev) => ({ ...prev, view }))}
-            />
-            <div className="flex-1">
-              <Filters
-                filters={filters}
-                toggleArrayFilter={toggleArrayFilter}
-                setFilters={setFilters}
-                options={options}
-                clearFilters={clearFilters}
-              />
-            </div>
-          </div>
+          {/* Section toggle */}
+          <SectionToggle
+            current={currentSection}
+            onChange={(section) => setFilters((prev) => ({ ...prev, section }))}
+          />
 
-          {/* Entry count */}
-          <div className="text-xs text-gray-500 dark:text-gray-400">
-            Showing {filtered.length} of {entries.length} entries
-          </div>
+          {isLaws ? (
+            <LawsSection />
+          ) : (
+            <>
+              {/* View toggle + Filters row */}
+              <div className="flex flex-col sm:flex-row sm:items-start gap-3">
+                <ViewToggle
+                  current={currentView}
+                  onChange={(view) => setFilters((prev) => ({ ...prev, view }))}
+                />
+                <div className="flex-1">
+                  <Filters
+                    filters={filters}
+                    toggleArrayFilter={toggleArrayFilter}
+                    setFilters={setFilters}
+                    options={options}
+                    clearFilters={clearFilters}
+                  />
+                </div>
+              </div>
 
-          {/* Active view */}
-          {currentView === 'table' && <DataTable entries={filtered} />}
-          {currentView === 'timeline' && <Timeline entries={filtered} />}
-          {currentView === 'news' && <NewsFeed entries={filtered} />}
+              {/* Entry count */}
+              <div className="text-xs text-gray-500 dark:text-gray-400">
+                Showing {filtered.length} of {entries.length} entries
+              </div>
+
+              {/* Active view */}
+              {currentView === 'table' && <DataTable entries={filtered} />}
+              {currentView === 'timeline' && <Timeline entries={filtered} />}
+              {currentView === 'news' && <NewsFeed entries={filtered} />}
+            </>
+          )}
         </div>
       </main>
 

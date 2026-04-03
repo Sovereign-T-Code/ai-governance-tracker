@@ -9,7 +9,7 @@ import { useState, useCallback, useEffect } from 'react'
  */
 
 const ARRAY_PARAMS = ['jurisdiction', 'status', 'domain']
-const STRING_PARAMS = ['q', 'from', 'to', 'view']
+const STRING_PARAMS = ['q', 'from', 'to', 'view', 'section']
 
 function parseParams() {
   const params = new URLSearchParams(window.location.search)
@@ -54,6 +54,7 @@ const DEFAULT_FILTERS = {
   from: '',
   to: '',
   view: 'table',
+  section: '',
 }
 
 export default function useFilterParams() {
