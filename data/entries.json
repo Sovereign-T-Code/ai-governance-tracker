@@ -1,5 +1,62 @@
 [
   {
+    "id": "news-5045edd0b412",
+    "title": "New Food Allergen Laws Are Pushing Restaurants Toward AI - franchisetimes.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZW1DZ2tubUlpSnJNU1gyVHdSc1V0azUtWGNod1dJRXp5U1pJZEpzZzlDdWxFODVrRTNHZU1CdzZseGZrbTBTTWgxNnBxR1poZ0g0cV9zRHBmSG02bFVldFRSckFLdk5SU1RUVFNNTnd4VldMLTZhaGZCcUFpdHhtVlVqVEVoWm9IYjE4WlhGZ3FZRXhmWE1KRTR6VFh6NDktaXNSMzdrbUMwc2VXMWxXbFVjYndGNTFzdlJWRVpZdUpIdHl3cXAxb3QzY05CcGhwQ3VGM2U1VXl0a0lGekM2SjhSaW1ybU0?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-03",
+    "date_last_action": "2026-04-03",
+    "last_action_summary": "",
+    "summary": "New Food Allergen Laws Are Pushing Restaurants Toward AI  franchisetimes.com",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-6bebcb30232c",
+    "title": "AI & Tech Brief: Adam Gleave at FAR.AI on safety and regulation - The Washington Post",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVTJFM3V4R2ZDbUJ0RXV2SV9aS0h5QmJISDZGUng0OVB1b0xZNGpaVHZtQ25DMl9zSTNTZkhtSl9zT3RtMUhaVDQ0d1Y4aWtiRTZnSUVlbHc1LTI2UC1oMTBXX19zNlp4Y1g4VVhlX05xTFRYa3hQa3ZaejNwZDN6Xy1xZ3ZSWEUwcjlzR05GNFZaYXpzV2Nqa290UnBtdElVZU5oOU01Q2Zyb25La0NTUkNlVTZFM3A4a256d1hpUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-03",
+    "date_last_action": "2026-04-03",
+    "last_action_summary": "",
+    "summary": "AI & Tech Brief: Adam Gleave at FAR.AI on safety and regulation  The Washington Post",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-1a22cc591da0",
+    "title": "TTA establishes AI security standards group to address emerging risks - Telecompaper",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPREVBM1BSQkt4WjA2eW5RXzNxOVN4ZDNIaUN2VWNoQURCMTJyX0lZZWhjN185Q09UcXZaeUpwWjlONzJzcDh4TXZHczBUVHlrbWRTN0hOQ0N1WTc0WXRlUjlyckhOYUoxdlEwOU5RWERHWVpMZk40WUluakZMNlpOb3ZEOXVxdkxiY0R5Q25GYldVeENxT3AxNUFCUTQ2cWQzbmNwQTZXT2U4eHdwVzRfMVhn?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-03",
+    "date_last_action": "2026-04-03",
+    "last_action_summary": "",
+    "summary": "TTA establishes AI security standards group to address emerging risks  Telecompaper",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
     "id": "news-0985cd3a7760",
     "title": "Openlayer Positions AI Governance Platform for EU AI Act Compliance Demand - TipRanks",
     "jurisdiction": "European Union",
@@ -17,6 +74,215 @@
     "summary": "Openlayer Positions AI Governance Platform for EU AI Act Compliance Demand  TipRanks",
     "date_first_seen": "2026-04-02",
     "date_last_updated": "2026-04-02"
+  },
+  {
+    "id": "news-cbf6cf7fb80d",
+    "title": "AI Enforcement Accelerates as Federal Policy Stalls and States Step In - Morgan Lewis",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNS3Rka2VjOVZWNkM5eFBSMktRV3VrRHJkdnBHM2NKd0JXbmpwU3pJN0REZHQybmRXaXNZa2NJSVNaWHRvRlp1SnhzS1pxOXU5dlY3VjNMaE1kSjJGakZkQlBqY0g4R0xBTm5JekpDOWtmbFBiMU1RVHdOUFlXbHBpbEozSG4xbkhTU2xSZE1FRXBHYl9jZDNTVlE3SElpMVRCM25za1hzV0FKcGNOd3J3Sw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "AI Enforcement Accelerates as Federal Policy Stalls and States Step In  Morgan Lewis",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-8c536e2b1ab9",
+    "title": "The National Policy Framework on Artificial Intelligence: Implications for Employers Using AI - JD Supra",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmZWZWZybjN4aW5aLWRmdmt5YzRCTk9KcmpwcXBKbUxZN2lSajNqMDU1S1pCVTdXb0RXaWdycW54dFdUUXVRTC1ZN0xldTBPQWpwR1doYi0xTk83SnJJWlJtNVppU0Noc291d09iUVp6QkVjbUZuVXpuVWlLVm8wcA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "The National Policy Framework on Artificial Intelligence: Implications for Employers Using AI  JD Supra",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-41e2b6dee716",
+    "title": "New National AI Framework: What State and Local Leaders Need to Know - govtech.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVC16MV9LTUZPSlZqLWpuU2VXOVBOQVVNRzQ5cm9OdmZSR1NFcDdPc0xqcTZsc0N5XzMwdkhlWWJXQ3l2bVIyMGhKenEwVy1YZkYwcUtaNVVmbG9rZnM3TWVxM0VmcXA5ZWJTN08tMktPQlZ3dkFUVnhEc1YySHNVR3hxVjMxUnkwZU9yNWM4SDFPekhJeGM2Y2dvZ2FwRGc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "New National AI Framework: What State and Local Leaders Need to Know  govtech.com",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-f000e0c10a03",
+    "title": "The BR Privacy, Security & AI Download: April 2026 - The National Law Review",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzZpVVRUUGlyblhDcHgtQl9nNkozWjJqTzVsdlpkS1FqQjZYLUdqaWhMdG1JVHVNd2dIdDh3OW9DWUE3TUhMMXBlTFh3ZlJwenBGQVdYenliU19SM2tYVDVOZlMyajVoZ0ZfTjFrZkhWeDJLR1Vic25mbGZlLVJHUtIBhgFBVV95cUxOSXhOSGYxNzJJQ1NDQ2tvVEJBalhzR0p4SHdjUVo1X2d0NFM5T2lZb3QxVl9YYUJmY01Gb3owUVdSQkxWTktSVmQ0a3VLNWQ3c0NjU0pBTWpwNUZ1aUJGZERFWE90MjdVLVJtYTBsQ2VYcFdWVHF3TldsYXpJVlB4TmlGeWNfQQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Privacy"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "The BR Privacy, Security & AI Download: April 2026  The National Law Review",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-fa4f55e0803f",
+    "title": "AI laws overlook environmental damage – here’s what needs to change - The Conversation",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWmpmbW9xODVsVkw3TnN0akhwMXE1NjlIVEVhV1VKWWx0ejhYaTNydUpBRDZURXZvMTBaOC0tRWZJUm5ENFk5RUVVXy13YkZYcFN0U1huRmVaS05wd2tfaUQ4bUZtYUhmRFRZZUpEbERubEVTSjJPYktQeFVOT3Jjbnk2NGVIYWV6dGxIQUJjeXFJRWlHZnk2S2dhX3F1QS04?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "AI laws overlook environmental damage – here’s what needs to change  The Conversation",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-8a40af5627d2",
+    "title": "EU’s AI Act Delays Let High-Risk Systems Dodge Oversight - Tech Policy Press",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFRLODRiRlFST2RDZHF6clViQlo2VmtMa1d6QzZLZ1JsRkdwcWstUllzd2Y5bkc2OS0tMTRsdTRsVzFrUFpOc2NjUXJVS2gtWS1BeWN1X2Job0VXbFdnNGR2WXJVR1NWb1dZb2ZkQWl5Mm9WcTNGVjVyMF9DcmtDMWxLUXgyTlIzd3g4OA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "EU’s AI Act Delays Let High-Risk Systems Dodge Oversight  Tech Policy Press",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-0b0a6342c511",
+    "title": "From Riverside to the World: What AI Governance Demands of the Indian-American Diaspora - American Kahani",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYURieFhQcnhJOEpNX1VHUGNvMGpIb3ZKNDdBdEQzRkFPQml4OXpqbFBJQnBfU3lndlNRZU8ycjNiU1BiUmVWbGhNekZROVh3Yl9VWmNETWk1ZEQ4d0pLR0g1RnBRN05QSUZaSUhoQ1JIeGNMRWZsSXIyUDF0amZndE9xTzhTSWhFNW9aRGJMUWh0YTFwZnZlV3MtWWRhSWg0WjI3SWRpcGZRZEJQeTJNcjVGWHZBb0h1SkI4elJKdGd0RmRlb1E?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "From Riverside to the World: What AI Governance Demands of the Indian-American Diaspora  American Kahani",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-e730c10197f3",
+    "title": "Anthropic, Australia Agree To AI Safety Rules 04/02/2026 - MediaPost",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWjNLSGMwdWNCVHpvMXlqQ2NpUG82TjlnODVHRjhGTWhtVFV6eVJNWlJOYzY3TDhuS2lXNG54WDBMRjFPNnNKcFdfcFdlc2pUamFfaFVrdU9nTHBlY1ZNXzlSeDBfWkMwUmt6UFR0aXNJdGxCcXFINXhWNEpqSnptektOUE8xYzdHN0xfWV9FbEJCQmxXNW5DZU11bklnRlRDMXJoYXBR?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "Anthropic, Australia Agree To AI Safety Rules 04/02/2026  MediaPost",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-413fb321dfbe",
+    "title": "The pace of AI evolution: Q&A with Jamie Greenberg - Torys LLP",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQmx2ci1Ya3BaSTIxLUFvOUdBSnlOUGVCMnFZSDI1dE01U0JLOTZoQlJMUl9iajlpbFM2QngwQzBTSmRQc3doYkxVUFByMW85eUhvODFxLUdBSFZTejhjd01Tci1kcU1vWFdBR296ZlFyLU13QnRqekdFUmhjckZlbFhiSlE0ZWRvZnowMTJSamM?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "The pace of AI evolution: Q&A with Jamie Greenberg  Torys LLP",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-958b9e3e4918",
+    "title": "How EU proposals to “simplify” tech laws will roll back our rights in order to feed AI - Amnesty International",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IMHZfR0ZqNjFMaGRhNUNNQm9yTHRrTkdKSVJDSEpkS1ZPd0Z1WU5xYmFRSklIdHQtSHRtTVhUaFFURUZpM0xoZWxVdUhmMzR2THRTamMtOTRmU0pOVWd3LXpFbDBKQk1PaGdYY0NxdkVWSmI1M0E5N2JB?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "How EU proposals to “simplify” tech laws will roll back our rights in order to feed AI  Amnesty International",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-ddaacf19d96c",
+    "title": "EU and UK AI Hiring Laws Put US Employers at Legal Risk, Law Firm Warns - pymnts.com",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT1JiUkYxQ1lNcF9BOGdVYmZPLUZfQnAtOTlSNXM2NnExN1JLc1d0d1IwcEoyV0JpUVEyOXRTU0l0ZGJCd3lDV2YwWm9wWnZsSzhxcHNBSGpwMy0tQlJmU05qT1VhVG9OWTlzUUpkRUlHaEZHbVpTeHJfem9mQWx2aE04WS1TeDRvSTJ0dzZsb0ZvbVZWR1N6WXJRN1BoaFJKalJrNmNjVQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Employment"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "EU and UK AI Hiring Laws Put US Employers at Legal Risk, Law Firm Warns  pymnts.com",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
   },
   {
     "id": "news-c5a3ae4372f1",
@@ -495,6 +761,25 @@
     "date_last_updated": "2026-04-02"
   },
   {
+    "id": "news-7cb2befea87d",
+    "title": "The empty national AI policy framework: Who is in charge of those in charge? - Brookings",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTDMxOFI5c0ZaQWk1TFliRVVJT3RLc1ZwM09rMFdDLW5lZHpRU204ek10NklvQ0QxVjJ6Q28wV3VRRWlTXzdLdzRza3Bja3pOczF6T0JSZjVWb3FmZEZYUGc4WU8tc1JWZ3pTTm9kdFFMbnB6S0Y0a25IazI1M2tRN25iVkV1TW5XUFlKWDl1QTFnZkY3NUVISXJiS1ZjVnlOdEVDQlp6NmNzd1BUanlj?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-31",
+    "date_last_action": "2026-03-31",
+    "last_action_summary": "",
+    "summary": "The empty national AI policy framework: Who is in charge of those in charge?  Brookings",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
     "id": "news-d734ef33b482",
     "title": "Western Visayas adopts regional AI policy - newsbytes.ph",
     "jurisdiction": "International",
@@ -778,6 +1063,25 @@
     "summary": "The 2026 Audit Trap: Why Your AI Policy Won’t Save You from the EU AI Act  DataDrivenInvestor",
     "date_first_seen": "2026-04-02",
     "date_last_updated": "2026-04-02"
+  },
+  {
+    "id": "news-bdfeea3447df",
+    "title": "Ushering in a new era of trusted AI - McKinsey & Company",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2lZVUJ4MTV4MmZuZDRsbnY3c2JkYlAxaGx5UVNkX3JEQVF2ZkxTSXcwVGFteXdSbmdfLVVydlcxVk10NnFtWkZBTFVjaTBRaWN2TGJ5TFZSTjU2MngtclF1TWxTbEQza2xMUjU2dXcwYjVWclVEZ0wwVGNIS3pUWHktWmhWcDd1YUR2eVBRTHEtbFFNUDYyblBVWmh6ZEY5QzhRdS1ielJBYi1BWXRfQw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-30",
+    "date_last_action": "2026-03-30",
+    "last_action_summary": "",
+    "summary": "Ushering in a new era of trusted AI  McKinsey & Company",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
   },
   {
     "id": "news-50f145e19414",
@@ -1558,6 +1862,25 @@
     "summary": "Vietnam’s New AI Law Balances Innovation Push With Tight State Control&nbsp;&nbsp;Tech Policy Press",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-83cb8e9ddf0d",
+    "title": "Regulating Artificial Intelligence Across Borders - The Regulatory Review",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcFRNZXZqRDltR1R2Q0xkdFJ1dHFpdmtOWlgtX3FyTm1mejkyVlBXNzN2RzJwZE9nSVJLOHJvbG9udlZiMmVoNi1kbnI4UlQ0Q2FKZXg1U0Y5clZJWVNoV2E2REhiNkhUTmZXV18tVVdLSFkwTEIwOWlXQW1rODUwYi1TTXREdnZ5ZmxBQXNaaGkxNnd3bjAwbkRwU1pYSjFzdEE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-22",
+    "date_last_action": "2026-03-22",
+    "last_action_summary": "",
+    "summary": "Regulating Artificial Intelligence Across Borders  The Regulatory Review",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
   },
   {
     "id": "news-3a7bbab84470",
@@ -2702,6 +3025,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-94d46cdcc1ad",
+    "title": "Wyden remains in support of Section 230, the internet company protection law he authored 31 years ago - NPR for Oregonians",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQLTVzNUR2dTBOX3ZJc1VQczZWbE1lRGFWTDVlZ1QteDJHT0hrVUp2VUU0Q0JSdFg5a2lnQkJkV25vRXY3el83X216SHZTcEV1bXI0WVlLUzk2NHBTNHhDb2M4UTFvUnVPd2RUaERTZTh5elZUSy0wczdZVWUwenJrUWozQjVGREc5eEw5emMyUnp1X0YybURYQy1WU1JvMm56blB3VmczWi10Qnp4TnVZNTNQQkJyRGRYckNlc2xSdUQydEZLZjVETDlEZDIxZ01Pb1FPNzVjQmptRkZtM1JrT3F1bDVOdkE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-12",
+    "date_last_action": "2026-02-12",
+    "last_action_summary": "",
+    "summary": "Wyden remains in support of Section 230, the internet company protection law he authored 31 years ago  NPR for Oregonians",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
     "id": "news-778ba54ea9ac",
     "title": "Canada’s AI task force is split on how to deal with the tech’s risks - The Logic",
     "jurisdiction": "Canada — Federal",
@@ -2776,6 +3118,25 @@
     "summary": "Critics warn America’s ‘move fast’ AI strategy could cost it the global market  CyberScoop",
     "date_first_seen": "2026-03-31",
     "date_last_updated": "2026-03-31"
+  },
+  {
+    "id": "news-3b7d1db18a77",
+    "title": "Enforcement of Colorado AI Act Delayed Until June 2026 - Hunton Andrews Kurth LLP",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEhTYmtUdi1aS0ZnQmVmOEtncVNSMWo5aXlWeHY0SE40aHBiV01CN01namtycW9ZV0hqSGdnNGZicTFKNTBfU2VpandsTkZSWFdzdWl2VXJ6VFBEYTdsblN4dENEdjR0eHlzUy1takgyck1hTnRpeDN2QmJZUWlRVy1KTzdweEZxOUlWY2hqWFlJOE5OOVBsekNRNmREejlhUzNCdmNyT2V1UTN5eGFPdnpn?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-07",
+    "date_last_action": "2026-02-07",
+    "last_action_summary": "",
+    "summary": "Enforcement of Colorado AI Act Delayed Until June 2026  Hunton Andrews Kurth LLP",
+    "date_first_seen": "2026-03-31",
+    "date_last_updated": "2026-04-03"
   },
   {
     "id": "fed-register-2026-02301",
@@ -2873,6 +3234,25 @@
     "date_last_updated": "2026-03-30"
   },
   {
+    "id": "news-f758316e4cb5",
+    "title": "Navigating the AI Employment Landscape in 2026: Considerations and Best Practices for Employers - K&L Gates",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa2Z0cmt4YTRTSlUya013U2wzcl9QTXhrMHZzZk1yUlNuc1A4MlIycmU2X0lSc25Oa1ZINnk3QjRXanRUN0hjSE9wa3ZTejBsaWdpdEtTanFkdGJLeEJvOFRfQmFSYUttVGJ1LXNsbmhZSkp4SEhHYzIxRXZ4MHU1UEVaWnl1Q2xCdk1MU0tDb2tta2xETUtTMUFBSDV4ZlJueVlfUERURnQ2cTduMjduUWdfRHg4NmhLYlVUZTMyMS1hcUVpV0E?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Employment"
+    ],
+    "date_introduced": "2026-02-03",
+    "date_last_action": "2026-02-03",
+    "last_action_summary": "",
+    "summary": "Navigating the AI Employment Landscape in 2026: Considerations and Best Practices for Employers  K&L Gates",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
     "id": "news-c499c0c82077",
     "title": "Frontier AI safety regulations: A reference for lab staff - METR",
     "jurisdiction": "International",
@@ -2928,6 +3308,25 @@
     "summary": "EU and Luxembourg Update on the European Harmonised Rules on Artificial Intelligence—Recent Developments&nbsp;&nbsp;K&amp;L Gates",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-829e06583a9c",
+    "title": "2026 AI Legal Forecast: From Innovation to Compliance - CPO Magazine",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPel9ZRnkyLTRSaU00R2hCVzV5MG5mSmtNcnBCWndMeUppSWpkbDlsdHdTMDZFVXh1NlJyTGRjWEZfdnhRMjQ5WVRydDVob21ycl91aEN1dzN1WlNObmR3RWFLSm1KZk12NDhFM3l6WXpsam1WR1ZnbW83V3Z2UGJXaEdmMXRXemFEWm9YdXRPdThOZm5Fbmx0a2VzaTRmdw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-01-19",
+    "date_last_action": "2026-01-19",
+    "last_action_summary": "",
+    "summary": "2026 AI Legal Forecast: From Innovation to Compliance  CPO Magazine",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
   },
   {
     "id": "fed-register-2026-00724",
@@ -3482,6 +3881,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-12469d97e52f",
+    "title": "AI and Machine Learning - New York City launches algorithmic accountability office for public sector AI - Smart Cities World",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVVXZFpfeEtSYzhZSm5qWF9uZXZhemdDWTh6Mm1SUDRHTHNSbDBZbnB4WUlZWEV1V09vcnpXd0RXSmJORkM3VEprWVFQdW05cUZuWEpzSThoSlVqcWFZY0ljVURFNVNncm9hRFVlTFBza0pzN0k0ZW03MmlfWWo4SmxLcjkwWjdRWFJHRlNiUWdkNEtVTU5sME54OWlBYXFmMXYwUTN3QTdzLWpFWHFDclhkWTJ5azNZel82ZXZiaXVnUllkcmxxa2NCa3B3YVU?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-11-28",
+    "date_last_action": "2025-11-28",
+    "last_action_summary": "",
+    "summary": "AI and Machine Learning - New York City launches algorithmic accountability office for public sector AI  Smart Cities World",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
     "id": "news-f19dff65fadd",
     "title": "AI Watch: Global regulatory tracker - United Kingdom - White & Case LLP",
     "jurisdiction": "International",
@@ -3806,6 +4224,44 @@
     "date_last_updated": "2026-03-30"
   },
   {
+    "id": "news-e0bef08f57a0",
+    "title": "Governor Newsom signs SB 53, advancing California’s world-leading artificial intelligence industry - California State Portal | CA.gov",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbkkwVXQ0ekt2SUpBQk0yOGprRnF4OGxYZFRsT0dWUU5FRVN4MEJESll6MHZlaFFUSUNWZkhFNlV4UC1qMzFxcFI1aHBaRXlZakRFTzh1TGFEZTRBZUhpVTdleHRjeDZpWmZSUDEyZlpJZ1BYN0daLS1iZmNGSkpFSGp1aDczSUtoeVJhclctR3dvM1BVakFBZk1KZklZaWo0R3dVQlMtVm1VVnZERXVMZlNlTGxXNUpQZ2FJZnpJZmI4U2J6Rm9TcU9VZw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-09-29",
+    "date_last_action": "2025-09-29",
+    "last_action_summary": "",
+    "summary": "Governor Newsom signs SB 53, advancing California’s world-leading artificial intelligence industry  California State Portal | CA.gov",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-6c0b4c1dd748",
+    "title": "AI Watch: Global regulatory tracker - United States - White & Case LLP",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbnFCYmQ4ZElvUk9tUFQ0Z210S2hrNmtMaGhid3IxZmozUnVDUm8tZ0FrY05nNlR5bXZLOUk5WWJkcHVjMzhvazJ6M3I2bGtCUlZFWlBBT2l1MGdGbExWY09kWXZZNlQxTW16VjJzSC1McDZ2N21oTjdqclZnVHZTN1VpbmRacC10NjZNYVNIWnBOUGRpblNsRURZbw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-09-24",
+    "date_last_action": "2025-09-24",
+    "last_action_summary": "",
+    "summary": "AI Watch: Global regulatory tracker - United States  White & Case LLP",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
+  },
+  {
     "id": "news-7c6ca1db7754",
     "title": "EPIC Endorses Algorithmic Accountability Act of 2025 - EPIC – Electronic Privacy Information Center",
     "jurisdiction": "International",
@@ -3825,23 +4281,23 @@
     "date_last_updated": "2026-03-29"
   },
   {
-    "id": "news-3b7d1db18a77",
-    "title": "Enforcement of Colorado AI Act Delayed Until June 2026 - Hunton Andrews Kurth",
-    "jurisdiction": "European Union",
-    "jurisdiction_code": "EU",
-    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEhTYmtUdi1aS0ZnQmVmOEtncVNSMWo5aXlWeHY0SE40aHBiV01CN01namtycW9ZV0hqSGdnNGZicTFKNTBfU2VpandsTkZSWFdzdWl2VXJ6VFBEYTdsblN4dENEdjR0eHlzUy1takgyck1hTnRpeDN2QmJZUWlRVy1KTzdweEZxOUlWY2hqWFlJOE5OOVBsekNRNmREejlhUzNCdmNyT2V1UTN5eGFPdnpn?oc=5",
+    "id": "news-af17015b8cc3",
+    "title": "Americans Prioritize AI Safety and Data Security - Gallup News",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1RiUVIyY182ZE5WcnRpQm51UWlyRmpJZEd4SENRdThNSG5JTjM5QUpEVXhMdWNxOWhxaXYtMEFzLVZHcDlrZmN5Z0EyN0JsV2ZrQ3VtMUxFMUptRmtvZlpQbXFqVHZWMUU5Q3R3LXZZYjJfU21aRlQwelhZUllBUjhXTC01WVBudXc?oc=5",
     "source_name": "Google News",
     "type": "news",
     "status": "Proposed",
     "domains": [
       "General"
     ],
-    "date_introduced": "2025-09-19",
-    "date_last_action": "2025-09-19",
+    "date_introduced": "2025-09-17",
+    "date_last_action": "2025-09-17",
     "last_action_summary": "",
-    "summary": "Enforcement of Colorado AI Act Delayed Until June 2026  Hunton Andrews Kurth",
-    "date_first_seen": "2026-03-31",
-    "date_last_updated": "2026-03-31"
+    "summary": "Americans Prioritize AI Safety and Data Security  Gallup News",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
   },
   {
     "id": "congress-gov-hr5078-119",
@@ -4108,6 +4564,25 @@
     "summary": "Leadership in Critical and Emerging Technologies Act or the Leadership in CET ActThis bill directs the U.S. Patent and Trademark Office (USPTO) to establish and carry out a pilot program to expedite the patent examination process for patents involving critical or emerging technologies (i.e., artificial intelligence, semiconductor design, or quantum information science). The USPTO must report to Congress on the impact and effectiveness of the pilot program.",
     "date_first_seen": "2026-03-28",
     "date_last_updated": "2026-03-28"
+  },
+  {
+    "id": "news-e8968ea41fae",
+    "title": "'We cannot be left behind:' How Canada is balancing AI regulation, innovation - IAPP",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZmlFWXh5RjRFMEQtVThQc0NPeWVtdmgtLXNQTHpNYXJjbG9tNFRQc0Q3cU05aUJhY2ZDRm4xcTZYWGxLNmpvMlc5MnA3RUhrY3Nxbm9BSENIalUzSzhfUWJCdUtRb1dnU3FEZDlzNVVOZ3dXWnlKUHBodTI0MnhMSHpsUEpnMkhnMGZYUUZSc0s3d2ktNnNvVUd5M3FrZw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-05-21",
+    "date_last_action": "2025-05-21",
+    "last_action_summary": "",
+    "summary": "'We cannot be left behind:' How Canada is balancing AI regulation, innovation  IAPP",
+    "date_first_seen": "2026-04-03",
+    "date_last_updated": "2026-04-03"
   },
   {
     "id": "news-0f4d038d1d36",
