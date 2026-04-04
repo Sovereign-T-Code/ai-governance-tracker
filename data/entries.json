@@ -1,5 +1,24 @@
 [
   {
+    "id": "news-5e2a41cf4d15",
+    "title": "Canada’s Global Tech Crossroads and the Future of AI Sovereignty - FinancialContent",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQamZvaEtHUVRnWE9VbVM5NXJ0NWVmOVNWTFlsZzlDbE5hMHEybUNFSlgtdnI4TXpuTkNyU19kd1k1b19wdzlseVpsNlBEZjFuUnZ0dk9qRjlaOTdhTkctSGFPTkVfUGxpVjQtZ2d2Z1FPc3BUa0N1RXhIWmtOMDZ5T0JfbnRfYU1zSWRtV1lpcmtEZ3BuNVRETGZaVlQwYVpTdXIxcG0zMFk4ekNIS0VsbUpqN0dEa245bGxmejczWk1mbVFwR0VqcVEwSzk5enpxdkFyNXJ3?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-04",
+    "date_last_action": "2026-04-04",
+    "last_action_summary": "",
+    "summary": "Canada’s Global Tech Crossroads and the Future of AI Sovereignty  FinancialContent",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
+  },
+  {
     "id": "news-5045edd0b412",
     "title": "New Food Allergen Laws Are Pushing Restaurants Toward AI - franchisetimes.com",
     "jurisdiction": "International",
@@ -55,6 +74,139 @@
     "summary": "TTA establishes AI security standards group to address emerging risks  Telecompaper",
     "date_first_seen": "2026-04-03",
     "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-a749f849d9a8",
+    "title": "In final weeks of CT session, AI policy bills come into focus - CT Mirror",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVWJyYUtNYlNReGtNU3N5WVkxSTB4YXA2WjdyTDgwWVVEc2NRX1RWTFNncHNzYTlpcnUtaHRNV3NQTjBsWW1MVDk5d184d3dlVFU1Z0lfLTN6NFFIY0RRaG5PN0FOQjhtVTlkZ2VwOEZldEI1RVdjdllXLThrd1FBLTB6QzJfZw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-03",
+    "date_last_action": "2026-04-03",
+    "last_action_summary": "",
+    "summary": "In final weeks of CT session, AI policy bills come into focus  CT Mirror",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
+  },
+  {
+    "id": "news-3eb379a48f49",
+    "title": "Trump’s partisan AI pitch stalls on the Hill - Politico",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa3pMaTFvQjRXd0xhcVVrdDVYeFpQVm45N2RwbElSc0ZWMzdJWVo3SWdBWFowVElIeFRQbmEycU9XeU9LeFZLTkNmZzNGNTZfOXF0aHlNb3NFM1ZMS1F0dkd6TGhrUk1xSW40Yjlnd25CdFk5VUZQOGE5TUJRUjA1RmY0akFrZllHdGFfWG1tQnhsQjRwZVR5Zw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-03",
+    "date_last_action": "2026-04-03",
+    "last_action_summary": "",
+    "summary": "Trump’s partisan AI pitch stalls on the Hill  Politico",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
+  },
+  {
+    "id": "news-a91c5923d306",
+    "title": "Hot Topics in International Trade April 2026 - AI Legislative Framework Proposed by the White House - JD Supra",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb1hQS3Z2QWhSRWM4WkdVQUFOMEp2ZmRWOFZfc0YxZnRjeWlmVFFBZk5mZXdWSlFsVy1ib3BicFU0OTdEVmJCR0JxR3FWVFp4YndwcnNaMlUtSzhzaG1jb0sxcFh0Tk01ZEpxUjhXUjZWZ0hGSlhXejJBbTlUOWpraWtaY2RieldRU2c?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-03",
+    "date_last_action": "2026-04-03",
+    "last_action_summary": "",
+    "summary": "Hot Topics in International Trade April 2026 - AI Legislative Framework Proposed by the White House  JD Supra",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
+  },
+  {
+    "id": "news-6b50055d76d9",
+    "title": "White House AI Framework Stakes Out National Policy Position – Developers and Deployers Now Watch and Wait - The National Law Review",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ2otSnloaVR2d3VwTEFJaTNvbWZxLWRIVUptek84WTB4NU8tX1VzWTg5U05uRTVtOEJ4bmdaNUYtRHlyMC05UFdRUHdvN2lsXzd4U1hUTi1BYXJZQVhucjZveC03T1FXTFlocEhhM1FYc1JMQ1FLb2gzSTVCYXFMLTBjOVZES1N5cWhwQlpydWJYZDVxdVJCQ20yQTlHYnNDTk45enBJODA2ZXhz0gGyAUFVX3lxTE1zZHQzLWJoRjhQZFhqWjdIM1BfNW5CYWZzeDIxUy15Q25UUXFpOTlKTlNHV1NQZ3ZhLXpPaGQ0Q1JCd3FXZU93RHBfVGJTUUcyajRCcVZSOG9LU1BEMWpWUUZ6LXFtSDFLTE82MmllWmVtODJxUVR2NnI3TjcxQ3FKVVZKMS11cWU0TVVOQ0E3QWtJa1preWhCSWxXZ1NhV1hVcDJ1cldZZ1p0YnI2Yk1NQ3c?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-03",
+    "date_last_action": "2026-04-03",
+    "last_action_summary": "",
+    "summary": "White House AI Framework Stakes Out National Policy Position – Developers and Deployers Now Watch and Wait  The National Law Review",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
+  },
+  {
+    "id": "news-fc40079ed09f",
+    "title": "Your AI governance gap is bigger than you think - MarTech",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1WVp6eHhEZGZEN0syRTZtVG1mLTRDRzhkWE9SOXlSNkQ4enZ5RFZEaDZTUlM3U0FkYTBNN25odjlsWTgzOVZkX2RqOGNwV2hWU2Uxc2VYbDFZU0syajFjWk1yZ1llUFB1MTBVTE5CeXc4b1NmWndz?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-03",
+    "date_last_action": "2026-04-03",
+    "last_action_summary": "",
+    "summary": "Your AI governance gap is bigger than you think  MarTech",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
+  },
+  {
+    "id": "news-44ea0bd13b7f",
+    "title": "Amnesty International warns EU tech law reforms could weaken GDPR and AI Act protections - Digital Watch Observatory",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdXF5YXBsa1dvYWZvT1lVcnBPY0RhLUQ2cFhIaHFocGpSeEFjSXlIRkNsRXNVdXhTclcyUHNsZFdNZlN2UFZUMU9ab1loWmxJdVh2OEZpN3UybkpnOWpvSnU4QXQwZm9CdWk1ZzlwSGExb1NENmduZ25LMGpLVjhYalhCNktVNmJrRUFaaDUyWlp5R2hYN2VJUzBWczRJUXZueWRZeEV2Si1LQWh3U1pEQVJDMFo?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Privacy"
+    ],
+    "date_introduced": "2026-04-03",
+    "date_last_action": "2026-04-03",
+    "last_action_summary": "",
+    "summary": "Amnesty International warns EU tech law reforms could weaken GDPR and AI Act protections  Digital Watch Observatory",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
+  },
+  {
+    "id": "news-74f17e45ab30",
+    "title": "Arcas partners with Seekr to deliver sovereign AI for EU enterprises - eeNews Europe",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalh2TGlRRGtUSklLOFR3cDhsSTdWUG1VM3hyckVQd3Q2eF9wdk0tVVJBcW5ZNXB3MEplWUViOGJLT0I2ZERSNHhtV1I2VDJMX2lhVjJ5N3MxQ3hUTUFQUjhkZVFCRm5tSUJBR0xBcjhLdmlSbFZTWEt1VWxxWWgwMUdSUDFURllOTERYMmxuY2U0d3Z3cjExb084Q18yWmJwVTVZ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-03",
+    "date_last_action": "2026-04-03",
+    "last_action_summary": "",
+    "summary": "Arcas partners with Seekr to deliver sovereign AI for EU enterprises  eeNews Europe",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
   },
   {
     "id": "news-0985cd3a7760",
@@ -283,6 +435,44 @@
     "summary": "EU and UK AI Hiring Laws Put US Employers at Legal Risk, Law Firm Warns  pymnts.com",
     "date_first_seen": "2026-04-03",
     "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-70b504c89f7e",
+    "title": "AI Data Privacy Compliance in 2026 (GDPR, HIPAA) - Blockchain Council",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95UHFkS3paTHlMczhMX1A1QkRHcGlFTG5MWTdzczJKSktWTVluRzJkUGtlWUVXOHgyeDhBc2lQMmdtbHBCSVdzMDVhS2F3RzlGY0ROTlg4cG5zYmRWMnJ4Y3NvWWI5QnNxX1V1N0NhTWVudDQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Privacy"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "AI Data Privacy Compliance in 2026 (GDPR, HIPAA)  Blockchain Council",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
+  },
+  {
+    "id": "news-070b1a2d7745",
+    "title": "Anthropic, Australia Agree To AI Safety Rules 04/02/2026 - MediaPost",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUWVfbnNEUy0xZGZYQVE0ODJZSE41Uk1vdWcyVW1ETEViUndvYUZuTTJvRmpGR0dfRGtUanNsdzFWYURCMDFaSWNWVGtwRGFWSlBOYlZQV19mb2k1WXZqMV8wMTRkNFowaVJ3RzhpcTNqbUN0UWEzRVZwRlZ6UjMtR0dDQmNpZm1LYld2MW5lbVZrYTViRWtmaVBPN0lYN3hOMThodTQtNGtDbUFTWGVUM1JWQUtxUHlMbkE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "Anthropic, Australia Agree To AI Safety Rules 04/02/2026  MediaPost",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
   },
   {
     "id": "news-c5a3ae4372f1",
@@ -1997,6 +2187,25 @@
     "date_last_updated": "2026-03-30"
   },
   {
+    "id": "news-7be46b013f63",
+    "title": "The Latest AI Bill’s 5 Biggest Flaws - Cato Institute",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTQ3lUWTd1Yl9FX0N3b2NsSkxiSldRaFN3UElxLXB0V1lJeS1fMjZ5ajBBUDlnc1pyckxUNWRXSmpaMlQ2SU9VVTFhSEFNc2ZjT044anlBclZvaURpRzh5Tk91ODdaekFt?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-19",
+    "date_last_action": "2026-03-19",
+    "last_action_summary": "",
+    "summary": "The Latest AI Bill’s 5 Biggest Flaws  Cato Institute",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
+  },
+  {
     "id": "news-6e01c14ce930",
     "title": "Op-ed: AI governance rules are being written without you - IAPP",
     "jurisdiction": "International",
@@ -2340,6 +2549,25 @@
     "date_last_updated": "2026-03-30"
   },
   {
+    "id": "news-007ee2c9fdcd",
+    "title": "Following CA Lead, NY Says AI Firms Need Not Warn of Dangers - San Francisco Public Press",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjNzWkVrU2hmZEF2SFB1ZjRjTFYzNVViVm81QksxeHVkUHRVVHpFOVRqem1udnFfZmxBMmxwSFFkMzBTTzgzQmQtMTZDdXBrVXp0MDZDUTAzSklWLTNHUWtMa1NNd0MxRVBSc0c1TmFKeDJ3d25iM2VRSUF1UHlqX3psSXVfNGx5QUpkRVNtV2JpdU9hMG14MEtxX3FJNDBnV1hEaXYxLU1jcE52MWd4WXZRelBnRDRwZU1xU3BOLUVEdU0?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-10",
+    "date_last_action": "2026-03-10",
+    "last_action_summary": "",
+    "summary": "Following CA Lead, NY Says AI Firms Need Not Warn of Dangers  San Francisco Public Press",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
+  },
+  {
     "id": "news-576fdf5cd8e3",
     "title": "Legal Accountability for AI-Driven Autonomous Weapons - Lieber Institute West Point",
     "jurisdiction": "International",
@@ -2395,6 +2623,25 @@
     "summary": "Chatbot lawsuits push AI safety fight to the courts  Axios",
     "date_first_seen": "2026-04-02",
     "date_last_updated": "2026-04-02"
+  },
+  {
+    "id": "news-0a1171e7f253",
+    "title": "Ottawa mulls workaround to pass online harms bill without tackling AI - The Logic",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTkZhMWhIQWozM1BBQU04blJQNENEdE4tdmtfeWY4R0JjNng5MXlSMjRLOUN2VmRudVd6d3BXR1F3UThUdkFhUGdvTXdzRENBbVlEbkZwUlhubkU4di1STzZEM0NMVjZyaUcwMkpIT25CdV9aOEkxa1VMSzV4UGppcVJfcGxzS3Q3RFJMTXY4RQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-09",
+    "date_last_action": "2026-03-09",
+    "last_action_summary": "",
+    "summary": "Ottawa mulls workaround to pass online harms bill without tackling AI  The Logic",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
   },
   {
     "id": "news-c07cf6058041",
@@ -2889,6 +3136,25 @@
     "summary": "New York’s RAISE Act Is the Blueprint for AI Regulation to Come&nbsp;&nbsp;Bloomberg Law News",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-3d5d39ec5fef",
+    "title": "From innovation to regulation: How internal audit must respond to the EU AI Act - Wolters Kluwer",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1VXRTJMZ0JGQk94bHVMMTR1Y2QwUm53SnFQLWpZQlAzaXNqVFo1WHBESTRqUEtVVExmZ0JWMVJ2VHZmcDJlSkZrb1dueTRkU3VRb2lqUm5xalFNa3NCejhXYnpBZFdQMldQM2ZjdlgzMHlLNWl3N1NmeHpMNjRsRzFMd3pTa3VKRlFUQ2hRVVJ1WXVISmZaVnY0MDlDU05xb195NTVSdjdVaE1ZdnJfQmpn?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-18",
+    "date_last_action": "2026-02-18",
+    "last_action_summary": "",
+    "summary": "From innovation to regulation: How internal audit must respond to the EU AI Act  Wolters Kluwer",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
   },
   {
     "id": "news-68a9fad35b60",
@@ -5274,5 +5540,43 @@
     "summary": "Algorithmic Impact Assessment Tool",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "eurlex-33783",
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (Text with EEA relevance)",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://eur-lex.europa.eu./legal-content/AUTO/?uri=CELEX:32024R1689&qid=1775285412064&rid=9",
+    "source_name": "EUR-Lex",
+    "type": "legislation",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "",
+    "date_last_action": "",
+    "last_action_summary": "",
+    "summary": "PE/24/2024/REV/1",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
+  },
+  {
+    "id": "eurlex-57897",
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial IntelligenceAct) (Text with EEA relevance)",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://eur-lex.europa.eu./legal-content/AUTO/?uri=CELEX:32024R1689&qid=1775285426290&rid=3",
+    "source_name": "EUR-Lex",
+    "type": "legislation",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "",
+    "date_last_action": "",
+    "last_action_summary": "",
+    "summary": "PE/24/2024/REV/1",
+    "date_first_seen": "2026-04-04",
+    "date_last_updated": "2026-04-04"
   }
 ]
