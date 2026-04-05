@@ -1,5 +1,24 @@
 [
   {
+    "id": "news-23b1b36c9805",
+    "title": "Asia's AI laws are finally here - and they couldn't be more different - PPC Land",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcUtoVHhYZlpFMFVFOWN3YmRQM0xPSmtZQ2gwNnNnc0laRTdIVU1fWDRpbjRkbEpTQUk3VS1qUFdXaWpBci1jeEhFbF9jTVNraUFLOGpTVGtmWnk0UDBjQklYUlZvNUlwb3REMG9DbkRwSHJHaHg0bEFLSE9Bam8zalFiUWpQbnJEd1Ew?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-05",
+    "date_last_action": "2026-04-05",
+    "last_action_summary": "",
+    "summary": "Asia's AI laws are finally here - and they couldn't be more different  PPC Land",
+    "date_first_seen": "2026-04-05",
+    "date_last_updated": "2026-04-05"
+  },
+  {
     "id": "news-5e2a41cf4d15",
     "title": "Canada’s Global Tech Crossroads and the Future of AI Sovereignty - FinancialContent",
     "jurisdiction": "Canada — Federal",
@@ -473,6 +492,44 @@
     "summary": "Anthropic, Australia Agree To AI Safety Rules 04/02/2026  MediaPost",
     "date_first_seen": "2026-04-04",
     "date_last_updated": "2026-04-04"
+  },
+  {
+    "id": "news-b7cc9c911b38",
+    "title": "How Is AI Regulated? Examples, Benefits, & Drawbacks - Britannica",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91SzNWUlViMlZGZUVheTdwU3ZNZC13b2RYWGJpS01od3NmeHpoV1dsZzA0TmhKdm5QODlvZFc4bldSbktENkJiX3lQS2ZRN1hHVVdNc2xfdVctemswVHdLeE1EUUdLNWJY?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "How Is AI Regulated? Examples, Benefits, & Drawbacks  Britannica",
+    "date_first_seen": "2026-03-29",
+    "date_last_updated": "2026-04-05"
+  },
+  {
+    "id": "news-4a59082ecbd4",
+    "title": "Forerunner Launches AI Assistant to Accelerate Government Field Inspections Under New AI Governance Policy - TipRanks",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVDZTTzNsVVZxdjM3NmVmUkRscWJUZUQtdEt5NkRNZjd3MFdnbWJCSHRkdWRERS1fSi03V3dLckMxVFZmNkRkRjZIWUNURmNmSzRHRmRtcGYzb05TekhpSk9yY0FmVVJwZG1pSnVwZVhWQmdXV0dBd1Flal84TUVWMHBCNEtxLUxsTU1kS25zMjB6S0YzaWR0dkF1akcwYjVjTlNSNHdhcWRDOEFFVkx6bnhfTEwyaE1DenJ5V3VoUnhLdG5qTzB4emJxZFh2T3JfbFZTTm5kLXgwOVItMU1sc3RTQ1pxWld3aXc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "Forerunner Launches AI Assistant to Accelerate Government Field Inspections Under New AI Governance Policy  TipRanks",
+    "date_first_seen": "2026-04-05",
+    "date_last_updated": "2026-04-05"
   },
   {
     "id": "news-c5a3ae4372f1",
@@ -1327,25 +1384,6 @@
     "date_last_action": "2026-03-28",
     "last_action_summary": "",
     "summary": "Trump wants a deadlocked Congress to move on AI. Frustrated states say they already have&nbsp;&nbsp;NPR",
-    "date_first_seen": "2026-03-29",
-    "date_last_updated": "2026-03-29"
-  },
-  {
-    "id": "news-b7cc9c911b38",
-    "title": "How Is AI Regulated? Examples, Benefits, & Drawbacks - Britannica",
-    "jurisdiction": "International",
-    "jurisdiction_code": "INTL",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91SzNWUlViMlZGZUVheTdwU3ZNZC13b2RYWGJpS01od3NmeHpoV1dsZzA0TmhKdm5QODlvZFc4bldSbktENkJiX3lQS2ZRN1hHVVdNc2xfdVctemswVHdLeE1EUUdLNWJY?oc=5",
-    "source_name": "Google News",
-    "type": "news",
-    "status": "Proposed",
-    "domains": [
-      "General"
-    ],
-    "date_introduced": "2026-03-27",
-    "date_last_action": "2026-03-27",
-    "last_action_summary": "",
-    "summary": "How Is AI Regulated? Examples, Benefits, & Drawbacks&nbsp;&nbsp;Britannica",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
   },
@@ -3424,6 +3462,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-f6b794789eb2",
+    "title": "Vietnam's first standalone AI Law: An overview of key provisions, future implications - iapp.org",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM2Y5TUZnYzUtd0ZjVzdaRVZQU1ExODU0Q1pVeVM0aWtQUmw0Sk1nbW1rS0pOeThET3c2cTB3T0syRF80cUV5d2JuWmpNWVZCTlo0aVg3UXNfWENvcEl0aUNLa082VmktTE9SZU44Z2lUbFVZa09tN2o4aGxPSnVxTjUwZWJzY2c1UTBSa1dvY3RqTms4Uk5QVkhuaktXQ2QtTUlXRFhXNFdJN0k?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-05",
+    "date_last_action": "2026-02-05",
+    "last_action_summary": "",
+    "summary": "Vietnam's first standalone AI Law: An overview of key provisions, future implications  iapp.org",
+    "date_first_seen": "2026-04-05",
+    "date_last_updated": "2026-04-05"
+  },
+  {
     "id": "news-7a8d1e4c211c",
     "title": "California bill aims at spurring AI safety standards - San Francisco Examiner",
     "jurisdiction": "International",
@@ -3574,6 +3631,25 @@
     "summary": "EU and Luxembourg Update on the European Harmonised Rules on Artificial Intelligence—Recent Developments&nbsp;&nbsp;K&amp;L Gates",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-8fabf6023619",
+    "title": "The EU AI Act Change That No One Is Talking About - corporatecomplianceinsights.com",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVmRCdlY3Tld5Z29jQ0I1eldxZmVfYjByRmFDeGRhVk43a2tsT0wzNV9tbHptX2xpWHRwQUQtZVczRHVtYTN0QnhBQ0x5eXpodVVDUEZ3NnU0RVF3cGpxUkRmd285VWZxLXp2bVAwZmhKS3lCTzN6dDA1dmswc181Rkw1bGlJYjlkUUE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-01-20",
+    "date_last_action": "2026-01-20",
+    "last_action_summary": "",
+    "summary": "The EU AI Act Change That No One Is Talking About  corporatecomplianceinsights.com",
+    "date_first_seen": "2026-04-05",
+    "date_last_updated": "2026-04-05"
   },
   {
     "id": "news-829e06583a9c",
@@ -3824,6 +3900,25 @@
     "date_last_updated": "2026-03-31"
   },
   {
+    "id": "news-1dc493105601",
+    "title": "Carney has sketched the broad strokes of an AI policy, but details remain vague - canada.constructconnect.com",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSjZpcktlRWE5RkVCOGRweHR2N011NWpYRGEzRURhckpmVnF0Z3lLN1FxV1JLX09kRFJ1Uk5Md285R0RXT3lEUERHenYwVHczRWZVZ1ZWTnZncmQ2ZWdtVUNfSEJfQ1p4b2JOQ1NJMlNKTkxJcmRzSHYyMjlkSU1UdUJ5eGl2R1dQaDJhNFB3N1F5Ukkza25YR3NxYldadkRoR1pkeEhUUW5CeG96Si0tZ19BZWt5d3EyM1NmeW1ETGkyX3NYUEdRZGJKVm1scWRfQ29saDdpRi1kUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-12-25",
+    "date_last_action": "2025-12-25",
+    "last_action_summary": "",
+    "summary": "Carney has sketched the broad strokes of an AI policy, but details remain vague  canada.constructconnect.com",
+    "date_first_seen": "2026-04-05",
+    "date_last_updated": "2026-04-05"
+  },
+  {
     "id": "news-c3f3a9866a7c",
     "title": "What is California’s AI safety law? - Brookings",
     "jurisdiction": "International",
@@ -4071,6 +4166,26 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "congress-gov-s3354-119",
+    "title": "QUIET Act",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3354",
+    "source_name": "Congress.gov",
+    "type": "legislation",
+    "status": "Proposed",
+    "domains": [
+      "Criminal Justice",
+      "Privacy"
+    ],
+    "date_introduced": "2025-12-04",
+    "date_last_action": "2025-12-04",
+    "last_action_summary": "Introduced in Senate",
+    "summary": "Quashing Unwanted and Interruptive Electronic Telecommunications Act or the QUIET ActThis bill establishes a disclosure requirement for robocalls that use artificial intelligence (AI) to emulate a human being and increases forfeiture and fine amounts for certain violations of the Telephone Consumer Protection Act (TCPA). (The TCPA prohibits certain telemarketing calls made without the recipient’s consent and using specified automated technologies.)Specifically, any robocall that uses AI to emulate a human being must include a disclosure at the beginning of the message indicating that AI is being used. Under the bill, robocalls are defined as calls made or text messages sent (1) using automatic dialing technology, or (2) using an artificially generated message or an artificial or prerecorded voice. Calls or texts that are made or sent using equipment that requires substantial human intervention are excluded.&nbsp;Further, the bill doubles the maximum forfeiture penalty and criminal f...",
+    "date_first_seen": "2026-04-05",
+    "date_last_updated": "2026-04-05"
+  },
+  {
     "id": "news-b72f1974c679",
     "title": "Eight Considerations to Shape the Future of AI Governance - Bipartisan Policy Center",
     "jurisdiction": "International",
@@ -4088,6 +4203,25 @@
     "summary": "Eight Considerations to Shape the Future of AI Governance&nbsp;&nbsp;Bipartisan Policy Center",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-7411c21f4663",
+    "title": "Kelly bill would allow lawsuits over social media algorithms that promote violence, extremism - Cronkite News",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaWN1aWJUanhEUkpJMmpCMC14aDBidmJFTXZwMkxPVUZQVHBwbnBEX0dXTzl4Nk4ybGxFM0V2a2phaDQxbzZQOTJtaElhZjMxQXM3ZTV2U0RfUDJnYkZPQ1V6UDFfNm5FV3IwSndqLXNuUDhpOEJHQjBsT3FKRzI4YkMtSQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-12-02",
+    "date_last_action": "2025-12-02",
+    "last_action_summary": "",
+    "summary": "Kelly bill would allow lawsuits over social media algorithms that promote violence, extremism  Cronkite News",
+    "date_first_seen": "2026-04-05",
+    "date_last_updated": "2026-04-05"
   },
   {
     "id": "news-e938c04eb513",
@@ -5578,5 +5712,43 @@
     "summary": "PE/24/2024/REV/1",
     "date_first_seen": "2026-04-04",
     "date_last_updated": "2026-04-04"
+  },
+  {
+    "id": "eurlex-2154",
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (Text with EEA relevance)",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://eur-lex.europa.eu./legal-content/AUTO/?uri=CELEX:32024R1689&qid=1775372277915&rid=9",
+    "source_name": "EUR-Lex",
+    "type": "legislation",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "",
+    "date_last_action": "",
+    "last_action_summary": "",
+    "summary": "PE/24/2024/REV/1",
+    "date_first_seen": "2026-04-05",
+    "date_last_updated": "2026-04-05"
+  },
+  {
+    "id": "eurlex-16020",
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial IntelligenceAct) (Text with EEA relevance)",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://eur-lex.europa.eu./legal-content/AUTO/?uri=CELEX:32024R1689&qid=1775372291559&rid=3",
+    "source_name": "EUR-Lex",
+    "type": "legislation",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "",
+    "date_last_action": "",
+    "last_action_summary": "",
+    "summary": "PE/24/2024/REV/1",
+    "date_first_seen": "2026-04-05",
+    "date_last_updated": "2026-04-05"
   }
 ]
