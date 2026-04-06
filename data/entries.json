@@ -1,5 +1,25 @@
 [
   {
+    "id": "news-167858a36fff",
+    "title": "Certainty and algorithmic accountability in the decision to go to war: Lessons from evidentiary approaches in international criminal law - Cambridge University Press & Assessment",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNaWw2QjVmSFBvYjB3SkNtMHNFMVBmRjExSE92Tm9vWU1WaDRRT0Z5ZDNzMW5OYTN1bGI3Zk1UX2Qtd2hXS2hxeGtKbnVlSHdqNXB2bHo3X0RucnM1NTlCQ0JQODFmNHFVb001aGhxbks0UDVUOUtGeENOMkxpWXFPNDZHT0c1V1pUTW5MYWd2TG1iWVVFbUFzN19HZl9NWWFUN0pNQ3VKUWlsMkE4T25vZm1CUzNmMDR3ejVEbDRsRXYzdDFTWWxnX3dxakMwRUtJSGhFbWJqS1BIZ2hwNDlyQVQxc1NFWEVhdW9Xc1hHQ01fMS1WVXNzYTVmV2l0TVVHVDBybFJMRmJGODhVS0VKMGhSOGd2TFNfcElmd3lhS19Dc19rZmVVOHVXYThyQ1hvc0xQSEFPcEpRX3ZvOFZfMkFkUmt6NzRrMVFsMVkyWGotWnliVG1qcG83SVlGQ0RPSThfdkltd09KSGJrUU0zU0kycw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Criminal Justice",
+      "Education"
+    ],
+    "date_introduced": "2026-04-06",
+    "date_last_action": "2026-04-06",
+    "last_action_summary": "",
+    "summary": "Certainty and algorithmic accountability in the decision to go to war: Lessons from evidentiary approaches in international criminal law  Cambridge University Press & Assessment",
+    "date_first_seen": "2026-04-06",
+    "date_last_updated": "2026-04-06"
+  },
+  {
     "id": "news-23b1b36c9805",
     "title": "Asia's AI laws are finally here - and they couldn't be more different - PPC Land",
     "jurisdiction": "International",
@@ -17,6 +37,25 @@
     "summary": "Asia's AI laws are finally here - and they couldn't be more different  PPC Land",
     "date_first_seen": "2026-04-05",
     "date_last_updated": "2026-04-05"
+  },
+  {
+    "id": "news-d49f953f54e9",
+    "title": "China Cracking Down on the Types of AI That Are Tearing America Apart - Futurism",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oNDJQMXJtNE45ZDBYVVhyZGZ4MjdzNXc2Qnk2RGJ3a2VCdFJOWmRhQkM1bW5WZVpheFZYRUJYUDVtdF9zSUIxU3ZEOVllTW9TUFBaSXJCSnJVb2djYWZpakxmcmtfZTZWcGtJdi1pNU9wVHlIM09zaA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-05",
+    "date_last_action": "2026-04-05",
+    "last_action_summary": "",
+    "summary": "China Cracking Down on the Types of AI That Are Tearing America Apart  Futurism",
+    "date_first_seen": "2026-04-06",
+    "date_last_updated": "2026-04-06"
   },
   {
     "id": "news-5e2a41cf4d15",
@@ -226,6 +265,25 @@
     "summary": "Arcas partners with Seekr to deliver sovereign AI for EU enterprises  eeNews Europe",
     "date_first_seen": "2026-04-04",
     "date_last_updated": "2026-04-04"
+  },
+  {
+    "id": "news-6554eece07d1",
+    "title": "Louisiana scraps some, but not all, AI proposals after Trump threats - Shreveport Times",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQalVmNzdPTzVoaWFnQTJmMmlTNVA5QmtoLWFEeHM2bmZkXzZ2bGpST2haM1Q1WXF1MHctc01valRkQjI4SmRraVV1Q2JtRkdNRkcwMGNCbk1Mdm81REl0MEUwNnJQZHRnVm0zXzFuQngxN0JrYWJHN3NxRnhYWmUtUndvNnN0M3NuUC1EeDloa2tkSzZNNFlvLTFiUVhWYmhPNVMzTXZsVHFxaDVfd1pJeHRtZDl2dW1KcjNUSjJhMnBnbGsyY2wyd1dxenEybHlUNm9NSXZ2UzlvUy1MVFhrY2NGbXoyWlE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-03",
+    "date_last_action": "2026-04-03",
+    "last_action_summary": "",
+    "summary": "Louisiana scraps some, but not all, AI proposals after Trump threats  Shreveport Times",
+    "date_first_seen": "2026-04-06",
+    "date_last_updated": "2026-04-06"
   },
   {
     "id": "news-0985cd3a7760",
@@ -816,6 +874,44 @@
     "summary": "The latest on the Digital Omnibus on AI  Lewis Silkin LLP",
     "date_first_seen": "2026-04-02",
     "date_last_updated": "2026-04-02"
+  },
+  {
+    "id": "news-581b18c705ed",
+    "title": "Agentic AI Governance: How to Approach It - Security Boulevard",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOd0UwV3FISHlYMjBJNUFic2p0WnB5MGZFNWY5UHFDR19vcnBoTXpPaXlHeHJxOFNvUXpiQzlzd0JwWnNtVDlFeHA2WWFOZ3JhLWExUDdJZlhNc0FXYnVMOWxNMDNVQ0NWSThpTEQxRHNhSnN3S2tZN0RReFpsWGZMVlNYQlBRZw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-01",
+    "date_last_action": "2026-04-01",
+    "last_action_summary": "",
+    "summary": "Agentic AI Governance: How to Approach It  Security Boulevard",
+    "date_first_seen": "2026-04-06",
+    "date_last_updated": "2026-04-06"
+  },
+  {
+    "id": "news-5395e6812050",
+    "title": "‘Think Everybody Dead’: How the Threat of AI Is Fueling a New Political Alliance - Politico",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObFY0TDJNZWpubkotblBlYlpNWXJhVm1RbVR2THBxT2I0OFoxdGg3MlFRczdNWGlXSUZsRjhVN1ptR0x5cTRhOUZrNGhVUWlyWUlYbk8zeWg1RFBRQ2lVcmp4ak9FUDBwa2VWeGk5ZEdCSjVObVlJdnNIWTZqWmdibC03SFhRVTJ2WkRxYzZEV0RXMEhvSjlrSXB0bldLUlZsdExj?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-01",
+    "date_last_action": "2026-04-01",
+    "last_action_summary": "",
+    "summary": "‘Think Everybody Dead’: How the Threat of AI Is Fueling a New Political Alliance  Politico",
+    "date_first_seen": "2026-04-06",
+    "date_last_updated": "2026-04-06"
   },
   {
     "id": "news-4f6077c23c62",
@@ -2321,6 +2417,25 @@
     "date_last_updated": "2026-04-01"
   },
   {
+    "id": "news-8dd872e57cea",
+    "title": "Mitigating AI Risk: Governance, Policy, and Ethical Compliance - CBIZ",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNEhZM2lKV2EzbEFLblNwVDdXYjlFVFQyVEZhdjR0OGgtd1ZHMnoxSThiMVYxODhzY2hhVlpyYkRMZXJ1X2FwRmxIQUl6SnBvQ3VlRm9KaHZwMnpQOEZwWHBpSFcxYWJLT05wWHEzaXJYYTdNNDh1UmUtei1ieHpnVUxUZE1VZmZpSGVxRlVselM?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-17",
+    "date_last_action": "2026-03-17",
+    "last_action_summary": "",
+    "summary": "Mitigating AI Risk: Governance, Policy, and Ethical Compliance  CBIZ",
+    "date_first_seen": "2026-04-06",
+    "date_last_updated": "2026-04-06"
+  },
+  {
     "id": "news-7e653a0464ee",
     "title": "What is Shaping Artificial Intelligence (AI) Governance Policies in Southeast Asia? - fulcrum.sg",
     "jurisdiction": "International",
@@ -2891,6 +3006,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-1097a75c530a",
+    "title": "What Is Shaping Artificial Intelligence Governance Policies In Southeast Asia? – Analysis - Eurasia Review",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMV9uNUdqaVRneU93SkI5VGsxRzdDYURYdnJJcmFiWEZpWGpHaDZSV1hLVzUzc0tBZlBhc3JPR3U2NjNzYTdpRVR1bVQ2aDRRQXY3cW4wVndrVDNSaVkzZ0UtbGNNQTlSc1BGXzVwMzhVbHExTG9vYXFxSDY1dzlGWXZmbGhiR3F0UFVvN2loa1laQVFST2hId2xya0FlWkJBOWlRX19md3NRTFV5UHR1NC1sMVROYzd3MlZCdDJJUjJUSFh5THN3?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-03",
+    "date_last_action": "2026-03-03",
+    "last_action_summary": "",
+    "summary": "What Is Shaping Artificial Intelligence Governance Policies In Southeast Asia? – Analysis  Eurasia Review",
+    "date_first_seen": "2026-04-06",
+    "date_last_updated": "2026-04-06"
+  },
+  {
     "id": "news-65659ab88f1b",
     "title": "When should AI companies alert police? What the Tumbler Ridge tragedy reveals about regulating AI - CBC",
     "jurisdiction": "International",
@@ -3346,6 +3480,25 @@
     "summary": "Wyden remains in support of Section 230, the internet company protection law he authored 31 years ago  NPR for Oregonians",
     "date_first_seen": "2026-04-03",
     "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-9014c98e54a6",
+    "title": "NY Enacts RAISE Act Amid Federal AI Security Push — AI: The Washington Report - Mintz",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU1hVclIzS0swcFRTWVoydXhWaEdabm5uSUNXZWJUcjUtVG1nSFNNUUx6MExsRk5fT1VyS19DWkdremphY3JueTA0LUxxRjhjWnJlbUw0eGljNlhhQ0NUeVJzVDA0bGVFUEtHVEdaYko0UU91OGJwWUJDamdPQ2JicDdfNVBBamoxY0dwQlVUQkM1T1FvOXN6OVV1U3lyMlcydTNfOWkwN1c1cWRhbS1RNi1qNFp0azF5X2c?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-12",
+    "date_last_action": "2026-02-12",
+    "last_action_summary": "",
+    "summary": "NY Enacts RAISE Act Amid Federal AI Security Push — AI: The Washington Report  Mintz",
+    "date_first_seen": "2026-04-06",
+    "date_last_updated": "2026-04-06"
   },
   {
     "id": "news-778ba54ea9ac",
@@ -5750,5 +5903,43 @@
     "summary": "PE/24/2024/REV/1",
     "date_first_seen": "2026-04-05",
     "date_last_updated": "2026-04-05"
+  },
+  {
+    "id": "eurlex-83321",
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial Intelligence Act) (Text with EEA relevance)",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://eur-lex.europa.eu./legal-content/AUTO/?uri=CELEX:32024R1689&qid=1775460035431&rid=9",
+    "source_name": "EUR-Lex",
+    "type": "legislation",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "",
+    "date_last_action": "",
+    "last_action_summary": "",
+    "summary": "PE/24/2024/REV/1",
+    "date_first_seen": "2026-04-06",
+    "date_last_updated": "2026-04-06"
+  },
+  {
+    "id": "eurlex-93167",
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence and amending Regulations (EC) No 300/2008, (EU) No 167/2013, (EU) No 168/2013, (EU) 2018/858, (EU) 2018/1139 and (EU) 2019/2144 and Directives 2014/90/EU, (EU) 2016/797 and (EU) 2020/1828 (Artificial IntelligenceAct) (Text with EEA relevance)",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://eur-lex.europa.eu./legal-content/AUTO/?uri=CELEX:32024R1689&qid=1775460049224&rid=3",
+    "source_name": "EUR-Lex",
+    "type": "legislation",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "",
+    "date_last_action": "",
+    "last_action_summary": "",
+    "summary": "PE/24/2024/REV/1",
+    "date_first_seen": "2026-04-06",
+    "date_last_updated": "2026-04-06"
   }
 ]
