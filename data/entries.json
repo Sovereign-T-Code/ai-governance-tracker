@@ -1,5 +1,62 @@
 [
   {
+    "id": "news-4a9e35fa3a69",
+    "title": "Washington Enacts New AI Laws Targeting Chatbots, Deepfakes, and Disclosure - Secret Seattle",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wMTJfd01oTXFsNUF5QVJoVGt4RWlRcXphSVlvdHVwMWhodDg5NENsOVVKdWpNcHNYV0Z2WjBGVW9WVDRFTldKLURnMGpxOUJXeUJpLXBKWVNaSEFibnF3Q2N2U3lJT1lNX29R?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-07",
+    "date_last_action": "2026-04-07",
+    "last_action_summary": "",
+    "summary": "Washington Enacts New AI Laws Targeting Chatbots, Deepfakes, and Disclosure  Secret Seattle",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
+  },
+  {
+    "id": "news-b54d234954d8",
+    "title": "OpenAI's Policy Proposals for AI Governance - startuphub.ai",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbDgyeXpWWnJzT1VxYVpuZEk1a2NLNXBKbVBTTzN4RGdGbGpWNmpIaFdTUENOVTlGYTktTGZjMVRFems3VUZzX3NMcUNvN3lTWFptSzlXekZyaGZ2VWxVVXBfY0RucUgtOFZzNDhWNVFoc1pWUlptUUF2VzdES0cyNk5uMzdPMGJDMUo5VmZNNVFUTVlRVmVZSGZrT212UzR1VndNZTNWemY2dw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-07",
+    "date_last_action": "2026-04-07",
+    "last_action_summary": "",
+    "summary": "OpenAI's Policy Proposals for AI Governance  startuphub.ai",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
+  },
+  {
+    "id": "news-645d485552fe",
+    "title": "Algorithmic Governance and Child Safety: From Analogue Vulnerabilities to Digital Risks and Algorithmic Accountability - Indian Masterminds",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUVBVN1I4VjRkVVlPR2J3TVZuZVBnLVRNeTludXotVGFGS2lITDJUR3B0MjVOemxYM3Q0OEZ5WGZoRnpobm5VMVd0b0UtTnZ0SnVidnR6N1NhbnZfYnpQcGJuRmltNHFSWV9jTjZreEhIZG5xaXUwSmpTREtRSmI3YlpWWm4tejZUNnA3RXFLOHJ1b3FaWjhMcG13SjVYR3FoM2hiWmNEUlJtMHNiRF85Y04zSVE5OTFHWXc3QjV1dkM0cmJhZFBzbHlxQ3ZqT1ZhYlZCQnRzUUw4TlNONk5V?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-07",
+    "date_last_action": "2026-04-07",
+    "last_action_summary": "",
+    "summary": "Algorithmic Governance and Child Safety: From Analogue Vulnerabilities to Digital Risks and Algorithmic Accountability  Indian Masterminds",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
+  },
+  {
     "id": "news-167858a36fff",
     "title": "Certainty and algorithmic accountability in the decision to go to war: Lessons from evidentiary approaches in international criminal law - Cambridge University Press & Assessment",
     "jurisdiction": "International",
@@ -18,6 +75,120 @@
     "summary": "Certainty and algorithmic accountability in the decision to go to war: Lessons from evidentiary approaches in international criminal law  Cambridge University Press & Assessment",
     "date_first_seen": "2026-04-06",
     "date_last_updated": "2026-04-06"
+  },
+  {
+    "id": "news-27cf4da09462",
+    "title": "New IFS Report on State AI Laws - Institute for Family Studies",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5eHBGeWVIOUs1N204dEFlR21aWFlYLWd5R3MzU3RxMUJJaHJ5OXVpSUVBdkh6ZW10RTNjMWtDZnVUQXkxb0VyX3JPVkY5dEhqY1dUeXRQSzhJMXJLZ2RjcGFNNTVua0U3R0E?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-06",
+    "date_last_action": "2026-04-06",
+    "last_action_summary": "",
+    "summary": "New IFS Report on State AI Laws  Institute for Family Studies",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
+  },
+  {
+    "id": "news-f116c718686b",
+    "title": "U.S. Tech Legislative & Regulatory Update – First Quarter 2026 - insideglobaltech.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGZlNWxMSnR4dzZCQThXTHVsSDdwdDZFYjh4MFBEV04xX0x2NkhYbnNkUTNrd05SWTVSblhXMWJERzFBVHVZWi1ub3pnQWdyWGhWekZ5Mm5zRUxYRjJ5MEJ3ckRKcU1IajJTd2pjaFFnNWdOT21zRnBsdkVQRkhTdHNJeWZUUnd5bnAxVHJyTVBSS1pFa2hKUDYwdHU1Y2xTaGRmdg?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-06",
+    "date_last_action": "2026-04-06",
+    "last_action_summary": "",
+    "summary": "U.S. Tech Legislative & Regulatory Update – First Quarter 2026  insideglobaltech.com",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
+  },
+  {
+    "id": "news-1c373e42ecca",
+    "title": "The EU AI Act’s ‘Wait and See’ Window Is Closing - corporatecomplianceinsights.com",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUpuZ056RTBKUUx5c0o2Vm41bUVkMElJajVhX3Q5NFNzRDVkNEw3cDdOMkFaTFlMWUZfenl1Yk9iVDF2Szdsa2Z2UlVjSDVqdGJsMlc0NF9oVFVrV2E1Q1UtM3dkdk40WmVBODRhWTBmMDVrVURyODlUa1JSR0M3S1d6N0Q?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-06",
+    "date_last_action": "2026-04-06",
+    "last_action_summary": "",
+    "summary": "The EU AI Act’s ‘Wait and See’ Window Is Closing  corporatecomplianceinsights.com",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
+  },
+  {
+    "id": "news-5b65f4e3a8d2",
+    "title": "Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’ - Fortune",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNS3NlU19Vcjlxc3NEcjZTR1B2dzUwcFJRM1JDa0NBUWotQ3FpSVhyVDlIcXVVUnhqY2pGM1NtQ1QwS0lBOVBoVDhsdjhiQWlMTTBfR0V4MlNUQjBWTE5uS3VzR29ZX1kyZG1hcDJ0dFRSV1lJc2VkV0d0V1RFUkpiVzdMb0NoOVdCbjNPZnlNd201UnhXTVk4blk2NFZraFdUaDh2aU5ubHQwUUJiNU9ESFc2OGJNTEgxRnVHSGVrT0dPaUJzS3NaVjVMSVdJRVdmV2VNZDZjbmd3MjEyN2pGYURnMXItRVdMTVpTSmNaelVuT3ZlTlNPTVRLSmx4U21o?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-06",
+    "date_last_action": "2026-04-06",
+    "last_action_summary": "",
+    "summary": "Sam Altman says AI superintelligence is so big that we need a ‘New Deal.’ Critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’  Fortune",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
+  },
+  {
+    "id": "news-cb588b99716c",
+    "title": "Georgia AI chatbot bill heads to governor as session ends - crypto.news",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96cE9UQWhPOXR3SjdDaTFjZEVlYWVUTHl2R0RUSFdxR01aaFI2T1hkdGJ2cldqQVpmQlN4RW8xZ0hzRnh5ZHRyQ0d5a2UxS3VUSzZmM05remt5cjNFMzJkWi1OZE5jV0xTSkpOUVdBOA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-06",
+    "date_last_action": "2026-04-06",
+    "last_action_summary": "",
+    "summary": "Georgia AI chatbot bill heads to governor as session ends  crypto.news",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
+  },
+  {
+    "id": "news-1bff9f235955",
+    "title": "What the EU AI Act Means for Your Content Library - BBN Times",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNREhEY1hkbmhUOXVaZ1dJakVfWGJzSy1nVzhhSk1lem53TjlkY0VaTk5DcUp6Z05TYVBBSmhFNnBxUG5YSjJtNExtZy1GMkJ5UGpxcU83UTNSRmt1aU1FRU53RW1iT0xSdm5IOXhBcG40TG5zT29xWGJoWkgzR2QzX1J0RndDWUV4Z1E?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-06",
+    "date_last_action": "2026-04-06",
+    "last_action_summary": "",
+    "summary": "What the EU AI Act Means for Your Content Library  BBN Times",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
   },
   {
     "id": "news-23b1b36c9805",
@@ -284,6 +455,25 @@
     "summary": "Louisiana scraps some, but not all, AI proposals after Trump threats  Shreveport Times",
     "date_first_seen": "2026-04-06",
     "date_last_updated": "2026-04-06"
+  },
+  {
+    "id": "news-fc7902bb995a",
+    "title": "Trump Administration Releases National AI Policy Framework - JD Supra",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaF8wZ2tzQVg5aGIzYUM4N043XzNKSVlLRngyUVdKY0Zfc25CcnJzSl84b2VSd3A5V25XbXpDWFk2TjRaYng5Wm1MZjFTbWtCdkZNUXFCZktZOW91V29QbTZ4T0pLRXpsb2lRVGJTaU1ZRTAtTUduOWYwRXdHVklpUG5YdEgySlps?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-03",
+    "date_last_action": "2026-04-03",
+    "last_action_summary": "",
+    "summary": "Trump Administration Releases National AI Policy Framework  JD Supra",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
   },
   {
     "id": "news-0985cd3a7760",
@@ -912,6 +1102,25 @@
     "summary": "‘Think Everybody Dead’: How the Threat of AI Is Fueling a New Political Alliance  Politico",
     "date_first_seen": "2026-04-06",
     "date_last_updated": "2026-04-06"
+  },
+  {
+    "id": "news-089c08e1ee44",
+    "title": "California, not Trump, will decide how risky its AI startups are, Newsom says - CalMatters",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLXgzSHhNUTNNX3NvRm9OalZyTFhVaTF3N28zY1pKV0QwbmpsdzdvUVpvY2xGMHBkX1YtV3NYVGVZM0d4UDZiTm55Q0FZTEs4NGFWaFdORmFZTzFOMi1acDAySlNDaTNGcUJHMnBYUXQxZExFU09MTXVQNDZLUmRjQWNKYm5KTGc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-01",
+    "date_last_action": "2026-04-01",
+    "last_action_summary": "",
+    "summary": "California, not Trump, will decide how risky its AI startups are, Newsom says  CalMatters",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
   },
   {
     "id": "news-4f6077c23c62",
@@ -2645,6 +2854,25 @@
     "date_last_updated": "2026-04-01"
   },
   {
+    "id": "congress-gov-s4067-119",
+    "title": "Land Grant Research Prioritization Act of 2026",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4067",
+    "source_name": "Congress.gov",
+    "type": "legislation",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-11",
+    "date_last_action": "2026-03-11",
+    "last_action_summary": "Introduced in Senate",
+    "summary": "Land Grant Research Prioritization Act of 2026This bill includes additional priorities as Department of Agriculture (USDA) high-priority research and extension areas.Under the bill, USDA may award&nbsp;grants for developing and evaluating (1) technologies to mechanize agricultural processes (and may emphasize processes for harvesting specialty crops), and (2) agricultural uses of artificial intelligence (and may emphasize uses for improving specialty crop production).Further, USDA may award grants&nbsp;to support research projects at land-grant colleges and universities to develop and applymethods to manage and eradicate invasive species of plants and animals, including through methods of biocontrol; andaquaculture methods, including through the propagation and rearing of economically and ecologically valuable aquatic and marine species.&nbsp;",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
+  },
+  {
     "id": "news-f059131456a3",
     "title": "A People-Centered Justice Approach to Implementing AI Governance | CIC - Center on International Cooperation",
     "jurisdiction": "International",
@@ -3118,6 +3346,25 @@
     "summary": "President Trump Targets State AI Regulations  theregreview.org",
     "date_first_seen": "2026-04-01",
     "date_last_updated": "2026-04-01"
+  },
+  {
+    "id": "congress-gov-hr7734-119",
+    "title": "Land Grant Research Prioritization Act of 2026",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/7734",
+    "source_name": "Congress.gov",
+    "type": "legislation",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-26",
+    "date_last_action": "2026-02-26",
+    "last_action_summary": "Introduced in House",
+    "summary": "Land Grant Research Prioritization Act of 2026This bill includes additional priorities as Department of Agriculture (USDA) high-priority research and extension areas.Under the bill, USDA may award&nbsp;grants for developing and evaluating (1) technologies to mechanize agricultural processes (and may emphasize processes for harvesting specialty crops), and (2) agricultural uses of artificial intelligence (and may emphasize uses for improving specialty crop production).Further, USDA may award grants&nbsp;to support research projects at land-grant colleges and universities to develop and applymethods to manage and eradicate invasive species of plants and animals, including through methods of biocontrol; andaquaculture methods, including through the propagation and rearing of economically and ecologically valuable aquatic and marine species.&nbsp;",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
   },
   {
     "id": "news-c08f3b1e6e42",
@@ -3632,6 +3879,25 @@
     "summary": "Vietnam's first standalone AI Law: An overview of key provisions, future implications  iapp.org",
     "date_first_seen": "2026-04-05",
     "date_last_updated": "2026-04-05"
+  },
+  {
+    "id": "news-abed41635e00",
+    "title": "Ireland: Government publishes General Scheme to implement the EU AI Act - DataGuidance",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSHlZbWo1aXJEZDlpSHNHU0NmemZUTHBjMHAwb3p1UVZWenZFS1U5NUVvZHhKU1ZJdW90Tzlmc3VjTDlBUzNUUXlMWkZXVmRPem1nbkpUVHlIdmNLRkgzbmlmRk5ieE5PVjZBeW9pem5yTHUzUjJkajd1aEVJZm52M2hMQ2RSOHVyTG5OZTYxN2E?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-05",
+    "date_last_action": "2026-02-05",
+    "last_action_summary": "",
+    "summary": "Ireland: Government publishes General Scheme to implement the EU AI Act  DataGuidance",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
   },
   {
     "id": "news-7a8d1e4c211c",
@@ -4300,6 +4566,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-b0fb021a1092",
+    "title": "Navigating Canada’s emerging AI landscape: Risks and realities for financial professionals - Dentons",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNXdsRHBlcU5VSnNPalNkVnNGdWQ5WElDZ1BMMkpTeW95SmdPNmc1U1kyRnJKM2RnZ25FeTRuQ2NSVFhha0k5OVlDREc0MG5YTWdUczJubHBUalAzU2R4UXdmYnJNM3V0andpRjViNkhjSFlTeHlLYWprV0RzY2UxRWp3SjVuQVIwbThOdXNrVldtN05XdFcwM2JhaDZlYUZDVWZR?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Financial Services"
+    ],
+    "date_introduced": "2025-12-09",
+    "date_last_action": "2025-12-09",
+    "last_action_summary": "",
+    "summary": "Navigating Canada’s emerging AI landscape: Risks and realities for financial professionals  Dentons",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
+  },
+  {
     "id": "news-889d6f527d58",
     "title": "Guidance on AI and children | Office of Strategy and Evidence Innocenti - Unicef",
     "jurisdiction": "International",
@@ -4451,6 +4736,25 @@
     "summary": "AI and Machine Learning - New York City launches algorithmic accountability office for public sector AI  Smart Cities World",
     "date_first_seen": "2026-04-03",
     "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-7110994fde90",
+    "title": "Here's how 2 Utah lawmakers want to hold social media accountable for harmful algorithms - KSL.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUdrUmNPc20zN29lYlZvVV9xYU5rbjc5cERkd1JQMmVxNU1UVHZDME1YX3ROazcwRnNzbTZKcHRObEhHYnF4T3lzLUxCaktSTm94RTgzQThFWU1Nb2RDM1JEUXlrVjMxTFJLRzFiTERYSVlJanpkS1pGdFlhREJJanRqNS1SclJ6QVBnYzhhTHVVQ2FsTzNFUlpta2wyUGktQmhOY2pBYmxLYTRNSl9rYUtUR2Q0cjdVcXkzNXdmdlhJUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-11-28",
+    "date_last_action": "2025-11-28",
+    "last_action_summary": "",
+    "summary": "Here's how 2 Utah lawmakers want to hold social media accountable for harmful algorithms  KSL.com",
+    "date_first_seen": "2026-04-07",
+    "date_last_updated": "2026-04-07"
   },
   {
     "id": "news-f19dff65fadd",
