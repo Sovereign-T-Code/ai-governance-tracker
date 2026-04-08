@@ -1,5 +1,24 @@
 [
   {
+    "id": "news-e1e2ff31dc2a",
+    "title": "Commentary: Trump’s AI Framework: What Does It Accomplish? - Redmond Spokesman",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRVUyM01vckE5ay1wd1RCSmRSVzgxNHY3VnJ4TjFYT2U0X2hrb0Y3a2ZzMU1tUFVQam5kMWtKN0haN1RpSGFBODJpUjlwZk8zc2FCQ3ZIX3FEZy1qSG5iYWFFclNkSTRncWR0MnJwRzdfeTdmTGJYV2FiOUNObnk0cnpGVHJiQ3R3SHBrOVhXbF9wS0xYVm1lV28xUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-08",
+    "date_last_action": "2026-04-08",
+    "last_action_summary": "",
+    "summary": "Commentary: Trump’s AI Framework: What Does It Accomplish?  Redmond Spokesman",
+    "date_first_seen": "2026-04-08",
+    "date_last_updated": "2026-04-08"
+  },
+  {
     "id": "news-4a9e35fa3a69",
     "title": "Washington Enacts New AI Laws Targeting Chatbots, Deepfakes, and Disclosure - Secret Seattle",
     "jurisdiction": "International",
@@ -55,6 +74,158 @@
     "summary": "Algorithmic Governance and Child Safety: From Analogue Vulnerabilities to Digital Risks and Algorithmic Accountability  Indian Masterminds",
     "date_first_seen": "2026-04-07",
     "date_last_updated": "2026-04-07"
+  },
+  {
+    "id": "news-dc0e7082facc",
+    "title": "Missouri AI regulations stall as lawmakers fear loss of rural broadband funds - Missouri Independent",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbW1YUUFYLXo5MUVRUlk0QlI3T3g5c1dLSkRueU9jMHRzWkw5eHphSXJ0UEF0VEZuQTdqR045cDlLcDJmNTdRT0JUVkdwX29XTXA4VjR2VmJCTXFXbmNrR0stZTNZMmhLZ1lhWkZSUGNlWDFvQmc2bWFvaTNWTURKM01UdUxOYUlwWlRqUmRLRWR6dmI2a0lvR01fNVdRdWJ2Y0tTd2ZJbmpxMWk4cC13S1BMTE9STE5VandneFpR?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-07",
+    "date_last_action": "2026-04-07",
+    "last_action_summary": "",
+    "summary": "Missouri AI regulations stall as lawmakers fear loss of rural broadband funds  Missouri Independent",
+    "date_first_seen": "2026-04-08",
+    "date_last_updated": "2026-04-08"
+  },
+  {
+    "id": "news-65ec8b5435c9",
+    "title": "The Politics of AI Regulation: Federal Government v. the States - The National Law Review",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ3lHR2FORERsY1QyMmhJc2FOVjZZd2dKY1dEVjZ4RVhYOEdVekpuQ3RnQk9mV2FsVWk3ajVKd2xUQXY2LU1ZTmIzd3Z5bWZ2V1ppeDhJcVNSUGoxWW9lN3NtbkpxNjlDQmFIUW5lQVg0NXFvOUJnOWtxMENWcmlsRUI0WVl1WXpvSC130gGQAUFVX3lxTE9rbkdhdldjVVcxUXlHYVoxX280cnNleGdmU1hJSk5venFOQXg1N3E4TjZmVF9lazhLbzJDSU1uTW0zVEdHU21EOHJIdmV4M01ERVRRdm5kcmp6enpQQlVDamo1TXdZUTIwc3pTRUJ1VUNOblpETUtZVHcxNm9fNDl4Wk5FeDVJdlRIM1cycWltWA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-07",
+    "date_last_action": "2026-04-07",
+    "last_action_summary": "",
+    "summary": "The Politics of AI Regulation: Federal Government v. the States  The National Law Review",
+    "date_first_seen": "2026-04-08",
+    "date_last_updated": "2026-04-08"
+  },
+  {
+    "id": "news-fe512468819e",
+    "title": "Navigating AI compliance with HIPAA essentials | United States | Global law firm - Norton Rose Fulbright",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDk0RHdjRmRFaHl0N3pFZXdKcDNOTURzVmJkNEJrZENtOXEzenBSTTZkNnZGVFN4OVJ2YlprNXJwOExleTJ6dW1IeVAwc1Faajd2RlZYcTc2VXdKV1NRaW1MQ21ocDYyZTNHN09HSHpLWVh3OEpmWjkzVkROekJmMEQzclJvVlRYdTRfb2NHUUhpLVR0LWtHZDE4WFFQNEczY2FLRm85amlmZm5tU2NDZEpqbmNGeGp4NHdsWA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-07",
+    "date_last_action": "2026-04-07",
+    "last_action_summary": "",
+    "summary": "Navigating AI compliance with HIPAA essentials | United States | Global law firm  Norton Rose Fulbright",
+    "date_first_seen": "2026-04-08",
+    "date_last_updated": "2026-04-08"
+  },
+  {
+    "id": "news-07a86d40d35b",
+    "title": "Barndoor expands AI governance platform with Microsoft 365 MCP integrations and enhanced policy management - PR Newswire",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcDFBY2dFN2tCTE9YZ3lTVjJwVVpyeXExLWM1NlB1Y3daTWN6Rk1qamxwWnNvcXJWMkdWdFdrbGZ6TTdFSVVkeU5tTzN0Y3ptU3Z3eG1RcUc3NzBPRVlsUjFsby1lT2J2cHphWUMyQnQ5dmhXY184QWRaMk1kdUI2OTFnUm5DOElraElVb0hTT1hQV2ZqWkFyNURGb2llTUp6aE5BT3R6VWVWdFdXQlhyRXVENUR0WVlISURFcDZNdnFSbElMQVR2R1FsU3ZBWGRMY1d2akNYRWVIQk5oaVYxcUtlVkI2bDJGQlIteldrT1phZ0Rt?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-07",
+    "date_last_action": "2026-04-07",
+    "last_action_summary": "",
+    "summary": "Barndoor expands AI governance platform with Microsoft 365 MCP integrations and enhanced policy management  PR Newswire",
+    "date_first_seen": "2026-04-08",
+    "date_last_updated": "2026-04-08"
+  },
+  {
+    "id": "news-d1a2d30ed152",
+    "title": "OpenAI Calls for New Industrial Policy as AI Reshapes Economy and Governance - theaiinsider.tech",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdl9CR041MGhuTGJPeWNOSFloUlpncmZLNUpvMnhJNHltLU1fbUQxbDQxdVBFQk9TbDU3MjgxYnJ2Q01Eb2hkcFd2SUpMR1oyTGVxU3RXTllKejhkWjVsSFhRMXA2UjNidDhsUFFYS1RlUXcyWDhuVllVdWh6XzE1N21ZT0ZXM2hZVWZra0Z1RnV3WVB6S21GOXdxcXNybXlxeGNoNmk1TTRrTkRwbzJtLXhIYkY?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-07",
+    "date_last_action": "2026-04-07",
+    "last_action_summary": "",
+    "summary": "OpenAI Calls for New Industrial Policy as AI Reshapes Economy and Governance  theaiinsider.tech",
+    "date_first_seen": "2026-04-08",
+    "date_last_updated": "2026-04-08"
+  },
+  {
+    "id": "news-fe868fa36717",
+    "title": "Your AI Governance Can’t Wait. Here’s Where to Start. - TechRepublic",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMzE3V0w5T1llUXFPZWFtVThsMW14QmpiN1BsM2QzcXU3eW9zeWNFenh3SFB2Uk96elVCYWVEYmdMR0NaMEpEMjB3NGVHZThESFVLMjVUOEo3S1BvZ1pkbkU5SktMU005NlR2VDJHcHVUNGRiaUNSLVJwU2FDSGMtYllzVEg0NElsVk9adjYtaWo?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-07",
+    "date_last_action": "2026-04-07",
+    "last_action_summary": "",
+    "summary": "Your AI Governance Can’t Wait. Here’s Where to Start.  TechRepublic",
+    "date_first_seen": "2026-04-08",
+    "date_last_updated": "2026-04-08"
+  },
+  {
+    "id": "news-2a6f9efdc5f3",
+    "title": "South Africa’s AI Governance Gap: Why Security Cannot Be An Afterthought - CIO Africa",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVm9qcGFIYXpoNGxvSUczM1REZkprUkY1OG1VdkxWZUF1NXFhX2J1ZWVBRWpxSXZPczN6bkFaakRCYVVDQkJSS3pDRFFCM3UxWThhbDVlbDEzdlJRa1RpNFpDVHVvN3k5ZE1ESm9JWFp6M3lXRTBmcG5CY2tWaEFFS2NzTU5CQllhUGo0MHJOV1hzQ2Z3S29r?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-07",
+    "date_last_action": "2026-04-07",
+    "last_action_summary": "",
+    "summary": "South Africa’s AI Governance Gap: Why Security Cannot Be An Afterthought  CIO Africa",
+    "date_first_seen": "2026-04-08",
+    "date_last_updated": "2026-04-08"
+  },
+  {
+    "id": "news-ac0278753fb7",
+    "title": "Why AI-Driven Compliance Is Reshaping Data Centres - datacentremagazine.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDlNeFBPQUE4eTRqbXdhVHdyU2tZczJuMFhvS3pWZ1ZQSms3RGtyVVNpU3hET1daTnVrTzRwVDdZTW5qN1BWRHF6dl94MmpFWmFsYjFteWRjSThBOWNKTG9fV0dLNm9rSjM5SVpyeWVUOGo0bWg3QmcwMkx4UDJQUXZ2enBXWlBGRi1kOGhMaw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-07",
+    "date_last_action": "2026-04-07",
+    "last_action_summary": "",
+    "summary": "Why AI-Driven Compliance Is Reshaping Data Centres  datacentremagazine.com",
+    "date_first_seen": "2026-04-08",
+    "date_last_updated": "2026-04-08"
   },
   {
     "id": "news-167858a36fff",
@@ -780,6 +951,25 @@
     "date_last_updated": "2026-04-05"
   },
   {
+    "id": "news-9ef9109cb401",
+    "title": "AI and GDPR Monthly Update March - Dentons",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPM24yeXQzRzd6U3RVX1BXOUhHSVNTMlBabXc1dE1IbHAwd3NHYmJxVzRQZDZLanoyV2JWLXRISlNVdFZPLVlLU1k4azQyTEJtcURuNUVUS2Q1R1dCcjJFVGZIRzVFVDlWR3RrT05Jd2tVQW02U1lTS0ktbHhiQTFFYkdKdEpJV1FsaU1wR05zVHlSSUoyTWJxelNya1BIWTdLU2pOUUcwQlhkLTNZSUVoU3dUM0VLZGItVEE1X1pJX19QYUJrYWt1dVVBeEdZdG13THhrNWh4alRLRWd6U0JhY1c3ZVU1ZnEzSGF3R3VDVlE4TFNQVkwxUVhkT0gyUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Privacy"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "AI and GDPR Monthly Update March  Dentons",
+    "date_first_seen": "2026-04-08",
+    "date_last_updated": "2026-04-08"
+  },
+  {
     "id": "news-c5a3ae4372f1",
     "title": "Arcas Selects Seekr as Explainable AI Partner to Deliver Sovereign AI as EU AI Regulations Tighten - CXO Digitalpulse",
     "jurisdiction": "European Union",
@@ -1121,6 +1311,25 @@
     "summary": "California, not Trump, will decide how risky its AI startups are, Newsom says  CalMatters",
     "date_first_seen": "2026-04-07",
     "date_last_updated": "2026-04-07"
+  },
+  {
+    "id": "news-71aa49b53c1b",
+    "title": "Trust3 AI Launches Trustscore to Give Compliance and Security Teams Enforceable Visibility into AI Agents Ahead of EU AI Act Deadline - Morningstar",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPVXR2NkNWVk1jakVaeEctZGFzeWNuRFJOM2t1akJyTUVESWRuZXNfY1d3WmdzTHFzWGtnVHBEbV9OSHR4ek5YaWJXRjZzT1dZUk5hZnc0bVBWcDdQbkQ1ZVh6a1pPUXBhTjI0dGlGc3QzMmdBcVZiY3FhQ042QXoxb3g3RU9DN1NMRGNXNGtZWTRHN0RQYjZ3U3VwREZGSmJ3VXJrYmUyc2h3TUFrOHYwTjhKZ2ZhQ3gtaUlVVzhqaDJ1WWNIZWF4RjNMT0RXQ2p0MEozamNoTEVpdEpsTkc4Mk9BVkNraTBGYlFYaGVVY0gtUkpPbUU3NEdib2l2OFgzUmpqZW1FcDRMc3VHcmtEelBzNjl6aURfa3JjeWRpbw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-01",
+    "date_last_action": "2026-04-01",
+    "last_action_summary": "",
+    "summary": "Trust3 AI Launches Trustscore to Give Compliance and Security Teams Enforceable Visibility into AI Agents Ahead of EU AI Act Deadline  Morningstar",
+    "date_first_seen": "2026-04-08",
+    "date_last_updated": "2026-04-08"
   },
   {
     "id": "news-4f6077c23c62",
@@ -5174,6 +5383,25 @@
     "summary": "Protecting Information by Local Leaders for Agency Resilience Act or the PILLAR ActThis bill extends the State and Local Cybersecurity Grant Program through FY2035, expands the scope of the program,&nbsp;and imposes certain limits on the use of grant funds. (The program provides grants to states&nbsp;and Indian tribes to address cybersecurity risks to government information systems.)The bill expands the scope of systems that may be secured using grant funds to include operational technology systems and specifies that systems using artificial intelligence are included. Such systems must be maintained, owned, or operated by or on behalf of state, local, or tribal governments.The bill also specifies that grant funds may not be used to purchase software, hardware, or related products or services that do not align with relevant guidance provided by the Cybersecurity and Infrastructure Security Agency (CISA).Further, the bill increases the federal share of costs available to entities that...",
     "date_first_seen": "2026-03-28",
     "date_last_updated": "2026-03-28"
+  },
+  {
+    "id": "news-a0e10cdd8e83",
+    "title": "How to develop AI policies that work for your organization’s needs - American Medical Association",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMW5yVktEWGhFZVhrWmh5dlRLeVh3ZVRvRWJhX3oxQ2pGRW40b2NJRlMwaVRycVpkU3JIY01DQUdDdEQ2M01iWVo5WWhGY3NFQlhRWVdJUEI4dVBWMmllM1FiSXFGMGRhV0tiSkhPNVlYNU9zeENJOXl0cFREd3N5RTgxNGV2SWZjenpWY0pBeUpGZy1oWmxYcVU5R3dRZXVxOVdMUC1fd2Z3X3RoQ1pIZWJ2ZUw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Healthcare"
+    ],
+    "date_introduced": "2025-08-18",
+    "date_last_action": "2025-08-18",
+    "last_action_summary": "",
+    "summary": "How to develop AI policies that work for your organization’s needs  American Medical Association",
+    "date_first_seen": "2026-04-08",
+    "date_last_updated": "2026-04-08"
   },
   {
     "id": "news-8541679594f4",
