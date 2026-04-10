@@ -1,5 +1,252 @@
 [
   {
+    "id": "news-62a14b272e47",
+    "title": "xAI sues Colorado over new AI law - The Hill",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGVjbU1EY2wxNnNITnptSDRnYXNEUGJWekV1YUcyQVlDR3dsTl9HdVZqeGttdElGOUhoak1lbUhxRzBoaGE1Vlc2MUdZUDdjakk1bUpNREwzM1ZieE8zeEM5cUFNVDAyN0Y3Zl9BTDc4LXZQcC1TbE54UVFXWjRqME5IMHXSAYoBQVVfeXFMT0FwVzVrMXFwTjJ0WnB3d1M2UTlTaDFvYnA5cng2Wk9ZTWFEYXl6S3dSU3lGQVU4VjNoTGVNVTFEY1BxNWJFc3Bwb3JhM2QweWxJN1V0aU5vVWZfWHFyZG5iTVFMcXB0aC1uNkt1d1Q1dTloTDJhaHU1XzBjdzVWcTdlZ3NFekd6SFdn?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "xAI sues Colorado over new AI law  The Hill",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "news-28d7859c28db",
+    "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters - WIRED",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc0lMS1FFdUpHQ3ZaX3FyeFJaX3ZWSWRRenc1NGgtZmhXcUZjQk9IWUxFbmZiOUYwWlhGeC1hb3ROb3I3dU5QNjFVQXdDUHlCeW40LS15RTIzWWlTRjdZSlh0N3RFdDhIYTROMXZocklkVEVnRE1YVE1rODI1VGZ4LWx1UUJiQ2lBeWc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Financial Services"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters  WIRED",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "news-19ce420b2d10",
+    "title": "Elon Musk’s xAI sues Colorado over new rules for artificial intelligence - The Guardian",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFlucjRtSi1qemRqZEJKZ3Mtemk5eFprcDNkbTloTG9xdkhmb0FnZEFtalJUM2NmX2ZfQWVXMkpreDZRVWxjeWprdm1BRHVtTHJaYWVyNDZ5VTFfVWdDd1NDOElhQ2V5Z19vT0J5OXd4elJqZlRabVNKYTdEaWNUUW05SGtoZVpq?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "Elon Musk’s xAI sues Colorado over new rules for artificial intelligence  The Guardian",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "news-90749021f6d8",
+    "title": "OpenAI Pushes Illinois Bill Shielding AI Labs From Liability - The Tech Buzz",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUkFDM2U5UDdady12NHVJRDBLdXF2WTkxanJTMDFBY3E3b0J1VWFvSnBQY0taSjh5Xy10OFp6R29lVVVmRFB0SGZXY19XZ1dVZkprU0JpTmV1ekJXVElqVERrZnR6SUpTRGcyZHlxbEl0TFFIRWxyNDdjS3FuOUM3ZV96UF9ySjZTUHZhQzFLb3V4SEFyQ0tEZA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "OpenAI Pushes Illinois Bill Shielding AI Labs From Liability  The Tech Buzz",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "news-5c38d6213dae",
+    "title": "Openlayer Positions AI Governance Platform Around EU AI Act Compliance - TipRanks",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNjJyMjJpZnJYdmZERFdFR1hHeDFNOXRzbVdEbFB5dG03T0dxZEdaejF4UVEwRmdXOTI3aW1CQV93ajVaZS1fM0ZCanp5ZmhTZVNkRlRNMWY0MjdwYzBhUUlpRHJHWUU2TmM4cnMwYVlPcV8zOFNycXRVZDFfLXVsOWVkT1B4eGZRTVZ4TnhsSkF2eS1Fa09WOW1Hd0p3d280cHMyUUJvVElUOFloQmlFeUpvcHh0RE44LUE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "Openlayer Positions AI Governance Platform Around EU AI Act Compliance  TipRanks",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "fed-register-2026-06807",
+    "title": "Advisory Committee on the Medical Uses of Isotopes: Meeting Notice",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://www.federalregister.gov/documents/2026/04/09/2026-06807/advisory-committee-on-the-medical-uses-of-isotopes-meeting-notice",
+    "source_name": "Federal Register",
+    "type": "legislation",
+    "status": "In Progress",
+    "domains": [
+      "Healthcare"
+    ],
+    "date_introduced": "2026-04-09",
+    "date_last_action": "2026-04-09",
+    "last_action_summary": "Notice of meeting.",
+    "summary": "The U.S. Nuclear Regulatory Commission (NRC) will convene a meeting of the Advisory Committee on the Medical Uses of Isotopes (ACMUI) on April 20-21, 2026. A sample of agenda items to be discussed include: a review of recent medical events; recommendations and advice to support the NRC implementation of the ADVANCE Act; recommendations on the staff's memo for licensing the use of alpha nuclides in radiopharmaceutical therapy; recommendations on the potential applications of artificial intelligence (AI) and deep learning technologies to enhance the efficiency and effectiveness of the NRC medical staff and the ACMUI; recommended best practices for the preparation of reports, including guidance on writing subcommittee reports and developing effective presentations, including Commission presentations; assessment of ACMUI membership to determine if the ACMUI would like to propose a change in membership to include an interventional radiologist; ACMUI review and recommendations regarding s...",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "news-024cf535dce5",
+    "title": "AI in Education Legislation: 2026 State Policy Trends - MultiState",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjBpS1BvU3Q5Q2tCaklUVldtSS1VbC1IMDBUMVRtb2JJbF8yaF85ZEY1RU14bWI4eFR5NElYaWFIZ0NOaGktZ1RHYzJ4akI3OXpoYlM4Y3JBRHFfTWVHV0s0SmlLQXh6eWJ6T0xhTW5HN0RCT0tEU0tUR0YzbFBNU2NNNGw5MlFpekxZYlFlMjVkd0xPMlpOSWx2Nkxab1psUk14cnZIcmNtUDhYX1E?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Education"
+    ],
+    "date_introduced": "2026-04-09",
+    "date_last_action": "2026-04-09",
+    "last_action_summary": "",
+    "summary": "AI in Education Legislation: 2026 State Policy Trends  MultiState",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "news-edc1c21692c2",
+    "title": "Lawmakers are using AI to write laws. What could go wrong? - Transformer | Substack",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ0dqbHBfMGY3cnEwa3N4czV0b0NESDJyYmJUdmNxNXpqME41a01MaEJtTmJJejlPOFJXOFljYm1zOEE3X2dCYW5KOEk4eTdTZjRkSEFoUVZ1VW83Z2ZjU2RFWUctVTg0YXptMUVKMktYRVZGLVVTSVkteW1WOFlBbmZDdWJSUWh1NUxJUndlUC1YaExUX2hfQ3RRSWFfRkJON0NKd2ZBZ1Y2bFNQZEE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-09",
+    "date_last_action": "2026-04-09",
+    "last_action_summary": "",
+    "summary": "Lawmakers are using AI to write laws. What could go wrong?  Transformer | Substack",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "news-8bd10952ef47",
+    "title": "Potential Avenues for Redress for AI-related Harms: A Visual Explanation - - Center for Democracy and Technology",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZV9QRU1GdEI2cHlnd2tLS2VwUGlSWk0wYXVSdU1sbEFPcUdoYnhWSXVjUTh6cVVlbllWcEszaE8wVlVSTmwxYndVY3J5RkFUMXd5NktFU00xbHpZWmxSWTFvZ3FfXzdWZUlsWU51MjI3VGtPLVl5S1gxd0RoSTFLWTVHcVpybkg5NjFVclNxenF2anNHY1NOaThnUE9zNjF5VkxDLUpVeUgxYnNsdG5Nbl9JZEpNRHJt?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-09",
+    "date_last_action": "2026-04-09",
+    "last_action_summary": "",
+    "summary": "Potential Avenues for Redress for AI-related Harms: A Visual Explanation  - Center for Democracy and Technology",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "news-c385f20b15ad",
+    "title": "The EU AI Act Data Requirements Explained | Kovrr - Security Boulevard",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM0YydFExN2hzb09OZEMzUXVCUzRsVXNqNVFZOG5Eem9hR1d5QXhBODJER3JwMnpWaVA4dXVSR0daeTRFazRaUlotRGp5WEJ3dFU1TXdiN3JjVkk5cEFPcklPX2s4SVczNWJweXBjQnFhQ1Jtbzh6SE5la3dEYmtkbzI4M2lycjhTN1JIcTJJOA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-09",
+    "date_last_action": "2026-04-09",
+    "last_action_summary": "",
+    "summary": "The EU AI Act Data Requirements Explained | Kovrr  Security Boulevard",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "news-6a545fb9b3a6",
+    "title": "Agentic AI’s governance challenges under the EU AI Act in 2026 - AI News",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmVpYzFOaXk5NVJ0QWJId1lHa1J2aXVuRldQZElIV0FvZlN3SFFGYnY2V2ZELWQweVNaakxUVThKX2xpNUhESjZmakJjX0NPcHhWdDNvb2NCMktVc3U2bEJ5d1Z4V2VQTmR5dm45bEtTc1RYSlY5T3doMTllRlZOLXpURTBONGNZaHVpOXNSNUtPWnpRSklhMldqSG1QbTFPR3JaWXJVeU9xSFZnakRHbA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-09",
+    "date_last_action": "2026-04-09",
+    "last_action_summary": "",
+    "summary": "Agentic AI’s governance challenges under the EU AI Act in 2026  AI News",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "news-30889c37163f",
+    "title": "AI model providers' outdated regulatory threshold a looming test for EU's AI Act - MLex",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNakNkVG9tUnN5cWhaTkZGdFJZMGlWcFNMcDEtNXNJQk04SS1tZ19yWm1TdjVnQldIRFBJamxqUVM2MkxIN2swYjBYLWhTR1lsNl91QXRHM002d3B6cnNIUVhiVkkzRlFmNTMtNThoTi1FWUEzYm9KWUQ3Ql92X1pLREdfMkdBcUFGNGNyNUdnd2FPcEREU29VeGMybUk0RXQ0MHgxZzNSV0g0cTJ2QkpqTmRYeDJkckp4UzUxQUdyVjE5bzNtMEtqV29CUDJHUi1OYm92NENhOE4xRnNRdTdZ0gFaQVVfeXFMTzRSVXFUekU3ZVgzVExUdEJhWXFNdHpJcklYcXh5WmNUdlRhMzVMYS1KQk5yX3E5Mi1xQmpzV3NpMmlVRHBXWGVpSkt0ZzNsNnU4cm5VbFV4NjBR?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-09",
+    "date_last_action": "2026-04-09",
+    "last_action_summary": "",
+    "summary": "AI model providers' outdated regulatory threshold a looming test for EU's AI Act  MLex",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "news-856e1e4b4ebc",
+    "title": "Openlayer Highlights EU AI Act-Focused AI Governance Offering - TipRanks",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdVZBUHE3TTNHQXRKM0lDd05XZUR4em5QTkotdC1vMU1Tc3RWR1hmY2kySGJSc08xOTZXU0ZUaDU5UTQwNHpfVTUzR2ZLSEZGUmtrcEVJYnFRUDR3N0ZlbV9pZHVIMHpmd0I0Mjk0WHAxcVRZVDYxWTU3dk0zRGF3NXdib1pFSzJtZG9VOVloaW1DYXFKSU5kcTNubnRCZEFzaTBubkcyUXNUbEZJOEE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-09",
+    "date_last_action": "2026-04-09",
+    "last_action_summary": "",
+    "summary": "Openlayer Highlights EU AI Act-Focused AI Governance Offering  TipRanks",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
     "id": "news-e1e2ff31dc2a",
     "title": "Commentary: Trump’s AI Framework: What Does It Accomplish? - Redmond Spokesman",
     "jurisdiction": "United States — Federal",
@@ -2929,6 +3176,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-cb01fc1acf7e",
+    "title": "Opinion | California’s AI employment laws look tough, but they leave workers exposed - CalMatters",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2pkelV2WkN3OXVtTlhicTgzeFdnbGlXblppNWJpZWhCUU43S25oQzlRWXg4Q0RVZi1GYS0yMUNzRExoQmFjc0Z6MFBYcWpzbXphaEhOZWlSam1FdmVkWmhja2hLUzY5SmdaV2FWay1EZjQ2REpwanNxNkxEdnI5YTNHZE5QXzQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Employment"
+    ],
+    "date_introduced": "2026-03-23",
+    "date_last_action": "2026-03-23",
+    "last_action_summary": "",
+    "summary": "Opinion | California’s AI employment laws look tough, but they leave workers exposed  CalMatters",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
     "id": "news-83cb8e9ddf0d",
     "title": "Regulating Artificial Intelligence Across Borders - The Regulatory Review",
     "jurisdiction": "International",
@@ -3156,6 +3422,25 @@
     "summary": "EU Parliament Votes to Delay AI Act Deadlines and Ban Nudifier Apps  trendingtopics.eu",
     "date_first_seen": "2026-04-01",
     "date_last_updated": "2026-04-01"
+  },
+  {
+    "id": "news-6135cac4df87",
+    "title": "Europe Is Looking To Water Down AI Protections. It Should Reinforce Them. - Tech Policy Press",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVVJWmZvNlVTczdxYU80NHNmUENocFduNHQ0UmZDWnpJWG1RSHdpUmFYS0VUenBEMFR6eF9BTlFJTkJDSXdZOGhMbzJVSWlrWUd1MVBfZElac2RYV2oxYmVnUHROdDRjWU1qVnpfajVYWF83V2JTLWM2eFh1YU9TMWZXZ0hvUXVrOUFkZzZTX0Z3NUhfVVZDN1hXMkxrS0l6TUJN?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-18",
+    "date_last_action": "2026-03-18",
+    "last_action_summary": "",
+    "summary": "Europe Is Looking To Water Down AI Protections. It Should Reinforce Them.  Tech Policy Press",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
   },
   {
     "id": "news-8dd872e57cea",
@@ -3652,6 +3937,25 @@
     "date_last_updated": "2026-04-02"
   },
   {
+    "id": "news-d97d41feb4e7",
+    "title": "The AI Governance Arbitrage - United Nations University",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmb3VES3BHM29fRUgtNnliNEY5aGVHS29DdENmc3I0UzhHcFlJcm1XZ3JaeFBxTGh2cTd2Z0tGaG5iSUJQU0tWZ1QwVkdEQ0RpVUkzMlYyTDFFMTA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Education"
+    ],
+    "date_introduced": "2026-03-06",
+    "date_last_action": "2026-03-06",
+    "last_action_summary": "",
+    "summary": "The AI Governance Arbitrage  United Nations University",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
     "id": "news-ee94f5a3c0c3",
     "title": "The Data Chronicles | AI enforcement – An international overview - www.hoganlovells.com",
     "jurisdiction": "International",
@@ -3802,6 +4106,25 @@
     "summary": "When should AI companies alert police? What the Tumbler Ridge tragedy reveals about regulating AI  CBC",
     "date_first_seen": "2026-03-30",
     "date_last_updated": "2026-03-30"
+  },
+  {
+    "id": "news-69a11c9b74f2",
+    "title": "AI governance: What organizations need to know in 2026 - MLT Aikins",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGJ0YWdRMHZRWU5GLUxfcTk2cFlybzc5c2lBcDZaM0NSV3FBalRISzVBbjZ4NWtvNjJBNUw3cXVkT1NVc3pBVUluSmtPWndTc2p6Z2lva2U0WDY0anJVQ2NOcG1Wc2FnZ2hTdk5ZMXFrYW5TbEY1U0tNeU52NkdCbmdVVTNpckZa?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-02",
+    "date_last_action": "2026-03-02",
+    "last_action_summary": "",
+    "summary": "AI governance: What organizations need to know in 2026  MLT Aikins",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
   },
   {
     "id": "news-781f6f4b6d22",
@@ -5365,6 +5688,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-e6e2c21741dc",
+    "title": "USA: Bill for Algorithm Accountability Act introduced to Senate - DataGuidance",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWEg5SWFjbmJJWm5Dd3hSTS1LSmJ1QTNjYmpyTTRjZ2VrdVdHdWx5RlVFOHRFRG9wWjEwOWlidlAwZ3RNSXRQY1U0QlhkM25mU1cxQXg1N1FXR1FRd0VYbXhXUHZmUGZuZkFDMHlVX21vd0pDd0RFSWlYNWczSk5nanJjMkkwbWtsY1E?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-11-20",
+    "date_last_action": "2025-11-20",
+    "last_action_summary": "",
+    "summary": "USA: Bill for Algorithm Accountability Act introduced to Senate  DataGuidance",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
+  },
+  {
     "id": "news-6ae4fcc3a36b",
     "title": "Opinion: Algorithm Accountability Act aims to hold social media companies responsible - Deseret News",
     "jurisdiction": "International",
@@ -5458,6 +5800,25 @@
     "summary": "Strengthen Colorado’s AI Act  Electronic Frontier Foundation",
     "date_first_seen": "2026-03-31",
     "date_last_updated": "2026-03-31"
+  },
+  {
+    "id": "news-ed67b104601a",
+    "title": "CURTIS, KELLY INTRODUCE ALGORITHM ACCOUNTABILITY ACT - Senator John Curtis (.gov)",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb0llSkZGaGU0Wk9UVGV1QldjdmRZdDdMX3RLQmR1aENZUWhHekp3N1hKSGxzdjJNQldGNU1xRXVhalhMbHJZLWtWNmlDc0xoSHFmRkhYT1dUb3Z4U3JFTG1JOXVLblJmTlVUSWxCN1hYM0RlMG9fOUo3emhlc3JnZTRTLTNiZnVuY1NyRUhMZ1dCblR0M0JCMm5XV2llUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-11-19",
+    "date_last_action": "2025-11-19",
+    "last_action_summary": "",
+    "summary": "CURTIS, KELLY INTRODUCE ALGORITHM ACCOUNTABILITY ACT  Senator John Curtis (.gov)",
+    "date_first_seen": "2026-04-10",
+    "date_last_updated": "2026-04-10"
   },
   {
     "id": "news-a4395e3c121f",
