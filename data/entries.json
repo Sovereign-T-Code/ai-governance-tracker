@@ -1,5 +1,24 @@
 [
   {
+    "id": "news-709f9cad041e",
+    "title": "Elon Musk's xAI sues Colorado over state's first-in-the-nation AI regulation law - KUSA.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd3hrZW9wbzRqc2hzMzFzbFp3dzkyRzNCTG12Z0tEUTNnU0lkNE04MVVVczh1OE0yb25lMmVFZEszc0RfeUozV2xMWkd4ZkNPeVA4N1VXUnFzblpiU2x4NmZrQmdZSXIzM0szX0owQW5wNVRLd1dEWEgwaGZTUmVyREdqU1dkY01YUFQtSDNES0RacHZTSkg3RjJ4QU9xVjhBUFNjNXpYajBkOE96SGpVaTRZVUpxd3NuY2dNMldKY0JPQ2dSZnpFcFhR?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-11",
+    "date_last_action": "2026-04-11",
+    "last_action_summary": "",
+    "summary": "Elon Musk's xAI sues Colorado over state's first-in-the-nation AI regulation law  KUSA.com",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
+  },
+  {
     "id": "news-62a14b272e47",
     "title": "xAI sues Colorado over new AI law - The Hill",
     "jurisdiction": "International",
@@ -93,6 +112,215 @@
     "summary": "Openlayer Positions AI Governance Platform Around EU AI Act Compliance  TipRanks",
     "date_first_seen": "2026-04-10",
     "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "fed-register-2026-06952",
+    "title": "American AI Exports Program; Call for Proposals for Pre-Set Consortia",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://www.federalregister.gov/documents/2026/04/10/2026-06952/american-ai-exports-program-call-for-proposals-for-pre-set-consortia",
+    "source_name": "Federal Register",
+    "type": "legislation",
+    "status": "In Progress",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "Notice of call for proposals.",
+    "summary": "The Department of Commerce (the Department), through the International Trade Administration (ITA), invites proposals for full- stack American AI export packages from industry-led `pre-set' consortia for designation under the American Artificial Intelligence (AI) Exports Program (the Program) established pursuant to Executive Order 14320, \"Promoting the Export of the American AI Technology Stack.\" A designated package will be presented by U.S. Government representatives as a standing, full-stack American AI export package and may receive priority government advocacy, export licensing review and processing, interagency coordination, and financing referrals, subject to applicable law. Designation does not guarantee any particular form of federal assistance, financing, license approval, advocacy outcomes, or a contract award.",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
+  },
+  {
+    "id": "news-6eb07d592c36",
+    "title": "White House AI Framework Proposes Industry-Friendly Legislation - Lawfare",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3ZiTVlYa3R4RHl5REgzSTlOOU1pNGlvU2h3bjZRX2Z4eXE2aG1CY3ZLMTdVLVlCSk93TUFEd1JjMncwcnZqZFpVYm0wREZQYnlQRU9YTlYzQVVKNndXQ001QzlzbG13WkJhOF9WNnloYm9IV0NlX3BGZm1Cb0l1ZjdxbThiME1yazBhUi0yMEV3Q1NPVHQyNHJaMnJ3YndrMkE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "White House AI Framework Proposes Industry-Friendly Legislation  Lawfare",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
+  },
+  {
+    "id": "news-bc218d8eaa6a",
+    "title": "Auto lenders and dealership finance offices face AI compliance maze as federal and state rules collide - Automotive News",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVlFVYmZ3R0tzT3NNeUlxaWhiN1hiamNkZk45bFJhakdwaUpCQWJIM3g0WFJPdm9WcEUtUVBJZjByeVA1U29KQ2RjeEI1Z2RhYU92T0NmUDJvZXpWM1lSOWR5NUhQSlk4QUFFWl8xWl9TMVlPWTJaLXBmRFNnTExub2JEYmxmMmdUYWhSak5fLVM0dFZi?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "Auto lenders and dealership finance offices face AI compliance maze as federal and state rules collide  Automotive News",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
+  },
+  {
+    "id": "news-411b0aca45d2",
+    "title": "AI laws overlook environmental damage - Japan Today",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdGFBczZubTh1aEM0SWM2S1VKOTVhVGhnRnl6aVlscUpvSUxDcF9yX2J1d0FpVy1VMm9XTVZ1VXl4bVlTbjI4MGVTTzMtRTQtVkVLU1piVm8wNnUyUGIxc0V1R1JIc0h0Y1R0UnlsNVI2cDJ0ZkJ3NjVoeTBXZlJrWmlRbjFYc1VhY196Wi04clV3OWdG?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "AI laws overlook environmental damage  Japan Today",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
+  },
+  {
+    "id": "news-12d6f17427c6",
+    "title": "Elon Musk’s xAI sues Colorado over AI consumer protection law - Colorado Newsline",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xZVJtMHBzOEhqcWNZZ1BMdjFDWS1GdzhmNHpHVWFBeE1fbEJ1dExZSXQyd2tWcGNXMXBfbTJuTkJyLUxXTThqaktWOHJoMkxGYWJpOERXaE9raS1DSW5GV3V4UXRZdHZhUDZFQ0thdFI?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "Elon Musk’s xAI sues Colorado over AI consumer protection law  Colorado Newsline",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
+  },
+  {
+    "id": "news-0152418c044d",
+    "title": "EU AI Act Compliance Cost Statistics 2026: Key Trends Now - SQ Magazine",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BRzhiWF9JUG5FZkVyMVhEeno2ZjZ2WVhYVzAwRkpZX3VjUzNYRTR1Mk5USGtXLUpHc0R0QVZYUktJcUZ0ZUh4WWU1UTJhY1dXS1FoalJqQkdLNVdOZEpabUJYZjViU3NFTmdxdDVzMA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "EU AI Act Compliance Cost Statistics 2026: Key Trends Now  SQ Magazine",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
+  },
+  {
+    "id": "news-3d0de6041204",
+    "title": "States must regulate AI because Washington isn't | J.B. Branch - Lee News Central",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSlA2UEFNSkxyTnBsX2dFMEU0OHBaTGozZGFOLU1rYWFTeDdCLXQ1R2owZzV2MEtJVTNWNW5FNHROc05meWZTZkRPd2R5SXp6UVVvSGlPY2tYZHdnVDBtTTEwQ2p6cG1iQU1NX0RyQ3ZyZU9LcUVBbXVteHFLNVF0a2FUYWNwTXpQSEdrdjBjOUUtRlBlNXRnRkgyR2VvTEZVR0dhbklSbFdScUdOV1JzSlF1TXUySW1wYmtMSzJBX21QMHRqbTZJUDYxcDdJdHZtVUd6dl90SHZlQ2Nh?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "States must regulate AI because Washington isn't | J.B. Branch  Lee News Central",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
+  },
+  {
+    "id": "news-d1985e3a3f73",
+    "title": "UK plans to tackle AI harms would bypass democratic process, experts warn - openDemocracy",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLVR5eXJiX0VhNlJHSkdMeTJwV0RYU3FrRnBmS2tSXzA0WE1oZjdSai14d2NtNEc2Q214a2cxbHJtMUVmQzlrN0pLQy12cUNJdWtDc3VwQlJDbzNQeG1vLVVxTjFVNjB2YVNRNVhMYnhFV3B3dWp2bW1PSWpsbzVEaGZuaUJnOGlsNElWX1V6WXRMbWk1SWtTc2RVbVM?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "UK plans to tackle AI harms would bypass democratic process, experts warn  openDemocracy",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
+  },
+  {
+    "id": "news-45785e6e6203",
+    "title": "AI regulation race: Could U.S., EU, Canadian provinces shape Canada’s federal framework? - Law360 Canada",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNzhGOWlzMUJpakVPMFUxWkx5MmlnZURTRTI3UWVDWWVDelQzejZtNkNhVDg2TDktWUZvTDJpT0pnM25uMXZUSE9NQm9VT1IyVjNVX01XWTNic0JnaVd5dm9CSWxEUzFTUE4zZkJFY0xOZnZvMS1oX3Noblh2WDBMX0lNUGVwNi1GQWlLRkx1ZFZLNnRNTmhKSUFFZ3BKZlB6Q2c5eVhaQlZEWXFBWTNyV3pZM0QzTy1fd2RlYnJQWGFqUXl5LWdpadIBWEFVX3lxTE55YkFyWkFWVEp3eXF5eFVKY2RQSXNUQUVQRXpSVnVqOFdKdTcyY3hXa2RfOC1JWnFEZ1l5OHpKdTBKRjZCOUlIcWU1WnhQQXRmay1zTXpEbU0?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "AI regulation race: Could U.S., EU, Canadian provinces shape Canada’s federal framework?  Law360 Canada",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
+  },
+  {
+    "id": "news-8425ad10379e",
+    "title": "EU AI Act Compliance: a technical audit guide for the 2026 deadline - Raconteur",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT3k2Vm9ZUUhhdWtLRnE1enQxRjdfc1VCYjVSMC11OFNrTWo4U3FnRnlOWGkweHRicEdwaVAzbTVmVTlueWJucE9lenR5LTZ1SDJjeFdGdDZoZ2xlak40RjRGVlhqd0R4QkF6WE9fMHVmX3ZDNG5UWUstTXhJUnVwZG01dG1JN2JYN3B1Mk1QS3h6eTFVaWxlY25WSnYwT3hpaW9BaWtHTHRiYXJ3?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "EU AI Act Compliance: a technical audit guide for the 2026 deadline  Raconteur",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
+  },
+  {
+    "id": "news-83fe24a3f256",
+    "title": "Inside Europe's AI playbook: Guardrails first, flexibility later - Axios",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ2h1U0xPRGNIcmZjVnd3SWNJd0x1a2hIOXV4X0k3ZUxpNVRSNkVCTlZ1dXNQemtJMlFoUHM4V2lEYzI4VUJHVlBkTzlDUnNZX0N6ZVNPZnZ0OFp5WkVfdHBnaEZtckV5U0Z6YkY2RE5IYi1NSmVYZ082Q0M3VWZuWk8wTQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "Inside Europe's AI playbook: Guardrails first, flexibility later  Axios",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
   },
   {
     "id": "fed-register-2026-06807",
@@ -245,6 +473,25 @@
     "summary": "Openlayer Highlights EU AI Act-Focused AI Governance Offering  TipRanks",
     "date_first_seen": "2026-04-10",
     "date_last_updated": "2026-04-10"
+  },
+  {
+    "id": "news-2e4372b57a9b",
+    "title": "AI model providers' outdated regulatory threshold a looming test for EU's AI Act - MLex",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHp5MmxHbHBfSDhyZ0s5dUJ0RUtKQ2xZNWh2Xy0xZXFOX05Cb3dpTXY0dVQ4NkcyQVRDNW1wVGVWTU54QmVKeFFlSXhfWm1lcWxNVGwwTDkyM2p1cEIzYWQtczJPRnFxd2JvSWFSM01VTGt2alJrZzN2OEF1cEp2dlJJTEpfOXI0dmxCN2FUT29JdjlfZGlyal9IdnFEd3hUM2pfX2pzdzBqY3lySHNZTGFRTlc1M1Q4aFFuZ2s3Z9IBWkFVX3lxTE80UlVxVHpFN2VYM1RMVHRCYVlxTXR6SXJJWHF4eVpjVHZUYTM1TGEtSkJOcl9xOTItcUJqc1dzaTJpVURwV1hlaUpLdGczbDZ1OHJuVWxVeDYwUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-09",
+    "date_last_action": "2026-04-09",
+    "last_action_summary": "",
+    "summary": "AI model providers' outdated regulatory threshold a looming test for EU's AI Act  MLex",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
   },
   {
     "id": "news-e1e2ff31dc2a",
@@ -4127,6 +4374,25 @@
     "date_last_updated": "2026-04-10"
   },
   {
+    "id": "news-797d7d0e730f",
+    "title": "American Legislative Exchange Council Releases State Artificial Intelligence Policy Toolkit - Broadband Breakfast",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbVAwYm9TYm5zTjZJMy1ncjNWV2ozM0NQRUFVbXVtRDFZZWhjWXpaaXlyQ1BtWkU5ZmJWdEJheG5FM0otLTJqYUhTRkl4elFWSlVwQkRQS050Mk1WMll6WUxla2ZDejJGZVl4ODRBT29nZktWVW9wX1BiMHprN2pqQkE3OXdtdVNjSXZFZXhodDVyNUhwblRKcmNjUW9LRGtveXBYOUY5ak9zVXlRc3hYYkU4WVJYcXBjdkhXaEhfSEM?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-02",
+    "date_last_action": "2026-03-02",
+    "last_action_summary": "",
+    "summary": "American Legislative Exchange Council Releases State Artificial Intelligence Policy Toolkit  Broadband Breakfast",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
+  },
+  {
     "id": "news-781f6f4b6d22",
     "title": "Trust Without Teeth: The EU AI Act, Healthcare, and the Limits of a Voluntary Bill of Rights - Stanford Law School",
     "jurisdiction": "European Union",
@@ -4698,6 +4964,25 @@
     "date_last_updated": "2026-04-03"
   },
   {
+    "id": "news-e291f8c16c3d",
+    "title": "People process technology and operations framework for establishing AI governance in healthcare organizations - Nature",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzcmpXWENCR0hiVGpvWk1WWEFtOW1OeGRSMHJodU5vM1lxaDRJVnBnT2QtSHFkQVdqT2syODBDNlVCeENCN0s4TGg3MlhRZldmTC1HNWdXbldtSXpmSlFZ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-07",
+    "date_last_action": "2026-02-07",
+    "last_action_summary": "",
+    "summary": "People process technology and operations framework for establishing AI governance in healthcare organizations  Nature",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
+  },
+  {
     "id": "fed-register-2026-02301",
     "title": "Notice of Public Meetings of the Maryland Advisory Committee to the U.S. Commission on Civil Rights",
     "jurisdiction": "United States — Federal",
@@ -4905,6 +5190,25 @@
     "summary": "Most Canadians and Americans now use AI — and demand a say in how it's built  Stock Titan",
     "date_first_seen": "2026-03-31",
     "date_last_updated": "2026-03-31"
+  },
+  {
+    "id": "news-f1ff034556d5",
+    "title": "A Practical AI Governance Framework for Enterprises - Databricks",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbll5Z0pvcGZYSGJmR1EtY2JVdktmMUpneFBGYm1yUlptdFE1RnV2NHQ2YldmenZ4LTBIZ1c0blk5SUdrLWhwVmxzNkJTQVBseEs1d2c2ODNzcjBUV1FjZ2dHSm9jMXdnYmlKSjFrYWVKYVpJNExSb1ZoNGRzRlBEeEdtVQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-01-21",
+    "date_last_action": "2026-01-21",
+    "last_action_summary": "",
+    "summary": "A Practical AI Governance Framework for Enterprises  Databricks",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
   },
   {
     "id": "news-0ee289be323a",
@@ -5115,6 +5419,25 @@
     "summary": "CES26: EU, South Korea Frame Early Global Push for AI Regulation&nbsp;&nbsp;Broadband Breakfast",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-e3e7238c54de",
+    "title": "Building trustworthy AI governance - Wolters Kluwer",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUWZmX00wSVV3Z3czc2tRNzUtY0JrSXVscm1XOVlJSnk4RXRMQU5VRC0yRTZKZGdSSFlfSTBGLW0yUE9PTUl3WUltRFRGUWhVdHFRcUdZTWVCOGZDdjVnaWFkdXNObGVMRDVxRmJuMmRPRG1OU1BiSUtNZFlHZVBTRVZ1T0ZnTklUSWlR?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-01-02",
+    "date_last_action": "2026-01-02",
+    "last_action_summary": "",
+    "summary": "Building trustworthy AI governance  Wolters Kluwer",
+    "date_first_seen": "2026-04-11",
+    "date_last_updated": "2026-04-11"
   },
   {
     "id": "news-1f557097a9ee",
