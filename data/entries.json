@@ -1,5 +1,43 @@
 [
   {
+    "id": "fed-register-2026-07087",
+    "title": "Final Priority and Definitions-Secretary's Supplemental Priority and Definitions on Advancing Artificial Intelligence in Education",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07087/final-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-advancing",
+    "source_name": "Federal Register",
+    "type": "legislation",
+    "status": "In Force",
+    "domains": [
+      "Education"
+    ],
+    "date_introduced": "2026-04-13",
+    "date_last_action": "2026-04-13",
+    "last_action_summary": "Final priority and definitions.",
+    "summary": "The Department of Education (Department) announces one priority and related definitions for use in currently authorized discretionary grant programs or programs that may be authorized in the future. The Secretary may choose to use an entire priority for a grant program or a particular competition or use one or more of the priority's component parts. This priority and definitions augment the initial set of three Secretary's Supplemental Priorities on Evidence- Based Literacy, Educational Choice, and Returning Education to the States published as final priorities on September 9, 2025; the additional Secretary's Supplemental Priorities on Meaningful Learning Opportunities, published as a final priority on February 12, 2026, and Career Pathways and Workforce Readiness, published as a final priority elsewhere in this issue of the Federal Register; and the additional proposed Secretary's Supplemental Priority on Promoting Patriotic Education, published as a proposed priority on September ...",
+    "date_first_seen": "2026-04-12",
+    "date_last_updated": "2026-04-12"
+  },
+  {
+    "id": "fed-register-2026-07084",
+    "title": "Final Priority and Definitions-Secretary's Supplemental Priority and Definitions on Career Pathways and Workforce Readiness",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://www.federalregister.gov/documents/2026/04/13/2026-07084/final-priority-and-definitions-secretarys-supplemental-priority-and-definitions-on-career-pathways",
+    "source_name": "Federal Register",
+    "type": "legislation",
+    "status": "In Force",
+    "domains": [
+      "Education"
+    ],
+    "date_introduced": "2026-04-13",
+    "date_last_action": "2026-04-13",
+    "last_action_summary": "Final priority and definitions.",
+    "summary": "The Department of Education (Department) announces a final priority and definitions for use in currently authorized discretionary grant programs or programs that may be authorized in the future. The Secretary may choose to use the entire priority for a grant program or a particular competition or use one or more of the priority's component parts. This priority and definitions augment the initial set of three Secretary's Supplemental Priorities on Evidence-Based Literacy, Educational Choice, and Returning Education to the States published as final priorities on September 9, 2025; the additional Secretary's Supplemental Priorities on Meaningful Learning Opportunities, published as a final priority on February 12, 2026, and Advancing Artificial Intelligence in Education, published as a final priority elsewhere in this issue of the Federal Register; and the additional proposed Secretary's Supplemental Priority on Promoting Patriotic Education published as a proposed priority on Septembe...",
+    "date_first_seen": "2026-04-12",
+    "date_last_updated": "2026-04-12"
+  },
+  {
     "id": "news-709f9cad041e",
     "title": "Elon Musk's xAI sues Colorado over state's first-in-the-nation AI regulation law - KUSA.com",
     "jurisdiction": "International",
@@ -17,6 +55,25 @@
     "summary": "Elon Musk's xAI sues Colorado over state's first-in-the-nation AI regulation law  KUSA.com",
     "date_first_seen": "2026-04-11",
     "date_last_updated": "2026-04-11"
+  },
+  {
+    "id": "news-ecf821917cf6",
+    "title": "Democrats and Republicans Clash Over AI Regulation - Let's Data Science",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaDJnYXV3clhZU2s0dWJBU0xTSndCNEN6amd0Wk5BQzZVTlhkQkNMN29pWktJeWNZRTk5Z3VqMmx5M25IMnpRclpPSnFHZkk2ZTFCbGlMcTBqcXBwUFZtXzZzWVJmOEJ6bi1tT2FVS3B3TWZTeVJhZFNvdXczSGIwSUNIZk9vN0Q2ZC14WlFEOXk1YXVBS0Q0?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-11",
+    "date_last_action": "2026-04-11",
+    "last_action_summary": "",
+    "summary": "Democrats and Republicans Clash Over AI Regulation  Let's Data Science",
+    "date_first_seen": "2026-04-12",
+    "date_last_updated": "2026-04-12"
   },
   {
     "id": "news-62a14b272e47",
@@ -494,6 +551,25 @@
     "date_last_updated": "2026-04-11"
   },
   {
+    "id": "news-d86ce1935cdb",
+    "title": "AI regulation is stalling as governments clash over control - qz.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vS3hkd29wU1IzWDJLVEMzREVBaTNQaFQ5TEFZVW5YYjJCUi1aUVFuNm1NNFVwX0lLYXpJVlNVZGJlcVRkY1Q4QURGa2tFQ0JQUW1BaUhjSHZKcFVVby1NcnpXSGxSWUNQeTE2YjBETVZyVVctUl9iNHlMLU8?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-09",
+    "date_last_action": "2026-04-09",
+    "last_action_summary": "",
+    "summary": "AI regulation is stalling as governments clash over control  qz.com",
+    "date_first_seen": "2026-04-09",
+    "date_last_updated": "2026-04-12"
+  },
+  {
     "id": "news-e1e2ff31dc2a",
     "title": "Commentary: Trump’s AI Framework: What Does It Accomplish? - Redmond Spokesman",
     "jurisdiction": "United States — Federal",
@@ -566,25 +642,6 @@
     "date_last_action": "2026-04-08",
     "last_action_summary": "",
     "summary": "In final weeks of CT session, AI policy bills come into focus  The Bristol Edition",
-    "date_first_seen": "2026-04-09",
-    "date_last_updated": "2026-04-09"
-  },
-  {
-    "id": "news-d86ce1935cdb",
-    "title": "AI regulation is stalling as governments clash over control - qz.com",
-    "jurisdiction": "International",
-    "jurisdiction_code": "INTL",
-    "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vS3hkd29wU1IzWDJLVEMzREVBaTNQaFQ5TEFZVW5YYjJCUi1aUVFuNm1NNFVwX0lLYXpJVlNVZGJlcVRkY1Q4QURGa2tFQ0JQUW1BaUhjSHZKcFVVby1NcnpXSGxSWUNQeTE2YjBETVZyVVctUl9iNHlMLU8?oc=5",
-    "source_name": "Google News",
-    "type": "news",
-    "status": "Proposed",
-    "domains": [
-      "General"
-    ],
-    "date_introduced": "2026-04-08",
-    "date_last_action": "2026-04-08",
-    "last_action_summary": "",
-    "summary": "AI regulation is stalling as governments clash over control  qz.com",
     "date_first_seen": "2026-04-09",
     "date_last_updated": "2026-04-09"
   },
@@ -2280,6 +2337,25 @@
     "summary": "The empty national AI policy framework: Who is in charge of those in charge?  Brookings",
     "date_first_seen": "2026-04-03",
     "date_last_updated": "2026-04-03"
+  },
+  {
+    "id": "news-118bc1caf8e3",
+    "title": "Seekr’s AI Platform, Designed for Regulatory Compliance, Aligns with EU Enforcement Trends as Explainability Evolves into a Core Compliance Requirement - Bitget",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vMXVwTHN3NUYxMl9Eb296TTZiV1FXMUdScU9MRG40MExOd1RWUlowZzNKTGNSSGd2Vkl3VEJ5UHRwd0RVUUtqNW1YWFE3Y1RyeTJGYjI4c3cyNmJqQ2fSAWNBVV95cUxQd2NVWGdCSFpxTEFWSS15aFlpdXNXR3VSRE4ydjFYdzZRQUYxQ2ZwdTd3SmZtSlo2bFNPTjJjZFlBaE1GS3hBeDdyRlpWSzU2ZjE3dm1XbjN4LU5xRlJoZHhuWEE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-31",
+    "date_last_action": "2026-03-31",
+    "last_action_summary": "",
+    "summary": "Seekr’s AI Platform, Designed for Regulatory Compliance, Aligns with EU Enforcement Trends as Explainability Evolves into a Core Compliance Requirement  Bitget",
+    "date_first_seen": "2026-04-12",
+    "date_last_updated": "2026-04-12"
   },
   {
     "id": "news-d734ef33b482",
