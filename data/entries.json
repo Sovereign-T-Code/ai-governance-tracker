@@ -38,6 +38,63 @@
     "date_last_updated": "2026-04-12"
   },
   {
+    "id": "news-16027b9494e4",
+    "title": "OpenAI Backing Law That Protects It When AI Causes Mass Deaths and Other Mayhem - Futurism",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRExtWDRjYzJRSlV4akFpc0lyZzdzZlo5QVpudVhEQWlDOWZ1TUFHYWtRN0xLNU5nUGxpN3lPOGF0UHJKUlhZSUx4dFlkamhtWTN5cmJiMzVvdkkzSFJ3b3RQWUJHVEtYT05YUEMtLU1mQjRBaGxINU9QajdaUWU5cXhnazM4S3VpNlN4aWlzZG5hemFwQlVTcVN3?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-12",
+    "date_last_action": "2026-04-12",
+    "last_action_summary": "",
+    "summary": "OpenAI Backing Law That Protects It When AI Causes Mass Deaths and Other Mayhem  Futurism",
+    "date_first_seen": "2026-04-13",
+    "date_last_updated": "2026-04-13"
+  },
+  {
+    "id": "news-57e4b152403f",
+    "title": "California Forges Ahead with State AI Regulation - National Today",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkxNdDZZQkJXcmpDdXRaTzhMZnlPOE1ETmN0UmlOcmNNOW43a2hVLUs3Rm9uRnQ2ekduUGxsYktQS3JwZnlwOUNGNnpoYW1IdXhSd2M1UEQtQ0s4MEtWWnNkLXRGanNPYzlFZTZabjZ6WUs4ZWI2cG1HRHRabnFmVXZqNUxVaEJOdGJqQ2NDdF85QjBCUUdHQ2FHR1JnVWR1TENtd1RrLWRzUzFZ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-12",
+    "date_last_action": "2026-04-12",
+    "last_action_summary": "",
+    "summary": "California Forges Ahead with State AI Regulation  National Today",
+    "date_first_seen": "2026-04-13",
+    "date_last_updated": "2026-04-13"
+  },
+  {
+    "id": "news-a955c8b44e16",
+    "title": "Bureau Veritas (ENXTPA:BVI) Valuation After Launch Of EU AI Act Compliance Audit Service - simplywall.st",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVUdMUjQ3OWtVU1RXZjFuSmZWd1AwZWZ1ZHdXLU53RXJnTHR6aGxMajJtSXBOUk9NWmNoVTNoX040RHhyc3pkbS1xSDNhRnhXSFpmejJPX29GQllyR2NFRVllY2dFMzZNVkxiM0x1VmRaTTMyRG4wV3pmNTJmcTVkTXVHZDg3NGJGTDZQSElxNEczb0ZEYUcwcDRUZXVwUF9FQkRoQUhOY0YwclFOYnh5dTlsVmhkRUFDZ1pEQmlrOFpCdWtxNHhYcmppQ1pTaWlVSi05cF9TR1FRZkxFWk9DQ9IB5gFBVV95cUxPa055SEdOOWk4M21QdGJ5VjBKSEREMnZSaDRfazVKRUNheURBM0VuaXJYa3lQdkVwcE0tTGV1aVI2azY4Rm9HWk9jSHoxQnU5emZqTExaN0J3Q3YwMWlNZmtWUUdINWhkd3owakZLMHFieUZtQ3IyQ0J6Znl1eXBBWk5FWGszc210ZzNjaXRTZlVVd29YWnRBMWRTclBrX0psYmFCZnFrQ0lIX1VzeHc5TGEyeXlwa3JYd3NTNXBYeW16ZG54SV94b3NwUlBWM3lxWVpaNVFKb1A5S0ZGd3JNMEpvN1ZzUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-12",
+    "date_last_action": "2026-04-12",
+    "last_action_summary": "",
+    "summary": "Bureau Veritas (ENXTPA:BVI) Valuation After Launch Of EU AI Act Compliance Audit Service  simplywall.st",
+    "date_first_seen": "2026-04-13",
+    "date_last_updated": "2026-04-13"
+  },
+  {
     "id": "news-709f9cad041e",
     "title": "Elon Musk's xAI sues Colorado over state's first-in-the-nation AI regulation law - KUSA.com",
     "jurisdiction": "International",
@@ -798,6 +855,25 @@
     "date_last_updated": "2026-04-09"
   },
   {
+    "id": "news-266413bd20a0",
+    "title": "Missouri AI regulation bill stalls amid fears of losing federal funds - Springfield News-Leader",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVjQ0LWl2NXc5Z3JhRFg0MWk1aE1kb2Z5b25tZ2Foa2k5UHdMOFdxVWVmWG41X2ZiaVBaMFU1NkFfaG43M1IzUnJ3MVJkZ1NiZFEyWmVqRGg4VVMyRkpUNXQ3cEN6dWpJWVJTeG0xRVQ4NTZxbUwyWHNMOGEtRDBpcjU2V0JiTFh5ai1iRG1xWmpiTXJKbEJTYXlETlZwaVFLc1NSN255WnR1TS14dV9uS2FxdUFLZzNsMnlPNkJSLThEZw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-08",
+    "date_last_action": "2026-04-08",
+    "last_action_summary": "",
+    "summary": "Missouri AI regulation bill stalls amid fears of losing federal funds  Springfield News-Leader",
+    "date_first_seen": "2026-04-13",
+    "date_last_updated": "2026-04-13"
+  },
+  {
     "id": "news-4a9e35fa3a69",
     "title": "Washington Enacts New AI Laws Targeting Chatbots, Deepfakes, and Disclosure - Secret Seattle",
     "jurisdiction": "International",
@@ -1024,6 +1100,25 @@
     "summary": "Newsom Signs Executive Order Establishing AI Vendor Certification and Procurement Framework  Ropes & Gray LLP",
     "date_first_seen": "2026-04-09",
     "date_last_updated": "2026-04-09"
+  },
+  {
+    "id": "news-80eb158db09f",
+    "title": "How the AIC4 cloud service provider supports organisations in implementing the EU AI Act - KPMG",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeDJGOGFTTmRUWE56RHZiMnBRWmg0X2d6NmE3a21qeTEtVWZmaVdzUHZMZVNLOWJ3d0RxbkFocmZ1MDV5RWh0T2ZLYUkwTlk2VmhlX2M2YldINExia3dRSkl1ek4zYWc1dVJLNUYwUmswS3FFeG9UUmdCUXhHcnJEcEtDZ19fUTVWa3NkUVJLZk1SVUZWS3Znc2cyWEJ1QnROV3hINHNUU3E0Ymx4azhqTEdQazJXZ3JXNnc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-07",
+    "date_last_action": "2026-04-07",
+    "last_action_summary": "",
+    "summary": "How the AIC4 cloud service provider supports organisations in implementing the EU AI Act  KPMG",
+    "date_first_seen": "2026-04-13",
+    "date_last_updated": "2026-04-13"
   },
   {
     "id": "news-167858a36fff",
