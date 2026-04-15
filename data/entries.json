@@ -1,5 +1,62 @@
 [
   {
+    "id": "news-f68a3a71600f",
+    "title": "Why Courts Can't Balance State AI Regulation–And How to Fix It - Andreessen Horowitz",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNDlVNU1ralYtNjY5MGlxR0V4ZTNUUktxZXk3ZDZUYllfUnRiMVVoLW9vYTFfMGtITmM3MzFDQ3VqSnBZcFBUVmtvTTVsdERDcFkwOE9TX0xJaUJURlI0ZGY1dk1VdnpjWTFXaEFaNGdtb0tJYVB0RkJMNW1ORUZEOVpfNlc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "Why Courts Can't Balance State AI Regulation–And How to Fix It  Andreessen Horowitz",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-f66387341190",
+    "title": "Missouri AI regulations stall as lawmakers fear loss of rural broadban... - Park Hills Daily Journal",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRjJkT2NhSjVDUEpmTk80RkdWOW9lMFU2Nm04Z3NyaUcyNUZpWDJwY19FclFVZWRPUXVweXZ4alZPbmQ4T1dVS0lRenFXNlZuQjhDelJjNGEwZjBYRXZXVXMxLXBaeHdMYnFKWFJhNWZ0X0tkd09zSW80ZjdNZzdiUWltdzJ0VzU0V211SElUa2I4Z2JiYzBZV0FnZW5QWWs0bUgwN0JnVlZCZUF1dUVOTlowd1Nub1RuSWhUMk5qWW5PVUpnc2EyNXJWWEk3VGpRVWt4ZnlPVzlFbEJ5eHpDUTdn?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "Missouri AI regulations stall as lawmakers fear loss of rural broadban...  Park Hills Daily Journal",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-c0a06b133fa2",
+    "title": "Europe’s AI Act and Nigeria’s digital bill: Where the rules meet - The Guardian Nigeria News",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdG9EWERjMUxWVFR4M1NHUkV3U2tEREYwdVRaNE5LUklzaUFlRHJVcnloNUdJclJhZ05rOG5kdVh2UWFrVkZKcDhGSm43MFB5TXYxaFY2VklROVFXSUl6Q1NCbXBXalQwT2tvc0xsbTdpdW5EN2Fma2t3am5LUUppTXl0elNxZU1HTlk5aC13WUgyWlc0LW15eUJIX3B2VFVZRzBN?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "Europe’s AI Act and Nigeria’s digital bill: Where the rules meet  The Guardian Nigeria News",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
     "id": "news-4bc004605d47",
     "title": "AI regulation push, Ohio law makers consider new rules - FOX19 | Cincinnati",
     "jurisdiction": "International",
@@ -36,6 +93,272 @@
     "summary": "AI & Tech Brief: Radical activists and AI safety  The Washington Post",
     "date_first_seen": "2026-04-14",
     "date_last_updated": "2026-04-14"
+  },
+  {
+    "id": "news-0043ce9918ca",
+    "title": "Japan’s first AI legislation becomes law – Focus is on promoting research and development; no monetary penalties - White & Case LLP",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNVNpZ1kxbmJSbUNHcFVVRDdocXFaYlhwTnVDM0tGWXA4dTZoWjFVbUNZRVlDY2stNnhUX09Ybzg1eHZZb1FHaWpTeWVIWFIwR0dvRFhGN2V4LThIWGdGbEVINHUxemR1QkoxNWgzUVQzX2otcm5GZ3gyZGhEeHItNWxpSzFmbklsaHN1aWVHMUdzRnRKOUI0NFY2UWF0OHpVaDBmNlp6NmdqYWhvQnB6WER6dzU2RDV1cUFZSmhyVS0?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "Japan’s first AI legislation becomes law – Focus is on promoting research and development; no monetary penalties  White & Case LLP",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-a56be8ebe50c",
+    "title": "State Data Center Laws Challenge Federal AI Infrastructure Push - MultiState",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORmFhYm10T0h5eDN5a3duSnhkWHFzSTBSc3o1OWRPUzZ2NVk0d19LQk1jRjdMS2l6VnU3ckpCMzYzNjZac0gyaEhvbzhmS2NnYTYyQXRWNTE0M1BrV0ozOWJyQ2hYNS1aX2hZV0dxdmZPOGZSd1NQeWJ6dTBUZHFLM1VQTVpFZ0pGT1pVbkM1SEt0aUVwcFA1Z0xLN3YyaVR0d2Q4dlFjMWF2WFhoWnFzMA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "State Data Center Laws Challenge Federal AI Infrastructure Push  MultiState",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-6d335a46a520",
+    "title": "State lawmakers seek to regulate employer use of AI for wage decisions - HR Executive",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXViN05BZy11THhKRGVYTHB5ZG45NXQ1c2lZVjJhd1BUWkllRmpGRXI2SkdLMWZVR1p2b1VVT2dkamhGN1pJaWlSOUxqUkExNnVPN0gzN0tVdHRBWVpEQWlRWG1VbHFGMV81amI1SkttS1hZazdEYkF3TTVLeWJIRDE4OGxsSmdxbFIxeUppYldzQWcyLWd3OTllUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Employment"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "State lawmakers seek to regulate employer use of AI for wage decisions  HR Executive",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-14acafe8c879",
+    "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed - WIRED",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWGR6enlTLVgzMzcyYkx3bHJrb3VpUEtyejBBaWszUHZyQzBUdXZfa3hNVmxrRmk4QjgtQ1BaXzlfREhYTDNGQlBvNWNHZm9FWDlKZ3hEcTFiTlhFXzhGZUpjR2FPSkFkaXdSbk5Fb0xBQjBpSU1YbFB2NW9rdE4wbDRFSjQya2hBSDNTZ0xweW9iWmlCanpNaUtoNA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed  WIRED",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-214c08c3e282",
+    "title": "Trump urges less restriction on AI - The Paisano",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HaXlhMG5lMFp5QlZvZFBwV0twS3Z2MGNHMmdnRVgwaUU3UTY3NkZZeDlwVVRKNW0tS2QxVmxGN3dQMHA0M3hKVWdNYk1YQncwRk5QbFdsVmEySGpQTlgwUUsyMkd6Sks1ZmU1akdUbkxRSlZVMHVsWEE2WnZvUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "Trump urges less restriction on AI  The Paisano",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-4c63e581acc4",
+    "title": "AI laws overlook environmental damage – here’s what needs to change - Global Government Forum",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMEhOemRENjlRWEd5WTBseW1MOVN2Z1B1R0h0QkJWNll4VWlMYkVBS0pYRFFNSVBYTHRBSjVGelRTaW01U21ManQzallUNWpqX2xsaEp3NHZBNVZkRzhJTFBEYWlDWFJMckN1NjFMaGU3LVM0N09xLU5kbGZfb09pejUwV2ZwR1JzcEQwZkh0aDF6Yk9ab1ctSTBUWjQyWFo1MlE2OFh3?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "AI laws overlook environmental damage – here’s what needs to change  Global Government Forum",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-98bb27584446",
+    "title": "AI, free speech, and America’s real advantage over China - R Street Institute",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUWVuZFVQdzJlbGRTOEJiek9NZ2ZtODJDYnptRnU5dFJNbjZERVEtY3ZfV1hYUWpjQWhRRGF1cnMzamFqUmhhdXV1U19IX2p6a0NpZ01weWdCQ1J4QUZNMFNYZjZKZ2EyZ00xamlpSGQ2c00tdVhXU0xsM2YyRlRZX21FTGdfR3NlWTFkLXllOTFzTnM?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "AI, free speech, and America’s real advantage over China  R Street Institute",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-af11ca2f901a",
+    "title": "ICBA outlines wins, concerns in housing policy push; Fannie establishes AI governance rules - LinkedIn",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUjNjb1U3eTFFbzFwLXV2S1hmZ2I5SEJySWtxOUhuNUp1TmtBRWkxbVVTVFVETkM1b2lJeHk5X1JTLVBkbHhlTTRSeEMzOWRHcUlUMzNJNzhzWFZYc2NrNmltYzJERDVDZmliSnF3ajRPQndVLUpBSnJwa0tic19YdnBuak04NnBWSTVyc3R0bmp0WTFQMnc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "ICBA outlines wins, concerns in housing policy push; Fannie establishes AI governance rules  LinkedIn",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-b358a1b50578",
+    "title": "Can ubuntu principles reshape South Africa’s AI governance landscape? - Daily Maverick",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUt4ZjZGektZMy12NXh4WU9rNjJyaEc3emozQkJfQVM1MDNQOGlZY3Z3bURhSnN4VVpBRWprX09laDFWRzhWNklTMnR6ME5vRDRMc0VPbUtSTEwyQXNpTDJwTGZPVklmcVY4SnJxZWhnc3E4b2dhSGlWWXRhX3Vuc2tlNl8zekRTMGNNdnl0Si1Zdnp5SkxzbmNsMzNFSnFBcTljeTBoaEJQckVwRTZvRXRTb1czYVEtRXhj?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "Can ubuntu principles reshape South Africa’s AI governance landscape?  Daily Maverick",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-c272344116b1",
+    "title": "Ataccama Helps Financial Institutions Meet EU AI Act Requirements with Pipeline-Level Data Validation - The Manila Times",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPeG1GanVlakpVUnBHOWtxV2dncm1CMzE5Mzg1Q3J3c0E4cjNCOGliNjlLOExENUg0QjFYS1BGUnpLNGVETTRwdzdiRFVLd2tSc0xfOEVSUXBHWEN5bGJfNS02SDBnUmwtbktaeTBKOUpBdGw5UC1ZSDhhRHNkWFNhbTFXZEUxOC01a3gzbXFSeWxIVXptNmxDZ0NZMXNLT3VaTnd2MVlJVkY3MmdNY0NFSXFOdjUzWktyMzdmY3Y4cTJ0RkxxamFYUmNua2wzVGhFaVVjMXRGbUxTWGkyQUlNUUZsSzNFXzBlemtMOHlQbm9Xd2pVY3dPYUVRNWNtcFJNVV9hcGpB0gGLAkFVX3lxTE1iOXliSjZLaGlTazZkQ0VoWGJLN1NuUkU5ckNkcTl5UE9kNnZOZE5zUWt2U2VKWkpFN2JIRkdJZDN6QnYyelVwUnRZZG9RMjRPTnFjUWtMMjFhSGVKUFZDR2ZiRjNfYVBqbDUwUG90UUpDb3F0WDhXUy1kZ2lZZnh3cU9ZQlZKSnBHQXFjTU9zTE9SZExPWFQteDd6NmZZYTh5eTBOWUFPSWZSTVM4RnJNRWxJQjNTV0RFNWtpNkUtNnBSZ3ByT0lkTGx2d01fSmt1bFA3YTdvTXJoRXQtQUNMZ3RPYTgyel9hZjN2UGFGRFJPWUlQVkhIMmM2TVFiUE1ENTJkTWt2TUtBTQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Financial Services"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "Ataccama Helps Financial Institutions Meet EU AI Act Requirements with Pipeline-Level Data Validation  The Manila Times",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-9cdca5da035f",
+    "title": "Ataccama Helps Financial Institutions Meet EU AI Act Requirements with Pipeline-Level Data Validation - HPCwire",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNWcwY19UMm1RZ3FtTThZRUdiSzVPR0dSdG41M3o4QXRZNmpZWi1WZl9VbGJ2ZzFkZ0Jwd0I3aEFvS2dZVEJ1Q0pSRFRVNUhCZjNXc0tvdzJ1djlkQnZtMDVNT2tLTVFvMFM0aFZzVVlJSVl5WmRJb2g0Y1VQWGpMc1ByaWUzNkd1QS1rQUZhcjV5WUtNZURXZHY0dk5SMDZHdWdkZm96M215dXZRekJjaVl1dnY2MmF4YTJoUGJORS1wd0dBWlVnek0wTUlMRDBETXJtYl9IQkoxSV93eTVqc2VENEZaUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Financial Services"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "Ataccama Helps Financial Institutions Meet EU AI Act Requirements with Pipeline-Level Data Validation  HPCwire",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-36d67da47983",
+    "title": "Cisco and ML6 are helping organizations prepare for the EU AI Act - Techzine Global",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1JGaWtfZFRQX3RvV0RISVJiMGlKV1J6WUwxeHZBaE96bkFJWVlPZk1zc3JnenRYMk5FMnBQbzRtemEzQk9PNHBPZVRHT3hGN3JCbXRuVUh3NmRQTTJJcHMtV2xGTTRRZDYtVEp0b3l6a0ZEdkxUalJFVXFoaGhVZWt4Q0xWM3dMZWxwQ2EwNzZ2SThvQmVKZ1pSaEJ4LWoyVXdNT1c3UGpvV0JJWF9CbkoyaXh3QVMzUkRFMUZ3?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "Cisco and ML6 are helping organizations prepare for the EU AI Act  Techzine Global",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-7e3408f84c65",
+    "title": "Trade associations urge changes to EU digital omnibus law on AI rules - Telecompaper",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVC16bnNWX0JGNU5UTHRuWHNoRFhsZEVJeTB1bjY2UWpoV0pYZXpYN3h0Yno5VHFPV0RRN1RwYmNwZGZubEl4WHM1TUdlUEJyNzlEUGNPVE5IWXd5TE1TVV9tRkdLOEh2SldaVkJja3NOc3VrMEJSbVh6eUZ2enN1MlhwM3JwSHRiYnVqb1FJNHR2YWJMT3JRUFhsSEJNLVZ1UnJmLTZZS2ZrZzZmT0NaQU9R?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "Trade associations urge changes to EU digital omnibus law on AI rules  Telecompaper",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-55cf497b03ec",
+    "title": "Artificial Intelligence regulation update for start-ups: UK and EU signals in early 2026 - Burges Salmon",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOGRTcmRqQ1l4b25rQnVqLUc4Y2pQelZqUTlwLXdCMkdSQ1k4S0FPaUtBeFV0WF9WYkFHaWtLWVNlVTNzX0NuQ2xCMndNeGd5WVFpTDR5alp4T3QzTkNfZEFlQ2dsZnNLU0g4SVZMMktGYTkwVHF4RjhJWmZXSmV6dTZPYkxMYmt6QzZmdWhaUEdWcUtFbmpDWWZ2ejE3cUNnT1ctUkdsZ2xWTmRDU0M4R3hMYnlTV2s2elpLbk1ad1lGbmJqTGc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-14",
+    "date_last_action": "2026-04-14",
+    "last_action_summary": "",
+    "summary": "Artificial Intelligence regulation update for start-ups: UK and EU signals in early 2026  Burges Salmon",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
   },
   {
     "id": "fed-register-2026-07087",
@@ -625,6 +948,25 @@
     "summary": "Building Your Company’s AI Governance Framework to Reduce Risk  Bloomberg Law",
     "date_first_seen": "2026-04-14",
     "date_last_updated": "2026-04-14"
+  },
+  {
+    "id": "news-a133fcc6100b",
+    "title": "AI regulation race: Could U.S., EU, Canadian provinces shape Canada’s federal framework? - Law360 Canada",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55YkFyWkFWVEp3eXF5eFVKY2RQSXNUQUVQRXpSVnVqOFdKdTcyY3hXa2RfOC1JWnFEZ1l5OHpKdTBKRjZCOUlIcWU1WnhQQXRmay1zTXpEbU3SAVhBVV95cUxOeWJBclpBVlRKd3lxeXhVSmNkUElzVEFFUEV6UlZ1ajhXSnU3MmN4V2tkXzgtSVpxRGdZeTh6SnUwSkY2QjlJSHFlNVp4UEF0Zmstc016RG1N?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-10",
+    "date_last_action": "2026-04-10",
+    "last_action_summary": "",
+    "summary": "AI regulation race: Could U.S., EU, Canadian provinces shape Canada’s federal framework?  Law360 Canada",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
   },
   {
     "id": "fed-register-2026-06807",
@@ -5723,6 +6065,25 @@
     "summary": "Don’t Believe the Hype: Government Regulation of AI Continues to Advance&nbsp;&nbsp;Skadden, Arps, Slate, Meagher & Flom LLP",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "news-bfd283930468",
+    "title": "False Claims Act Enforcement in 2026 to Focus on DEI, AI Fraud - ArentFox Schiff",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeWFFcWZEN3ZEOTlUYllKUXFRR093UmUzOTk4YlNZVDgzbkdwVWJWazBkaUhaZWVVM3d6WTFiQ2hDMDV2SWx6VE1XV3R5bDNSazVKSjF0dnFZMUpWc0N3OTY0OGtLNG5nWDdlcmc4V0xTWVFoZ1ROV1JNZi0tM0tKOU95bzdRS3loSy1hODNRMzRXTVNydTVENFBmaw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-01-09",
+    "date_last_action": "2026-01-09",
+    "last_action_summary": "",
+    "summary": "False Claims Act Enforcement in 2026 to Focus on DEI, AI Fraud  ArentFox Schiff",
+    "date_first_seen": "2026-04-15",
+    "date_last_updated": "2026-04-15"
   },
   {
     "id": "fed-register-2026-00206",
