@@ -1,5 +1,62 @@
 [
   {
+    "id": "news-adeb791b7dd8",
+    "title": "GSE AI governance rules hit lenders and servicers - HousingWire",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55WEZCNng0LVhBMF9hVUE1cC1zamVMMWUwNDJXajdkaVJUcWNxdjJ2UVZ2QWdwOFZZdy03dDZ5UG0zN0xyb3I5bHM1b0N5NHRQZ0N6NHYzSHdKTGdyV3NjLVBwMEQzVHU4TGUtZy13?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "GSE AI governance rules hit lenders and servicers  HousingWire",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-b3d426c5f6ed",
+    "title": "IATA’s Ground Handling Conference in Cairo Focuses on AI, Safety, and Automation to Navigate Aviation’s Rising Operational Challenges - Travel And Tour World",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPcWExaWVRdFMtcldnUnlMM3RHNUlWZWdjOXpQNXpieDlGV2p4V29qS081RE5FMHNkTW90Y0FRN25pcHFUX0hOT05pRUhSWE9oMGJHY1JOX0FFNk1zNi1aZTB4U0t6eDZtRE5CQWd4OGEwcHRUbXg3dzNFMmNWaVY4SUppOEhsbDNra2hvWEtLZ0ZRNlFVcjlpNE1KVmM0SmV4MFk2RlV2T2FDTFJoQTBqV3hQUTU2UzJrNjZuQVR4bFhqWk8xd3dibHpiM3pDUnlvRUdwTUh4ODMybjlGSDN3SGZsTjFuaXlrQlhNQnhpdjZMNEVwTzFvLXdpVEc3LW5kUXBqbVNtcXJRUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Transportation"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "IATA’s Ground Handling Conference in Cairo Focuses on AI, Safety, and Automation to Navigate Aviation’s Rising Operational Challenges  Travel And Tour World",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-14f317c04f33",
+    "title": "What the EU AI Act requires for AI agent logging - Help Net Security",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnOWROOTlaNmlVUm9LVWNPU3F3MXdwY0Npa0FEOEp0UjJKbWFpZDlGUnRtVkI5V3hRT0pWcjZBalhhcFBrZkJoMERNRV9xN2hyclAxSnI5bU1jRVFPRnVMVU9RY3B6bXR6VHVYMUxka2VtRlBzRTYwUlJRTzZyZEE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "What the EU AI Act requires for AI agent logging  Help Net Security",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
     "id": "news-f68a3a71600f",
     "title": "Why Courts Can't Balance State AI Regulation–And How to Fix It - Andreessen Horowitz",
     "jurisdiction": "International",
@@ -55,6 +112,310 @@
     "summary": "Europe’s AI Act and Nigeria’s digital bill: Where the rules meet  The Guardian Nigeria News",
     "date_first_seen": "2026-04-15",
     "date_last_updated": "2026-04-15"
+  },
+  {
+    "id": "news-0d2f5e71bb81",
+    "title": "Amid artificial intelligence explosion, lawmakers debate best path to regulate - IPM Newsroom",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWpoa25ueU1rSlZRTktYWFJQRHJRWE1TQ1VpbGVHRTkwMnlDQ09zUW8wLV8yTHZTUEFmbVQ4Mm9PYkFkV1Q1b05zTXF5cVNoV2lyVElCcUNtbm5IUW1UWmtpbkJVd2RXV2taaWctVlB0Y0NRaHBvTlhOSC0xYzRvb1E3cFE5Z2ppamEwTk5mR1ZGVlM0Nkg3bWlaU3BjMURwTlAxVg?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "Amid artificial intelligence explosion, lawmakers debate best path to regulate  IPM Newsroom",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-2028b07b1a2b",
+    "title": "A Colorado Case Could Set the Course for the Future of AI and Speech - Cato Institute",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VcjdPaTNtM3E1a1dMWjZiU0EzWDROZEhha1lVUzZrdl9XWC1mZlN1MDBkLWk5VnFiQ0FMeXhNS19QMUUxSTBZQ19xUUpZLTNjX0R5M3QyREtUUnhxTEZVMy1yRUtVbV9TYnlNWTVxTi1RdUk0TkxHQW0xSFpNUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "A Colorado Case Could Set the Course for the Future of AI and Speech  Cato Institute",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-33ed911d4d57",
+    "title": "White House AI Recommendations Signal Shift Toward Federal Preemption and Enforcement - JD Supra",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTZLaEdFR211YnF0c2ZsR1Z3Yi1rTlJpOGFZX2lqVWpaUTJRQkpJZGp0Um82Zk1jcm9oX3lCQllYX0VzTk8zOGNqWVFnblFENVlKV2FMbGFzOVd1amFJaVYxZUJEaHpfdVhhR0gtN0s5U3hpbjRKV3Q5TUxES2FLbVdTcWVDcTA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "White House AI Recommendations Signal Shift Toward Federal Preemption and Enforcement  JD Supra",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-1ceba6e0e480",
+    "title": "Amid artificial intelligence explosion, lawmakers debate best path to regulate - Capitol News Illinois",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3BMeUlRVlpPbzZsTV9NZ3RWSlZqT1hkdjg0UDdLc1NRWDlTWEJmLU95S3BxRVFpcm13cVdVUFhoM1FVRXFONTY2MmpMRmN2YmVSWFROeklrel9Na0o3Ry1VN2xxbXI1VTBHRVpyVXBrR0c1TnZnbUcya3FrMVJBVVNjNUdaTTJxOUJsR0RmOEN2MFhmTm90b3Z2RWpLQVg5b3V2ZklHcmxJSEFaSDhMY19zSV82dw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "Amid artificial intelligence explosion, lawmakers debate best path to regulate  Capitol News Illinois",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-4f8c3a92f14e",
+    "title": "AI is shaping health care. Maryland and Virginia are regulating it very differently - WAMU",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QN2xOaEp1S3NuVk8wblI1cEZnaUYzTWt5bWhmOUh4bWVvQWJKVEJvM0pTUWI0SVUwQnQ1bFpkNnJTV0VzNnJWbFprSGFnaXVmTkJ3WnN6UWNyTHh5RzZJZ1hoNUg2bWpzTFBUeGFiUlk?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Healthcare"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "AI is shaping health care. Maryland and Virginia are regulating it very differently  WAMU",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-3cbd73d196b5",
+    "title": "Musk VS. Colorado: xAI Challenges New AI Regulation Law - Benzinga",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWtRQkQ1ZmNiNE9OV081Q2owY2tzbG9jZnVBMnh4WFlUUG1JWndEUGVpYjIxeU9aNXpIVTVnbU1FT0loTk9CT2N1WmdaM00zU0lqMm5KYlY1ZHFOX2M2NEktOVNfNVg3MWwzdXdiT0hub2FSMzBUYVFSUU9TLTlQU0ctV2xxLUhqbHdFNS1ha3VjYURUY0Y1ZkhfUmEybTBlUHViM0RsZ2N2cEs0UEVpNVpuV2VJaENQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "Musk VS. Colorado: xAI Challenges New AI Regulation Law  Benzinga",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-96afbd6ce0ce",
+    "title": "Evers Urges Congress to Reject Federal Effort to Undermine Wisconsin AI Laws That Keep Kids, Families Safe - DrydenWire.com",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOelFJS29GWmE4S1UzZXJ3YkhReDRTWHBHS2dCbkUwbDRac0NtNklOdU5SZ3pqVGNGN21aRl84MlRJd2ZpWGo4TTBaaVRfQ2wyU29SQWZkdXFPSm9tSmVOQmtZZVdVdjF1RldtTEh6RmxKNnR5SEl1RW54YWlPb2psNWtSQ2hWNXBMVDVyZlY0U2RHQkxUb0dBeUJMMXdjUmFZVG5XYjJsOE13aTFYeWM0dVY5aGNCRTdVZ2xWMjVzQ1RncWlJSGYtRC1tTUh4RWJfSlh0Yg?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "Evers Urges Congress to Reject Federal Effort to Undermine Wisconsin AI Laws That Keep Kids, Families Safe  DrydenWire.com",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-476c36969077",
+    "title": "Artificial Intelligence: Governance, Peace and Security in Africa - Amani Africa",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMFB5bGJLbkI1RGp4bDlFMkFkT3BuVXRUR0pqZGNNWldhZGJscDVqRF93Y1liS2JmUU4tLU4zcWY4djdKdktxZDNGZUtOMjhFSGp0TTI2QXRMeEpmVU9oV1ZTQVpfWkRsRlZlR2RIZDB6ZG1xdW1JU19lbHNhRmdoM2d3SHo3MUMwYVVOWGFfWk5aZVZSZWc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "Artificial Intelligence: Governance, Peace and Security in Africa  Amani Africa",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-01c40dabf098",
+    "title": "Stop Reinventing AI Policy. Start Funding What Already Works. - Chronicle of Philanthropy",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iV19DVVFXbG1UMWgxWXdVdXo5al9GWDNzbXh3dDAtWmF5Q3dMLWxjbmg5VVdNbTZucElzZ3ZXRlo4Y3ZJT2NyNnk5NUtyUUJmZjBCbG9taUZRd2Y0Rno4cHYzREtHS3dOUmk4ZDRFODBUN2gtQ1hQMQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "Stop Reinventing AI Policy. Start Funding What Already Works.  Chronicle of Philanthropy",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-4aae29abf4fc",
+    "title": "AI industrial policy questions control over power, wealth and governance - Digital Watch Observatory",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBsU2ZCN0pFTlFkakJXelBLOVgtSWotRm5kV1lqQVVOV3V3bjF4Y19SdGhRV1hZWkNqMV93OTVTVnpFanJ5TTVWYnFQN1NxQThDUG9wQjFXTHg4QUhfSEltWjdwUlotYU9sVzFjZ2FxQ2ZJMDhCUVd6UUF3?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "AI industrial policy questions control over power, wealth and governance  Digital Watch Observatory",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-df306f2a6a52",
+    "title": "While the EU AI Act Stalls, Workday Leads on Trusted, Compliant AI - Workday",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmZLMzd6V2JMUUpoVGlBanYycnhKcnB0ZHp4UHdVNXpyTTlOVjlaOF9WYVYyeE5LMUNiaFNNektWOG9PZXUwaS1qeDhOSDVFcHFDQjhMR1RkR25iemNORlJPZ2o5R2ZWZ0ZrOXdjX2ZFVkhOU0Jwbk5rZVFSWVV5QUc1UV8yYUJpR2dvbGUxRUR5ZGxSZHlGa3BOZmUxNUtiekJB?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "While the EU AI Act Stalls, Workday Leads on Trusted, Compliant AI  Workday",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-c3e06108cf16",
+    "title": "Civil society urges stronger EU AI Act protections - Digital Watch Observatory",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaVlPdFpSYjJ0QzQxN194a0xxaVNFYi03dENjV2oydGJ6VXhBVzI3dDZOdjl4YVB0ei1fY0U1dVNuTVRFeGUwdHJoQTFpVVdDMEZUNGJfTEJTNWtnZjd5bUtiZGp1U0JjeUhmaUpqUWtYaWc0cFV2R0lpZmRfV2NYZGZn?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "Civil society urges stronger EU AI Act protections  Digital Watch Observatory",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-5436b1dfb673",
+    "title": "The Digital Iron Curtain: How the EU AI Act Is Strangling European Innovation - HackerNoon",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQXptTzU1Q2xuU1dCdF9Oa0Z0alBCS3o3ZmNRelNGYVZGaEY5SHB2UzFJa04tY2R5WmV4aVFPSFgwY1R0TVVRVkE2RUtFZjlxUkJCSWFZQWRjT2dBV0FfSGdWLVRXUnQ1ZFZjM1Mwdm5qMDgycE1MZ3RXNHN4LUxNVU9sQmhJd3RSeW9jZmJaMzB2ak9fYVlUTk1sbE9zNmM5?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "The Digital Iron Curtain: How the EU AI Act Is Strangling European Innovation  HackerNoon",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-27ce662cc197",
+    "title": "Workday is well prepared for the EU AI Act, who will follow? - Techzine Global",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWFNBOXBkNTVpR1JEMTRhSFVXQV91ODhVSFJnZXQ4ejVtblUwemI4bU9aR0VaWXdya0NsU2ROUWdOOHl6RnZlWXI4UFdDZ29jSVdrYnFibHVXOWZvNHZOYWZnRWRoN1g5bElyeUdtWXpRYkk4WGt5c01IemR3S2swdm91QjlITTFpVmJXa3hCRVRhdDlEUXpkNFk3akJfejVhblRqcDFfMFJVbXI0NWlMWUFEMjd4Zw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "Workday is well prepared for the EU AI Act, who will follow?  Techzine Global",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-03baad6df958",
+    "title": "EU: Safeguard the AI Act - ARTICLE 19 - Defending freedom of expression and information.",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CTGUycmNYZ3dOemxYbFNqUHhlT1I3ZGxkU2d3dDZCQXhLazhldjZYTXZSdHptTDJ5Q0lXbUxXYk1fOW5qQ0lVYlA2dnhEaW9vVENjVGZJVktEdG8tRkMtYkJlMlZmZnItRFpoLQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "EU: Safeguard the AI Act  ARTICLE 19 - Defending freedom of expression and information.",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-15e717dd2605",
+    "title": "Open Letter: EU lawmakers must safeguard the AI Act - European Digital Rights (EDRi)",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb0lwMHIwQ19IWW5YTmx5Vmg3MlE3SjlaLWllaW92OUppVlo3UXphZFRnUGg5THp3ZUNoY0hJR1UxNWVrcHlYUGVtVDZ5MjhTSHo3b2trUWN0OGRMMDBETUxCdDRVbTdYVkZZZjBocFlMLXdjbncyRnFIYW1xLXk0LVE3dw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-15",
+    "date_last_action": "2026-04-15",
+    "last_action_summary": "",
+    "summary": "Open Letter: EU lawmakers must safeguard the AI Act  European Digital Rights (EDRi)",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
   },
   {
     "id": "news-4bc004605d47",
@@ -5779,6 +6140,25 @@
     "summary": "Ireland: Government publishes General Scheme to implement the EU AI Act  DataGuidance",
     "date_first_seen": "2026-04-07",
     "date_last_updated": "2026-04-07"
+  },
+  {
+    "id": "news-932f38855472",
+    "title": "EU AI Act: Why The 2026 Reckoning for CX Is Global - CX Today",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY18yQmEyZHY5TDFHQUEyYUZWZ0xfSW9VTVEyeEpzQks4Q1I1RnVZbmVmaUJfMUNDaTJQUENsSk5Xa1Q1WkhGZDRiamxrYUllZ09GX3hiUk5SdTI1YS1mbHM1amRBWmxHODZqaFFRWVNtLWpIWkhUOWliTTRpTTFuYzJsRnZVSFpYNktGUk9xUU5hNEo4Ynp4VFBR?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-05",
+    "date_last_action": "2026-02-05",
+    "last_action_summary": "",
+    "summary": "EU AI Act: Why The 2026 Reckoning for CX Is Global  CX Today",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-16"
   },
   {
     "id": "news-7a8d1e4c211c",
