@@ -1,5 +1,100 @@
 [
   {
+    "id": "news-67fdf96709e3",
+    "title": "HKU Hosts 2026 Global AI Governance Conference - Mirage News",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTXhpUm1oTTVnVWVzMzQ0QWdJNnVKV1dpbzlpRXBJX0FiQXdaN0FkWnc0VzZVUDFzeXVYNFZTeUZJNUVJaXlfSmtzSXhvb0tDWFZWSzAxTXFmcjJHNHZqMWRvcXBYWS1BaDEzQ2NIUjdoT2YzcnBKcXdiVVlWcDE2ZEFBTHJ6Z3Nwc3c?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-17",
+    "date_last_action": "2026-04-17",
+    "last_action_summary": "",
+    "summary": "HKU Hosts 2026 Global AI Governance Conference  Mirage News",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-7348293e0399",
+    "title": "Centre forms high-level inter-ministerial body to steer AI governance strategy - Indiatimes",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOUE5oVXd3MUJXRXlxVkJGN3FDWnI5NFEwcW1iWkJrV01kTnlfU3hvaW44dnpoc3hzNXR3SFFmazdYNUxqOVFvX0Rselljdm5aSWoyblNDSmxHREhxdjVXcHFZbFpaXzdJVUNrelB4VGNFOHYzS3RCQjlXSElEQjdzNnpMX25FRGdaWkZibDhGVzlabGxibFNiUENqa2ZldHVjdXVnVzdTWTBsZUFvLVpZbVI1Z1NoNGFxdlg4SndXbnVtNzZXdEFRZjI0QUhQc2VVbGtySnJidEkxMzFkMm93eXZ3SC1QTGhaTGpETzZoT2VNbE9ndWNxRFhhWFJYYURJaHo2NXdtdkg4WFlRQnNJUmFIbGpzeXlrSmNrb2Vkemc0ZmpPNlJobkxDZEpHTElyRHF2Rk1jb9IB9AFBVV95cUxOdVBQRnZ3dkhabUE4V3dTUEdyRHVWeGEtVmFuUkplSGp3R0gzRlNlUHRTUzdrY0R0UV9MTjFqR0ZMdlUwMkhycFFwWGw5X1FIcVdMeEtRZER1NHNBY2c2cDdZVGc2Z3FULXJiNE1aVEduOUtCR0d2WlRJQlN1amNqb1NheUwwRUppcDRDMEl4cFpPdTVCdERFXzF0VU5MNzAwT3ZWT01CclNOQ0ZpczNEWHZnZ3lKUmhUOTBKdV9sZWxTNDBJaEUzZTRYSEk4WF9WR3lWWVV2NGdsTGdvSU9obEVHdjJMeDJSLTBPcDltWGd1U0dz?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-17",
+    "date_last_action": "2026-04-17",
+    "last_action_summary": "",
+    "summary": "Centre forms high-level inter-ministerial body to steer AI governance strategy  Indiatimes",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-90423f6dfa82",
+    "title": "Article 12 and the Logging Mandate: What the EU AI Act Actually Requires – FireTail Blog - Security Boulevard",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOVBHZF9lRnhOYmgwSm4xNW0zQTh1VUFZbW1LdDVUZnBELVRBb2s4RTl1NGduOE5WQU9SeVVYUV93QkNCTXRtTXNDV3ZGeWh1OFNSUEFfSFlDRm1UTENHZmhjUU05cnUyaHpYYmNMV2hfbHNlUF85eXVJbWwyb1lfQTg2akxidlhJZGtuMjZNSzFOVDlyTUVacTFuVU5qbi1Fd2pqMGxicF9nUE9JOFZueFlibTZLek5RS1lFWWtkTktTZw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-17",
+    "date_last_action": "2026-04-17",
+    "last_action_summary": "",
+    "summary": "Article 12 and the Logging Mandate: What the EU AI Act Actually Requires – FireTail Blog  Security Boulevard",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-e186ff27e75b",
+    "title": "Point & counterpoint: AI needs rules — and states cannot be forced to wait — J.B. Branch - Jacksonville Journal-Courier",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXhRRE4yaUZtdzlMUVJfalJ4bnI0UkhmakhZUDM4eEg0UDNZYk9zX2t3aXYtNEFhSEJJbUdWdHU1STZDREd0bDlYdXkyeUQycm9YcFRkZEJIam9RZ2tXdkd6M29RLVE0dmo5dEdhMjA1U1hpSFNKY0I4V2lLdlFkcFdobmZicEg0enZhNWxmUzVGMVZUWnl1WnA3UHZoM0UtRmctXw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-17",
+    "date_last_action": "2026-04-17",
+    "last_action_summary": "",
+    "summary": "Point & counterpoint: AI needs rules — and states cannot be forced to wait — J.B. Branch  Jacksonville Journal-Courier",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-db1a4b2b64ad",
+    "title": "Openlayer Positions AI Governance Platform for EU AI Act Compliance Demand - TipRanks",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcFdDSGh5bnowQTctV0E0NVYxN1MzSHB3T0UxbU9rLU5MUDMwQ0M1dUNPdTdxWFdkUEczM3ZQSUhVb3JVMGtRT1lKQ1Q0SHZVZ0VSQTh1Mml3eC0wdWVkV0tMNzdEUkJ3MEo4ZmNVa3g5cXd6UXdPc3JYelpOeGZESnExdGVKQ0wwZklHeVlMa3lSbjEzM0NKbm9POWVFejZRYjl0NTc1Ym9HUTBFQWktLXFrUS1LMFdTZmNiTDBILUpOQQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-17",
+    "date_last_action": "2026-04-17",
+    "last_action_summary": "",
+    "summary": "Openlayer Positions AI Governance Platform for EU AI Act Compliance Demand  TipRanks",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
     "id": "news-adeb791b7dd8",
     "title": "GSE AI governance rules hit lenders and servicers - HousingWire",
     "jurisdiction": "International",
@@ -55,6 +150,253 @@
     "summary": "What the EU AI Act requires for AI agent logging  Help Net Security",
     "date_first_seen": "2026-04-16",
     "date_last_updated": "2026-04-16"
+  },
+  {
+    "id": "news-4f8c3a92f14e",
+    "title": "AI is shaping health care. Maryland and Virginia are regulating it very differently - WAMU",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QN2xOaEp1S3NuVk8wblI1cEZnaUYzTWt5bWhmOUh4bWVvQWJKVEJvM0pTUWI0SVUwQnQ1bFpkNnJTV0VzNnJWbFprSGFnaXVmTkJ3WnN6UWNyTHh5RzZJZ1hoNUg2bWpzTFBUeGFiUlk?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Healthcare"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "AI is shaping health care. Maryland and Virginia are regulating it very differently  WAMU",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-5dad925afc4a",
+    "title": "Bootleggers, Baptists, and AI - R Street Institute",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BamFtdlFjQWd1V2lWX3JsaGdzejJ5eEhGT1BoRE5LOUNGWkNFUTlNclR1NnJvU0pnSWVqT2VJSTBzekFQYVg5SFJxRU14UmFxdkgxZXJxaUo4UkVHZ1ZKMlRWQQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "Bootleggers, Baptists, and AI  R Street Institute",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-02a01549e3e1",
+    "title": "Govt Sets Up High-Level AI Governance Group to Steer Policy, Jobs Impact - NDTV Profit",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQnVkV0lfQ3pZS1NPSEF4VjZ1N3JEc0daelM2c2dubW9QOGRiVG5LQ1dqRjBqS2htOG55RHAyRmV6SGo4ZDZIM3hBaUJQUE1sVzU3MGx1TXNLeDNTR2V0allQM01KSmFtNVpnZk4xSVF2TDZzUE5uTkgtY0U5VFJDcEIzVm5KRXE0ak9SYmhGclI5bUtTRzJHR2M4cU1Xcy1DRFJoaUJsNmljRVh5TDdacjN4WE1BeFlIUGfSAcIBQVVfeXFMUGY1WExERU9YRk9fQVJPY2o2bHkzVnNSMFJjakRwa0NJTXMwd203MGt6NHh6VjJ0b2lkRE9IUmVCMVh2NGtjbHRQQmwyeVZqbmhHS25QWFRPQVJ0YzJpZ2hWSmtLMGFKZTZaOXV1U1Ayc1U0VXZfOGI3RVFZdkcxLUdUQVFYZ1NoMkRSLVZFMFVaVnk2Rm8xUlBXb3RfNGZYZnRCaUU1bkdVenJZLTBTYVQ2Ti1ab004YWp6UGxTX1pxamc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "Govt Sets Up High-Level AI Governance Group to Steer Policy, Jobs Impact  NDTV Profit",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-c5c421c2ab9b",
+    "title": "Shadow AI Creates Biggest EU AI Act Compliance Risk - Let's Data Science",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWtONk5Da1ZHVkY4Z0RkR015ZU41b0RHNWV2ellwaUxfX01QZDZJN0RCbzZIUkt5MFU0eWd2VVY3S08wd3liVnBHelRhdHlIeG5kZk9NbmFOSnlpUG4tNjVQYmEyQ21zb1VfUDMtbVFTaUhOUExybHhKVGlUR21Fc2o4emNqeGpwb1hjOHVndzd3M0V0RDVQcg?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "Shadow AI Creates Biggest EU AI Act Compliance Risk  Let's Data Science",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-f6e2bc84c4ed",
+    "title": "The Shadow AI Trap: Why Your AI Inventory is Your Biggest EU AI Act Compliance Risk - FireTail Blog - Security Boulevard",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcUF4c0dYUXl2Qk9xSnRldGtYV29KRzRQRFhtLWlKeDBsWkxDLTBNX25zZnZlZmU4Q3padTRxajA0UUNFdlJCaW5IVTFkUkhrRWk3elZtN2E5RWlmenFtUk1xWTJUOWI1ckdkUEVYaVNIaUtja05ySjVubnAzTU00OGZhOGJndG1vWXVWQ3dfTnVUWUlCb2dYVnJyUVFNRE91OEVHWTFDM0hxd2s5VDFXcXRUX1JlTF83TEpvcmtPa3pZMXcyaWFPZTFXdXVEZ0xp?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "The Shadow AI Trap: Why Your AI Inventory is Your Biggest EU AI Act Compliance Risk - FireTail Blog  Security Boulevard",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-049c923c9935",
+    "title": "Beyond the Spreadsheet: Why Manual AI Audits Are an EU AI Act Compliance Liability - FireTail Blog - Security Boulevard",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcTVqa1lOMm12ZUdad21PcVpUOE5pUjJWTURUS3dMdklkeW5aXzhfRXVFRk5pNmNEUW81ZHFiMnhOdTBWX09UR3F6cjFuMHdlcFlYWE5FdUktTTVUVGhUVkRZMUFrVGJKTzRoTG90clV3MW0zT2xfSmZ5LUtQbHR6M0JOUkl5RW5KbVpBYks4ZkgzT2RkZHBXWnhwM3BLT0psanZycnVxcTJwa3V2Z1RjY0Z0R054THZUa2s1Y0J5V2VCTFQ5Z3Z0STFNd1NxNmM?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "Beyond the Spreadsheet: Why Manual AI Audits Are an EU AI Act Compliance Liability - FireTail Blog  Security Boulevard",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-cc67fc8ce266",
+    "title": "It’s clear we won’t regulate AI for safety’s sake - Financial Times",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zLXJUUERELTc5aG5vbzV1OWtzNzlEYjZFRkNaNHRja0sxcENJQi1XYks2NzlVVDRQX0RWR3ZmMVRETlZIUGYyWVZYRktBc1FUSnJSNWpvOTBtLUtuZWhHMFhxSTlPUkhrYmUwUzQ2cTc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Financial Services"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "It’s clear we won’t regulate AI for safety’s sake  Financial Times",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-ab27b828b684",
+    "title": "Helping Hand Or Complete Control? AI In Recruitment In The EU And UK - Ropes & Gray (Boston)",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTzZDSEgwQXdXMl9sM1FsS0NtczhIT0h5S05QRm1KQmZERWhMcTVnMWFsbzFzak5CSnJMMVdTLW9DSFFFc0pvQkhCb3pCeV9JTFg2ODlYRzRGOXN1WTlKMXNQSU10ZGhQS1pSVW9mUHBpNUF2bWFNT0RLdjRfcTl4MVRFeFJXWVE2bGd2QmhLMVF5VzVZRnl5c1BGQU0yb0swNEYtVm5waTNlQm9ZNGFrZXB0RUtZN05paTkxSnMxNTRwdw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Employment"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "Helping Hand Or Complete Control? AI In Recruitment In The EU And UK  Ropes & Gray (Boston)",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-35e3899957c2",
+    "title": "A view from Brussels: Lessons learned on the practice of AI literacy - IAPP",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkxHbnJmMkZpTU1HNHZSOHk1azBiSlNaSlluRG0wWWJLZGRwaVd2ckVoUURjUW1DLWQ5TS1Nd0NZVkxfOC1XMWJKYVBEcXBKeWdjZFlpTjBXM2ZvdDh2SUtBc0tYNVBEZ09kV05reFJpWXZUZ2liU1Y3RnRURU4xMUlBZTVDNUw2bzFrNll2bHI5NkQzWlE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "A view from Brussels: Lessons learned on the practice of AI literacy  IAPP",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-8dcd8decdc82",
+    "title": "EU AI Act Requires Automatic Logging for High-Risk AI - Let's Data Science",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTW14UGUwUHdPeU9FVFdRQmNWNDNGcC1OYy1rWmpCbGZsa2plck9LWXFkSWtqVHVad25NM3N1M0JWZW9MMkNWUWN6VjVka2xDUXZGS1pGNHJNbXVmN2R3a3l3WVMwT0czdTBJdEo4blpaUWl5Ylh0QUlWNDZzbTZMaFg5TzZwX294WGVyWlFiWUlHTks1ODJEMUVRZw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "EU AI Act Requires Automatic Logging for High-Risk AI  Let's Data Science",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-ea489bf1c18d",
+    "title": "CDT Europe’s Feedback to the European Parliament and Council’s Negotiating Positions on the Digital Omnibus on AI - - Center for Democracy and Technology",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdnRpc29UYmVGczFyUTRjazNwRGstT2VoS3FuajNHUno1LTR1d3l2M1RrY0I5TXozSy1fZWRabzhrY0hPMUM3enZVTks2NFNZejJLOHVqN29TZkVaem5RTXZSTWxFV0ZyZlRCUmtFWHd3bTY2aktfZVlvaFZkN3IzWVk0bWtKVHBWbGREb3prNjlSSmJkVGxZMHFUcmtVczVMMFpvRXFkazBqWFZLQ1ZWcWVsYU51eGhydTVDNjV6ZjMyWDhJODZOQWE0a0ZSdWEwcEFn?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "CDT Europe’s Feedback to the European Parliament and Council’s Negotiating Positions on the Digital Omnibus on AI  - Center for Democracy and Technology",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-c475b9345342",
+    "title": "Manual AI Audits Create EU AI Act Liability - Let's Data Science",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbTF1Qnc3WnotdUJndFdKbVIwWnNnQjF0TDBEYjNPQVNPVHA0M3NHeTJGZUJmMENuSldCOWF3OHhkamxNb2xDN0RaWnpXZmRGMG14dWQ2LUJGWVNPX0RPMHJCalR0cmFlaWpwQ2JNOWJoVHhNNVVfTV9aQ3IwSnI4T2FTTENuVmxHajZGbkR3?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "Manual AI Audits Create EU AI Act Liability  Let's Data Science",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-6bdba488268b",
+    "title": "Charting the EU AI Act timeline – key dates from adoption to application - Lewis Silkin LLP",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVJPbWNwNUlGLV9zTVNLaDF2SHEzMVpoR0p5MjBPVjFwaHRhQU53dWJBUS1lS1Bvc0RGZVB0M1A5aXNPTEFTQlRYLUpWN3RDbjR6dmN5NWxST3FzYV9qcnM2ek9TYkNBUW5uQk9iSDZxUzhwcGR3TTdxSVhwb3ZXc2lEOUJDQUk0dV9xR0dnRlQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "Charting the EU AI Act timeline – key dates from adoption to application  Lewis Silkin LLP",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
   },
   {
     "id": "news-f68a3a71600f",
@@ -186,25 +528,6 @@
     "date_last_action": "2026-04-15",
     "last_action_summary": "",
     "summary": "Amid artificial intelligence explosion, lawmakers debate best path to regulate  Capitol News Illinois",
-    "date_first_seen": "2026-04-16",
-    "date_last_updated": "2026-04-16"
-  },
-  {
-    "id": "news-4f8c3a92f14e",
-    "title": "AI is shaping health care. Maryland and Virginia are regulating it very differently - WAMU",
-    "jurisdiction": "International",
-    "jurisdiction_code": "INTL",
-    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QN2xOaEp1S3NuVk8wblI1cEZnaUYzTWt5bWhmOUh4bWVvQWJKVEJvM0pTUWI0SVUwQnQ1bFpkNnJTV0VzNnJWbFprSGFnaXVmTkJ3WnN6UWNyTHh5RzZJZ1hoNUg2bWpzTFBUeGFiUlk?oc=5",
-    "source_name": "Google News",
-    "type": "news",
-    "status": "Proposed",
-    "domains": [
-      "Healthcare"
-    ],
-    "date_introduced": "2026-04-15",
-    "date_last_action": "2026-04-15",
-    "last_action_summary": "",
-    "summary": "AI is shaping health care. Maryland and Virginia are regulating it very differently  WAMU",
     "date_first_seen": "2026-04-16",
     "date_last_updated": "2026-04-16"
   },
@@ -4656,6 +4979,44 @@
     "summary": "AI Legislative Update: March 20, 2026  Transparency Coalition",
     "date_first_seen": "2026-04-01",
     "date_last_updated": "2026-04-01"
+  },
+  {
+    "id": "news-f08910826a63",
+    "title": "Trump administration asks Congress to block state limits on AI - The Washington Post",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42WUFESXp5dlZFT2ptS0YyT0J6Z215NE4tQ2tGbTZmaVcta1pJVGxXZ09ka0c2cS0zZVY0RzVVYTA0aWZtRUplSzg1cVEyQVFMUjVudHRzUkswNG9KRlViRjR0SEk4RWJhRGZ3aWFYQ0x2aTZfZWNEQ3Jpdnk2Y0U?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-20",
+    "date_last_action": "2026-03-20",
+    "last_action_summary": "",
+    "summary": "Trump administration asks Congress to block state limits on AI  The Washington Post",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
+  },
+  {
+    "id": "news-80bce5f3fd9a",
+    "title": "White House releases AI legislation framework - NBC News",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZFZnOVVKRDhvT0JRd0owOWNIX1YtU1ZBTjU4TXlpRGlNVXhsRG9hYW1EZlFKMWM1a1JzaHNGZnoyQ25WMG5jbW1iU0dvQUcweGprNDluSkFuVXMtSE5SSlVSU3lkNEh1RVBsX0hSNHVZNTZGZmZ5alhwSnZwbFExbjM2MWJ5YnMxYW1sRFU3YVNVQUxpaVFCVFliWjlVWDdMejVKMVJMNjhqb2NwVDlDYTB0eFlNR3dy?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-20",
+    "date_last_action": "2026-03-20",
+    "last_action_summary": "",
+    "summary": "White House releases AI legislation framework  NBC News",
+    "date_first_seen": "2026-04-17",
+    "date_last_updated": "2026-04-17"
   },
   {
     "id": "news-8c3de2a7c9cc",
