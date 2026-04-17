@@ -19,7 +19,6 @@ Environment variables:
 import json
 import logging
 import os
-import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -36,23 +35,10 @@ from pipeline.sources import legisinfo
 from pipeline.sources import canada_gazette
 from pipeline.sources import ontario_ola
 from pipeline.sources import tbs_directive
-from pipeline.sources import news_rss
 
 # ---------------------------------------------------------------------------
 # Config
 # ---------------------------------------------------------------------------
-
-# Statuses that indicate a bill's lifecycle is complete — skip refresh for these
-TERMINAL_STATUSES = {"In Force", "Withdrawn/Defeated"}
-
-# Common words to ignore when matching news articles against legislation titles
-_STOPWORDS = {
-    "about", "after", "again", "artificial", "being", "could", "every",
-    "federal", "house", "intelligence", "national", "other", "senate",
-    "shall", "since", "states", "their", "there", "these", "those",
-    "under", "united", "until", "using", "where", "which", "while",
-    "would", "should",
-}
 
 # Paths relative to repo root
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -70,7 +56,6 @@ SOURCES = {
     "canada_gazette": canada_gazette,
     "ontario_ola": ontario_ola,
     "tbs_directive": tbs_directive,
-    "news_rss": news_rss,
 }
 
 # ---------------------------------------------------------------------------
@@ -167,20 +152,13 @@ def run_sources():
 
 
 def filter_and_classify(entries):
-    """Filter for AI relevance and run classification on each entry.
-
-    News articles (type="news") skip the AI relevance filter since they
-    were already found via AI-specific search queries. They still get
-    domain tags applied.
-    """
+    """Filter for AI relevance and run classification on each entry."""
     classified = []
     for entry in entries:
         title = entry.get("title", "")
         summary = entry.get("summary", "")
-        entry_type = entry.get("type", "legislation")
 
-        # News articles skip the relevance filter — they came from AI search queries
-        if entry_type == "news" or is_ai_relevant(title, summary):
+        if is_ai_relevant(title, summary):
             classify_entry(entry)
             classified.append(entry)
 
@@ -209,88 +187,6 @@ def save_data(entries, sources_status):
     logger.info(f"Saved {len(entries)} entries to {ENTRIES_FILE}")
 
 
-def _news_references_entry(news_articles, entry):
-    """
-    Return True if any news article appears to reference this legislation entry.
-
-    Matches by checking whether at least 2 significant words from the entry's
-    title appear in a news article's title or summary. Stopwords and short
-    words are excluded to avoid false positives on generic AI terms.
-    """
-    entry_title = entry.get("title", "").lower()
-    significant = {
-        w for w in re.findall(r"\b[a-z]{5,}\b", entry_title)
-        if w not in _STOPWORDS
-    }
-    if not significant:
-        return False
-
-    for article in news_articles:
-        news_text = (
-            article.get("title", "") + " " + article.get("summary", "")
-        ).lower()
-        if sum(1 for w in significant if w in news_text) >= 2:
-            return True
-    return False
-
-
-def refresh_entries(existing, news_articles):
-    """
-    Re-fetch current status for legislation entries referenced in today's news.
-
-    Uses news articles from the current pipeline run as a signal that something
-    may have changed for a given bill or regulation. Only non-terminal entries
-    from sources with a direct lookup API (Congress.gov, Federal Register) are
-    refreshed.
-
-    Args:
-        existing: The current merged list of entries from entries.json
-        news_articles: News entries fetched during this pipeline run
-
-    Returns a list of refreshed entry dicts (may be empty).
-    """
-    if not news_articles:
-        logger.info("No news articles this run — skipping status refresh")
-        return []
-
-    candidates = [
-        e for e in existing
-        if e.get("status") not in TERMINAL_STATUSES
-        and e.get("type") != "news"
-    ]
-
-    if not candidates:
-        return []
-
-    to_refresh = [
-        e for e in candidates if _news_references_entry(news_articles, e)
-    ]
-
-    if not to_refresh:
-        logger.info("No legislation entries referenced by today's news — skipping refresh")
-        return []
-
-    logger.info(f"Refreshing {len(to_refresh)} entries referenced in today's news")
-
-    refreshed = []
-    for entry in to_refresh:
-        source = entry.get("source_name", "")
-        updated = None
-        if source == "Congress.gov":
-            updated = congress_gov.refresh(entry)
-        elif source == "Federal Register":
-            updated = federal_register.refresh(entry)
-
-        if updated:
-            updated["date_first_seen"] = entry.get(
-                "date_first_seen", updated.get("date_first_seen", "")
-            )
-            refreshed.append(updated)
-
-    logger.info(f"Refresh complete: {len(refreshed)} entries updated")
-    return refreshed
-
-
 def main():
     """Main pipeline entry point."""
     logger.info("=" * 60)
@@ -311,12 +207,6 @@ def main():
     merged, new_entries = deduplicate(existing, classified)
     new_count = len(new_entries)
     logger.info(f"New entries: {new_count}")
-
-    # Use today's news articles as a signal to refresh related legislation
-    news_articles = [e for e in classified if e.get("type") == "news"]
-    refreshed = refresh_entries(merged, news_articles)
-    if refreshed:
-        merged, _ = deduplicate(merged, refreshed)
 
     # Save updated data
     save_data(merged, sources_status)

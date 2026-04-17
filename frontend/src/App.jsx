@@ -4,7 +4,6 @@ import useFilterParams from './hooks/useFilterParams'
 import { filterEntries, extractFilterOptions } from './utils/filters'
 import DataTable from './components/DataTable'
 import Timeline from './components/Timeline'
-import NewsFeed from './components/NewsFeed'
 import ViewToggle from './components/ViewToggle'
 import SectionToggle from './components/SectionToggle'
 import SearchBar from './components/SearchBar'
@@ -98,7 +97,6 @@ export default function App() {
               {/* Active view */}
               {currentView === 'table' && <DataTable entries={filtered} />}
               {currentView === 'timeline' && <Timeline entries={filtered} />}
-              {currentView === 'news' && <NewsFeed entries={filtered} />}
             </>
           )}
         </div>

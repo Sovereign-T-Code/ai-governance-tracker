@@ -6,7 +6,6 @@
 const VIEWS = [
   { key: 'table', label: 'Table' },
   { key: 'timeline', label: 'Timeline' },
-  { key: 'news', label: 'News' },
 ]
 
 export default function ViewToggle({ current, onChange }) {

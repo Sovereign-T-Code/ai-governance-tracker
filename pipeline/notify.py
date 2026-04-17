@@ -26,7 +26,7 @@ TRACKER_URL = "https://sovereign-t-code.github.io/ai-governance-tracker"
 
 def send_notification(new_entries):
     """
-    Send an email listing newly detected entries.
+    Send an email listing newly detected legislation entries.
 
     Does nothing if credentials aren't configured or if the send fails
     (logs a warning but never crashes the pipeline).
@@ -45,29 +45,28 @@ def send_notification(new_entries):
         )
         return
 
-    if not new_entries:
+    # Only notify for legislation, never for news articles
+    legislation_entries = [e for e in new_entries if e.get("type") != "news"]
+    if not legislation_entries:
         return
 
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-    count = len(new_entries)
-    subject = f"AI Governance Tracker — {count} new entr{'y' if count == 1 else 'ies'} detected ({today})"
+    count = len(legislation_entries)
+    subject = f"AI Governance Tracker — {count} new legislation item{'s' if count != 1 else ''} detected ({today})"
 
     # Build plain text body
     lines = [
-        f"AI Governance Tracker found {count} new entr{'y' if count == 1 else 'ies'} on {today}.\n",
+        f"AI Governance Tracker found {count} new legislation item{'s' if count != 1 else ''} on {today}.\n",
         "=" * 60,
         "",
     ]
 
-    for entry in new_entries:
-        entry_type = entry.get("type", "legislation")
-        desc_label = "Summary" if entry_type in ("legislation", "regulation", "directive") else "Description"
+    for entry in legislation_entries:
         description = entry.get("summary") or entry.get("title", "No title")
-        lines.append(f"[{entry_type.capitalize()}] {entry.get('title', 'No title')}")
+        lines.append(f"[{entry.get('status', 'Unknown')}] {entry.get('title', 'No title')}")
         lines.append(f"  Jurisdiction: {entry.get('jurisdiction', 'Unknown')}")
-        lines.append(f"  Status:       {entry.get('status', 'Unknown')}")
         lines.append(f"  Domains:      {', '.join(entry.get('domains', []))}")
-        lines.append(f"  {desc_label}:    {description}")
+        lines.append(f"  Summary:      {description}")
         lines.append("")
 
     lines.append("=" * 60)

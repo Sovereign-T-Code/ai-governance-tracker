@@ -93,13 +93,6 @@ export default function Timeline({ entries }) {
                       {/* Connector dot */}
                       <div className="absolute left-[-26px] top-4 w-2 h-2 rounded-full bg-blue-500 dark:bg-blue-400" />
 
-                      {/* Entry type badge */}
-                      {entry.type === 'news' && (
-                        <span className="text-[10px] uppercase tracking-wider text-amber-600 dark:text-amber-400 font-medium">
-                          News
-                        </span>
-                      )}
-
                       {/* Title */}
                       <a
                         href={entry.source_url}
