@@ -68,7 +68,8 @@ def fetch():
             "Accept-Language": "en",
         })
 
-        all_docs = {}
+        all_docs = {}   # keyed by doc_id
+        seen_titles = set()  # normalized titles for cross-query dedup
 
         for term in SEARCH_TERMS:
             logger.info(f"Searching EUR-Lex for: {term}")
@@ -122,10 +123,13 @@ def fetch():
                     if not celex:
                         celex = link.split("/")[-1].split("?")[0] if link else title[:30]
 
-                    doc_id = f"eurlex-{celex}" if celex else f"eurlex-{hash(title) % 100000}"
+                    doc_id = f"eurlex-{celex}" if celex else f"eurlex-{title[:50].strip()}"
 
-                    if doc_id in all_docs:
+                    # Deduplicate by ID and by normalized title (strip all whitespace)
+                    title_key = "".join(title.lower().split())
+                    if doc_id in all_docs or title_key in seen_titles:
                         continue
+                    seen_titles.add(title_key)
 
                     # Extract summary/description
                     desc_el = result.select_one(".SearchResult_Summary, .EurlexSummary, p")

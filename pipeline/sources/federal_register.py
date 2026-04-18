@@ -65,6 +65,7 @@ def fetch(from_date=SEARCH_START_DATE):
             params = {
                 "conditions[term]": term,
                 "conditions[publication_date][gte]": from_date,
+                "conditions[type][]": ["RULE", "PRORULE"],
                 "per_page": 50,
                 "order": "newest",
                 "fields[]": [

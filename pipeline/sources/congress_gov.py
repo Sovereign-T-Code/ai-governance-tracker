@@ -140,9 +140,23 @@ def _strip_html(text):
 
 
 def _is_ai_related(title, summary_html):
-    """Check if a bill's title or summary mentions AI-related terms."""
-    text = (title + " " + _strip_html(summary_html)).lower()
-    return any(term in text for term in AI_TERMS)
+    """
+    Check if a bill is primarily about AI, not just tangentially mentioning it.
+
+    Requires either:
+    - An AI term (or standalone "AI"/"A.I.") appears in the title, OR
+    - An AI term appears 3+ times in the summary (AI is a central topic)
+    """
+    title_lower = title.lower()
+    if any(term in title_lower for term in AI_TERMS):
+        return True
+    # Also catch bills with standalone "AI" or "A.I." in the title
+    if re.search(r'\ba\.?i\.?\b', title_lower):
+        return True
+
+    summary_text = _strip_html(summary_html).lower()
+    total_hits = sum(summary_text.count(term) for term in AI_TERMS)
+    return total_hits >= 3
 
 
 def _build_entry(bill_info, summary_record):
