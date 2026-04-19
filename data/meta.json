@@ -1,45 +1,45 @@
 {
-  "last_run": "2026-04-18T07:00:01.041452+00:00",
-  "total_entries": 490,
+  "last_run": "2026-04-19T07:10:22.315120+00:00",
+  "total_entries": 501,
   "sources_status": {
     "congress_gov": {
       "status": "ok",
-      "last_run": "2026-04-18T06:58:47.225186+00:00",
+      "last_run": "2026-04-19T07:09:04.931470+00:00",
       "entries_found": 56
     },
     "federal_register": {
       "status": "ok",
-      "last_run": "2026-04-18T06:58:55.510634+00:00",
+      "last_run": "2026-04-19T07:09:13.220358+00:00",
       "entries_found": 261
     },
     "eurlex": {
       "status": "ok",
-      "last_run": "2026-04-18T06:59:18.411712+00:00",
+      "last_run": "2026-04-19T07:09:36.583348+00:00",
       "entries_found": 42
     },
     "legisinfo": {
       "status": "ok",
-      "last_run": "2026-04-18T06:59:39.224268+00:00",
+      "last_run": "2026-04-19T07:09:57.737660+00:00",
       "entries_found": 0
     },
     "canada_gazette": {
       "status": "ok",
-      "last_run": "2026-04-18T06:59:45.630663+00:00",
+      "last_run": "2026-04-19T07:10:05.155113+00:00",
       "entries_found": 0
     },
     "ontario_ola": {
       "status": "ok",
-      "last_run": "2026-04-18T06:59:47.951838+00:00",
+      "last_run": "2026-04-19T07:10:08.667914+00:00",
       "entries_found": 0
     },
     "tbs_directive": {
       "status": "ok",
-      "last_run": "2026-04-18T06:59:50.335036+00:00",
+      "last_run": "2026-04-19T07:10:11.193122+00:00",
       "entries_found": 2
     },
     "news_rss": {
       "status": "ok",
-      "last_run": "2026-04-18T07:00:00.875568+00:00",
+      "last_run": "2026-04-19T07:10:22.152194+00:00",
       "entries_found": 105
     }
   }
