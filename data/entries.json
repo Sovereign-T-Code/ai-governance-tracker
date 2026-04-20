@@ -1,5 +1,24 @@
 [
   {
+    "id": "news-0b8bc7fc7abb",
+    "title": "EU AI Act Shock: Emotion Recognition Is Now Illegal at Work. So Why Is Your Vendor Still Selling It? - UC Today",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRFB3NjY4R2pqcHdEM0dKWFJ4X0NnZTM4c3ByRXM3RHB2VjlycE5ONTBYLXRIYWlsRjlfMFdGbHMxbFdMLV9ldjc5OXBTeHdEbUpIUHNXaXJoMzJ2ZFhmV09ObFBKUjZmMTl3TU9pVnhBTHVEaXJaUHBweE1sQWp3eWp0X2dqb21QQlRxMTlfU1hYb1h6NG4taEdhcDdsbHBTaWtxR0hpd2VVcmswbktBMmVmVExoQm9Za1lIZVdPZHpuck1KZWZGTTRUQ3QtWkc5R2NGc096QkFKcDA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-20",
+    "date_last_action": "2026-04-20",
+    "last_action_summary": "",
+    "summary": "EU AI Act Shock: Emotion Recognition Is Now Illegal at Work. So Why Is Your Vendor Still Selling It?  UC Today",
+    "date_first_seen": "2026-04-20",
+    "date_last_updated": "2026-04-20"
+  },
+  {
     "id": "news-e0d399a29583",
     "title": "India Formalises AI Governance Architecture With Expert Panel Backing Strategic Policy Group - Swarajyamag",
     "jurisdiction": "International",
@@ -36,6 +55,63 @@
     "summary": "India Moves to Formalise AI Governance with MeitY Policy Panel  The420.in",
     "date_first_seen": "2026-04-19",
     "date_last_updated": "2026-04-19"
+  },
+  {
+    "id": "news-743dda103af3",
+    "title": "Trump wants to stop states from regulating AI. States and Congress keep saying no. - The Next Web",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzVOVG5nVXBYb1JXbEFadUlYRnVNYW51N3kyXzlla1JhM1RIQmJPVi1ZanpBUjRuS1R2RUdMM0F2MFRBZjNHTC04SjlIdkJRLXIyTnkxR1JPamVHNEIxM1U1SjR4ZkVhM082d3NSNTRvTXJJN1ViY0oya1FwdWhHa21UZzFSdw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-19",
+    "date_last_action": "2026-04-19",
+    "last_action_summary": "",
+    "summary": "Trump wants to stop states from regulating AI. States and Congress keep saying no.  The Next Web",
+    "date_first_seen": "2026-04-20",
+    "date_last_updated": "2026-04-20"
+  },
+  {
+    "id": "news-ecc90e16ea06",
+    "title": "Point/Counterpoint: Uniform federal regulation of AI would help US compete - Duluth News Tribune",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNektmdU1uOG5Ca3lweFRndjhXMzV2ajl5WE53dDZEQlYxSk91QUlkLUJjQ0NmamllTndiTWxUaUNYazBFN0FkVVJneGh6T3V4WkVacmZsRGVjaTBQdGFJVzRtT0hCU1RyMlZidGo1YXphVERSY0VWeHhBZUpLbzVjV0NReS0taWR1ZXp5ZW1LSVVxWmlmYWJHZ3RnN01jbGEwQUJhN2pxaGVZcjM0Wng0Zm9SRWp0Y3otMzBxM3g2c0s?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-19",
+    "date_last_action": "2026-04-19",
+    "last_action_summary": "",
+    "summary": "Point/Counterpoint: Uniform federal regulation of AI would help US compete  Duluth News Tribune",
+    "date_first_seen": "2026-04-20",
+    "date_last_updated": "2026-04-20"
+  },
+  {
+    "id": "news-127ee5225f54",
+    "title": "Trump Seeks to Preempt State AI Regulation - Let's Data Science",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNGppZE1mdWo2RFhSTVdVUkxNcWZvYVFUWnk1X1p0eFV0TXlUZzFTNGFleEw4ajBZZk43dUVMZWM4UzIyaFhISjVZM3RRcWhxR1VVYzBRX3ZBYVpoa2QxWWREbnFpd1d1LU1mNjJDVjZaVmxwNEZsRENneC1Ga2RBMC1lQlZXUjUxTW9TTg?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-19",
+    "date_last_action": "2026-04-19",
+    "last_action_summary": "",
+    "summary": "Trump Seeks to Preempt State AI Regulation  Let's Data Science",
+    "date_first_seen": "2026-04-20",
+    "date_last_updated": "2026-04-20"
   },
   {
     "id": "news-03678dd41722",
@@ -418,6 +494,44 @@
     "date_last_updated": "2026-04-18"
   },
   {
+    "id": "news-b7cc9c911b38",
+    "title": "How Is AI Regulated? Examples, Benefits, & Drawbacks - Britannica",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91SzNWUlViMlZGZUVheTdwU3ZNZC13b2RYWGJpS01od3NmeHpoV1dsZzA0TmhKdm5QODlvZFc4bldSbktENkJiX3lQS2ZRN1hHVVdNc2xfdVctemswVHdLeE1EUUdLNWJY?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-17",
+    "date_last_action": "2026-04-17",
+    "last_action_summary": "",
+    "summary": "How Is AI Regulated? Examples, Benefits, & Drawbacks  Britannica",
+    "date_first_seen": "2026-03-29",
+    "date_last_updated": "2026-04-20"
+  },
+  {
+    "id": "news-1fdef291c6d6",
+    "title": "Illinois State Lawmakers Work Toward AI Regulation - govtech.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbHBSTmJqVERUN2ZhX2M5WkZ2U1BVWHJuem1CeHFOMEE1a21FSU0zdDI5S04tYkdTMjdqeUN5cWk2d3FCOHM2cHpSVWpfYzV5c1VINUU5NjZvTzNoQ2RqaEswcjY1UjZNV05Lb2V4R2ppSEh6eXRuMTRjMjdUeHhiekFtbzJWTkNvMk51b1VjUHB3MWh2WE1TWmJXQ0lONmc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-17",
+    "date_last_action": "2026-04-17",
+    "last_action_summary": "",
+    "summary": "Illinois State Lawmakers Work Toward AI Regulation  govtech.com",
+    "date_first_seen": "2026-04-20",
+    "date_last_updated": "2026-04-20"
+  },
+  {
     "id": "news-adeb791b7dd8",
     "title": "GSE AI governance rules hit lenders and servicers - HousingWire",
     "jurisdiction": "International",
@@ -758,6 +872,63 @@
     "summary": "Anthropic’s hacking tech exposes EU AI Office weaknesses  politico.eu",
     "date_first_seen": "2026-04-19",
     "date_last_updated": "2026-04-19"
+  },
+  {
+    "id": "news-b634f0357ecd",
+    "title": "MeitY Sets Up Apex AI Governance Body AIGEG to Drive National Strategy - Devdiscourse",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWUptTEx4Ylk5LTNXbGVjSXp2X0ZjMVB2S1J6YjNFM0FUQkJSd3BYQmJabXBmX0NxbDJFYktKS1BXUFFmNkxGMG5tUkw3NnkwaTYxdWMyLXRSWERZU1BudV9HUGNEQU54VFBtSVVlTWU1RWZnUk05cXU3ZDdxWnR6OHA5YnB0bnB3czN5UGtqOHhtMlNSUkh6N0FfaTZDRjlyVEpRVElVYjNLQmdDMFl2bHJaQmZHWnlVc281MzU4bWNrdU3SAcgBQVVfeXFMTjJkZlhPdktCcWlsbkNvSUh5ZGJVdVJuRnhtYmFYVUo1c0o5VnBNQUZ2S0hiSTBqSXQxbXQzY0xpNXZJV01tQk52aWQ5M1JHZVFldzBJVGxMRFpjTURnWFlfM0FLSmFUVzRxVW52T096ZVdEaWRUNWtYV3BrS1hvQ1E3V1FhZUxrZVBVOGRWYXdWbzhiam02cGE3YUNEQ0xKQTBzWjdyWHZuNXJmZm5uZmhKS2xqLUpqNWNxakktNlpZY0l6eU5kQkQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "MeitY Sets Up Apex AI Governance Body AIGEG to Drive National Strategy  Devdiscourse",
+    "date_first_seen": "2026-04-20",
+    "date_last_updated": "2026-04-20"
+  },
+  {
+    "id": "news-ff6440d3e4bf",
+    "title": "AI Governance in Australia: A Complete Guide on Regulations, Policies, Law and Principles - Nasscom",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaWhWaWZXR3l4ZlFkMnQ5ZlEycTVEZERwN19GVEh0RFpkdWJuaTVDZXZHWDVlZXgxUDR3dDJGOXN6S3hlWVhUbjg4enM1WWtOSkZjNHFiN3FMTFkyN2hLREY3N25FbUJTdVRGWDRXMnNxak5keTBHR3Y5QUloYmgxb1U0ajUwVlpCQnlZa19xOUNEaXRvNFdYckh2b3QyWXFVOXhCVDk3VkdrNHdRMERKMUJOdzVkNHFMZ05ORA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "AI Governance in Australia: A Complete Guide on Regulations, Policies, Law and Principles  Nasscom",
+    "date_first_seen": "2026-04-20",
+    "date_last_updated": "2026-04-20"
+  },
+  {
+    "id": "news-1ef02352d00d",
+    "title": "AI-Powered Transfer Pricing Enforcement Should Rouse MNEs to Act - news.bloombergtax.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd0R5UzVVcjRkZ011U2Q4dkN4b0g4UmdnbEFOb0lQQ192SWZ1eDVWNzcyckRObzRXZE1EdHAweGZRVHk2dHdMaGxxWXh2Z2oyMTA1UDgxWEFBUWtobTlvdm9lbmx4YksxcDA3Z09laXg2bjc4cmFDYTU5SC1LRmtYMXI0X1d6YTJJQ1h3ZEh1czlqcC1KcU9FTEVjRjNTamVBTzQ2ZXhQOUhEM3c0X0ExV3RpRUtGZjF5ZVRoeXNGWQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "AI-Powered Transfer Pricing Enforcement Should Rouse MNEs to Act  news.bloombergtax.com",
+    "date_first_seen": "2026-04-20",
+    "date_last_updated": "2026-04-20"
   },
   {
     "id": "news-f68a3a71600f",
@@ -1119,25 +1290,6 @@
     "last_action_summary": "",
     "summary": "Certainty and algorithmic accountability in the decision to go to war: Lessons from evidentiary approaches in international criminal law | Cambridge Forum on AI: Law and Governance  Cambridge University Press & Assessment",
     "date_first_seen": "2026-04-06",
-    "date_last_updated": "2026-04-18"
-  },
-  {
-    "id": "news-b7cc9c911b38",
-    "title": "How Is AI Regulated? Examples, Benefits, & Drawbacks - Britannica",
-    "jurisdiction": "International",
-    "jurisdiction_code": "INTL",
-    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91SzNWUlViMlZGZUVheTdwU3ZNZC13b2RYWGJpS01od3NmeHpoV1dsZzA0TmhKdm5QODlvZFc4bldSbktENkJiX3lQS2ZRN1hHVVdNc2xfdVctemswVHdLeE1EUUdLNWJY?oc=5",
-    "source_name": "Google News",
-    "type": "news",
-    "status": "Proposed",
-    "domains": [
-      "General"
-    ],
-    "date_introduced": "2026-04-15",
-    "date_last_action": "2026-04-15",
-    "last_action_summary": "",
-    "summary": "How Is AI Regulated? Examples, Benefits, & Drawbacks  Britannica",
-    "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-04-18"
   },
   {
@@ -6596,6 +6748,25 @@
     "summary": "From innovation to regulation: How internal audit must respond to the EU AI Act  Wolters Kluwer",
     "date_first_seen": "2026-04-04",
     "date_last_updated": "2026-04-04"
+  },
+  {
+    "id": "news-01ee82f811fb",
+    "title": "AI Watch: Global regulatory tracker - Taiwan - White & Case",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTWo5VjlSbHhKcFp1LVJ0VlY1aUVjVXVXT1JtZHBVNVdDOUo2UlBfMkJ1aVJXVmdyOXUzN3JnRWpOT01kcnozSXhSSDU1aW5HUVZSWVRUYkpqdDNLZUduYTVKakRmRWY3MDdEUEViVV9RQ0JldlltdHg1OEUyUHM3Y3I1UVFlbjBBcUxPY0ZwejBsUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-02-18",
+    "date_last_action": "2026-02-18",
+    "last_action_summary": "",
+    "summary": "AI Watch: Global regulatory tracker - Taiwan  White & Case",
+    "date_first_seen": "2026-04-20",
+    "date_last_updated": "2026-04-20"
   },
   {
     "id": "news-68a9fad35b60",
