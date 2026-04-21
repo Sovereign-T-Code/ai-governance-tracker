@@ -1,5 +1,43 @@
 [
   {
+    "id": "news-d2d0fba903a0",
+    "title": "Missouri AI regulation bills stall amid federal pressure - KCTV",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWFBfUS0tQ3dCLUs2VURjZTdaaHRfdzdZdGdUZFJMV0RDOVhxTEc2Yjh4NWMybWpqNTRfVC1qTzhScERWSGJ2emtQaEpzUnFhMkJLSHhRVTg5dzZPWmEyalVYN3NHREExWHZRcUdFLTdLMU5Wb1ZSUUlHQmNtYlRHdGRpaFhYNFVYRmpicldZLUpONUti0gGoAUFVX3lxTE5ZRGZrZmdlUzNPOXd5TzFrai1GMW9ldDRzdnpVWFBOTGRvc2FxQWJUWVBhWUo0bkdCT1BqMVJlM0JhdDdjSHhld2poekpydTRIUE1KZEpYbjBrSFVkbkhyUzQtU2tSaGFxZHBlQk9uVG5Fa3IwOUVUVjgwNjdiTWVGNnpoRi1pbDdDLWlHbDFnNTlqSVpmc0VRU0ZrR0tXQ0I3WlBDQm9xbA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-21",
+    "date_last_action": "2026-04-21",
+    "last_action_summary": "",
+    "summary": "Missouri AI regulation bills stall amid federal pressure  KCTV",
+    "date_first_seen": "2026-04-21",
+    "date_last_updated": "2026-04-21"
+  },
+  {
+    "id": "news-f3cd1d9ebb5a",
+    "title": "‘Govt keeps options open for future AI legislation’ | Business News - Hindustan Times",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdW5Cc1hFdi1KTU45NW04LUdQVDV3NXBOaXdFVTA0RDJsbS1BcHo3a1dtcFJ3TG9NYzdVSDFLVjBtcWk5R05LWThrZjE1bjN4SGJRYlhsX2hZQ1paLTJremhnb2J4WDVIaFY1cVBzUHJfY2dfcG5rVEVlV1FoNDA5bUs4MnVQMnRXNERjT1JuQVhsQzdDOUJjdjRBclBOS0QxZGVzTS1MZno0am9XcktN0gG0AUFVX3lxTFBTcElIbnNqMmRYNFE1ZFY4NHNyeW5tZXlCVktXVDhIdVBiaDFkTkR4QzZjZUFQMDl5VmliM3BXbWZhMkx6aTdIdjB1c0JvNS1lcnhtVjlnZGxvMkVXd243cUNoamZ0eEVCaWxobmxMeGMwSXBKV1VSOHRGZmF6alpwbnFKMndZV3RyYjdNRkh6Wml1UlpoYUlwZXhOM3pldE14RjNuaktBVHZodS14WUxYVjQtZA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-21",
+    "date_last_action": "2026-04-21",
+    "last_action_summary": "",
+    "summary": "‘Govt keeps options open for future AI legislation’ | Business News  Hindustan Times",
+    "date_first_seen": "2026-04-21",
+    "date_last_updated": "2026-04-21"
+  },
+  {
     "id": "news-0b8bc7fc7abb",
     "title": "EU AI Act Shock: Emotion Recognition Is Now Illegal at Work. So Why Is Your Vendor Still Selling It? - UC Today",
     "jurisdiction": "European Union",
@@ -17,6 +55,120 @@
     "summary": "EU AI Act Shock: Emotion Recognition Is Now Illegal at Work. So Why Is Your Vendor Still Selling It?  UC Today",
     "date_first_seen": "2026-04-20",
     "date_last_updated": "2026-04-20"
+  },
+  {
+    "id": "news-ae618743ffaf",
+    "title": "Florida’s ‘AI Bill of Rights’: What happened, what’s in it, and what’s next? - Florida Phoenix",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYWU5dThpR01oSEVlZmtmbS1UNWtXakRLeURuU0RYNWNfdUFhMlIwVkVma0tsSENGU3N2VF9BQkt0Z3FQc2hobWlCOG1DcndISkF3Ym40M2hHUUJYMFZMQ1FnUm5VRjBWN041X1dkWlEtaTVHM0dmWXh1MnlJNlU1R1dWZTcyQ1g1Z3MxeDdyOXo1MGNHQlh3Q2hTc0ZkdkhBVkVOR2hrZ2lCdw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-20",
+    "date_last_action": "2026-04-20",
+    "last_action_summary": "",
+    "summary": "Florida’s ‘AI Bill of Rights’: What happened, what’s in it, and what’s next?  Florida Phoenix",
+    "date_first_seen": "2026-04-21",
+    "date_last_updated": "2026-04-21"
+  },
+  {
+    "id": "news-d2f173d1f70a",
+    "title": "She says ChatGPT is responsible for her son’s death. CA lawmakers are listening - Sacramento Bee",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYmF3MHJCVHdkQzdQUWdTSldvYzRRUmxtZ25vZ1A1QUd2XzdmZzE5LV9wVjVqMjh0LXBOWEg2Wnl0bnVsdFV3cUZHN1ZsOWV1STFXYlBPRm5BMlduUnY2dlFSZnRDWW5DbzRrV0ZNZEd1amphZ2wzTi1MdHExamtaVlNqVWRCTXZLdVcw0gGLAUFVX3lxTE0zUjZlRjhGNmItOU9OSWpDMzd3SUMwYVo0TWJBT2kySDNxXzdoRnFtbHcxLUdraktvNU1RRTdCTUhsdmZVRVNFX01nN29mQmJnMGM2WXFwRWRCVjZGYUdidlpFOXhGUTlxTHF5ZWRMc1lWRDZuOHVwNy1yS3RvNTVqVGtCT3lka1pZVGM?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-20",
+    "date_last_action": "2026-04-20",
+    "last_action_summary": "",
+    "summary": "She says ChatGPT is responsible for her son’s death. CA lawmakers are listening  Sacramento Bee",
+    "date_first_seen": "2026-04-21",
+    "date_last_updated": "2026-04-21"
+  },
+  {
+    "id": "news-136899b70112",
+    "title": "Failed Utah AI Bill Highlights Ongoing Conflict Between States and Feds - PYMNTS.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYU95VXdWWE5aNTBfcWhIbnAzTko1clRBYmY5VkVQUGhYOWhUcUhZd0kyN0FZOGZFUEtwb3ZNQXE4d2gzOTFBN0xnYVU5VmVFUTJzVWcyTEJEXzNKbFRRYU9xZ1BSZVZXRmdod29JUEs1aWNRRTFPNmFnbmpkS3lRT2VhR2ZPQTlFbmVuSWo5am5yaDIwZ3lRSWVJYVpKQTMtekc1U2MzXzc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-20",
+    "date_last_action": "2026-04-20",
+    "last_action_summary": "",
+    "summary": "Failed Utah AI Bill Highlights Ongoing Conflict Between States and Feds  PYMNTS.com",
+    "date_first_seen": "2026-04-21",
+    "date_last_updated": "2026-04-21"
+  },
+  {
+    "id": "news-6524a7775264",
+    "title": "Artificial Intelligence Regulation News: 5 Urgent Risks - Brussels Morning",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QTFFFNUtoX2ZieHk1MGY5TmRGdVF4YS14T0pOa1NzaVpxR2RJYjBMbU5sSEFtdkhvRHl0TTB5UFV6UlYzM0ZkMWRDRjJaZ3pER3lYYjVlMnE3cEQtRVdiWkp0NGR2TG05YTVKd2todEVqTmM5MTc1amJtNzF4NDQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-20",
+    "date_last_action": "2026-04-20",
+    "last_action_summary": "",
+    "summary": "Artificial Intelligence Regulation News: 5 Urgent Risks  Brussels Morning",
+    "date_first_seen": "2026-04-21",
+    "date_last_updated": "2026-04-21"
+  },
+  {
+    "id": "news-1f545eca54ef",
+    "title": "US, California Use Purchasing Power to Set AI Rules - AI Business",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS0dFV2J2enhPMy1rY1NPVVJwQy0tWnpJNllBODY5Z0N4d3RzN093ZTEzOUZwRnhDcGZyTzVpdWxiWV8xUnplSTIxVWp3eW0wUUw1dTJ0bVRPM1phVVpIR2xyU1dVV2hXZHctVlpEZDlFMVBiU3NibnN2R09SaFBJOEVMaXB2MUE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-20",
+    "date_last_action": "2026-04-20",
+    "last_action_summary": "",
+    "summary": "US, California Use Purchasing Power to Set AI Rules  AI Business",
+    "date_first_seen": "2026-04-21",
+    "date_last_updated": "2026-04-21"
+  },
+  {
+    "id": "news-071893208139",
+    "title": "AI Act: obligations, risks and opportunities in the new governance of artificial intelligence - Leaders League",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbmF1SVdJLVN2QWVtVkZQNmIxem9sOWw3Y2Q2M0NXZmQ1YXZ6bFY4cUt6WktKb3o0YlRsb3hBZ2tQLXR5TVYzU2IzVTd5cXZhRmRkYWVTbUhHZndvdXI4bGJfWVRZeVN0UmtDWXc2aVR6U0NGYWlETjlzdEJxajFkSmF6TEs2TVU?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-20",
+    "date_last_action": "2026-04-20",
+    "last_action_summary": "",
+    "summary": "AI Act: obligations, risks and opportunities in the new governance of artificial intelligence  Leaders League",
+    "date_first_seen": "2026-04-21",
+    "date_last_updated": "2026-04-21"
   },
   {
     "id": "news-e0d399a29583",
@@ -931,6 +1083,44 @@
     "date_last_updated": "2026-04-20"
   },
   {
+    "id": "news-476c36969077",
+    "title": "Artificial Intelligence: Governance, Peace and Security in Africa - Amani Africa",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMFB5bGJLbkI1RGp4bDlFMkFkT3BuVXRUR0pqZGNNWldhZGJscDVqRF93Y1liS2JmUU4tLU4zcWY4djdKdktxZDNGZUtOMjhFSGp0TTI2QXRMeEpmVU9oV1ZTQVpfWkRsRlZlR2RIZDB6ZG1xdW1JU19lbHNhRmdoM2d3SHo3MUMwYVVOWGFfWk5aZVZSZWc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "Artificial Intelligence: Governance, Peace and Security in Africa  Amani Africa",
+    "date_first_seen": "2026-04-16",
+    "date_last_updated": "2026-04-21"
+  },
+  {
+    "id": "news-495b4c672ef1",
+    "title": "States can—and should—regulate AI in criminal justice - Brookings",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSmhraEdLR1oySWktMXB4cDYxMzF2RlhpTTVLT0UzM2p6eE9TaDZlajFCS24tZlIyUXhxZnk3ZE43R1JkamhyMThsOWdpUUs0U2h4WnNrZHJmUzNLMzVVUXJGaVNGS1UzMUFRZ0lEZG15STZzVjY4N3F4ZHRnQm1KTjNJQnBKV0VENTlISVQ3dXFyRmM?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Criminal Justice"
+    ],
+    "date_introduced": "2026-04-16",
+    "date_last_action": "2026-04-16",
+    "last_action_summary": "",
+    "summary": "States can—and should—regulate AI in criminal justice  Brookings",
+    "date_first_seen": "2026-04-21",
+    "date_last_updated": "2026-04-21"
+  },
+  {
     "id": "news-f68a3a71600f",
     "title": "Why Courts Can't Balance State AI Regulation–And How to Fix It - Andreessen Horowitz",
     "jurisdiction": "International",
@@ -1098,25 +1288,6 @@
     "date_last_action": "2026-04-15",
     "last_action_summary": "",
     "summary": "Evers Urges Congress to Reject Federal Effort to Undermine Wisconsin AI Laws That Keep Kids, Families Safe  DrydenWire.com",
-    "date_first_seen": "2026-04-16",
-    "date_last_updated": "2026-04-16"
-  },
-  {
-    "id": "news-476c36969077",
-    "title": "Artificial Intelligence: Governance, Peace and Security in Africa - Amani Africa",
-    "jurisdiction": "International",
-    "jurisdiction_code": "INTL",
-    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMFB5bGJLbkI1RGp4bDlFMkFkT3BuVXRUR0pqZGNNWldhZGJscDVqRF93Y1liS2JmUU4tLU4zcWY4djdKdktxZDNGZUtOMjhFSGp0TTI2QXRMeEpmVU9oV1ZTQVpfWkRsRlZlR2RIZDB6ZG1xdW1JU19lbHNhRmdoM2d3SHo3MUMwYVVOWGFfWk5aZVZSZWc?oc=5",
-    "source_name": "Google News",
-    "type": "news",
-    "status": "Proposed",
-    "domains": [
-      "General"
-    ],
-    "date_introduced": "2026-04-15",
-    "date_last_action": "2026-04-15",
-    "last_action_summary": "",
-    "summary": "Artificial Intelligence: Governance, Peace and Security in Africa  Amani Africa",
     "date_first_seen": "2026-04-16",
     "date_last_updated": "2026-04-16"
   },
@@ -1766,6 +1937,25 @@
     "summary": "Europe is dismantling its own rulebook to compete with America  The Next Web",
     "date_first_seen": "2026-04-14",
     "date_last_updated": "2026-04-14"
+  },
+  {
+    "id": "news-2fd5785ac154",
+    "title": "Commission issues €9 billion in its fourth syndicated transaction of 2026 - European Commission",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FSDJyMTVsMkxtVm8xTHpUNDhHTXlSbzRKOUpLWHhOekN5ajRmVmNDc2VUVjZtRldQUXNuMjlVbFpRSFpORXJpdVRNT1BKU2JsUWo2V2lPVHVFLVdhMmV3enE0OFZEbjlKQXFmdkhnNEk?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-13",
+    "date_last_action": "2026-04-13",
+    "last_action_summary": "",
+    "summary": "Commission issues €9 billion in its fourth syndicated transaction of 2026  European Commission",
+    "date_first_seen": "2026-04-21",
+    "date_last_updated": "2026-04-21"
   },
   {
     "id": "news-16027b9494e4",
@@ -3039,6 +3229,25 @@
     "summary": "What the EU AI Act Means for Your Content Library  BBN Times",
     "date_first_seen": "2026-04-07",
     "date_last_updated": "2026-04-07"
+  },
+  {
+    "id": "news-a984f5f467d0",
+    "title": "AI Watch: Global regulatory tracker - South Korea - White & Case",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeUt5bkFfblVNTDJ6Vmo4VEw3ekRkdmZYQVFFVkZWYTR1ck5FclRfelNGRXoyZnRUM0lNMFM1RHZmb096dHduMC02Y1F2UE1vNExXSG1ESHVpVHZfektHZ3NrUHQ3YjFPNU5oWGVqdTJRcVBzU090WHpjRWVTXzlnWFY1bExmS1hkSDlyMnB6Q2VjYTJpMS0ycw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-06",
+    "date_last_action": "2026-04-06",
+    "last_action_summary": "",
+    "summary": "AI Watch: Global regulatory tracker - South Korea  White & Case",
+    "date_first_seen": "2026-04-21",
+    "date_last_updated": "2026-04-21"
   },
   {
     "id": "news-23b1b36c9805",
