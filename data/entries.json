@@ -1,5 +1,43 @@
 [
   {
+    "id": "news-c7d53316f779",
+    "title": "Amended AI bill passed by CT Senate after extensive questioning - CT Mirror",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYzA1c1JWNzl5cklweTBRRE12dHVUSzF2SG5sbXA5Qm1ZalllSXVHcXNNX2tqdndvLWhyUjNDTk05Y3lLVU1GRjdwUHBFcE8yaHk4ZExUNGUtSUZ0dUNacTlwTjkxMHpzVzJLZDh6QnhRTXN6ZzhKMFhQUEFmRkJzLWtaUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "Amended AI bill passed by CT Senate after extensive questioning  CT Mirror",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
+  },
+  {
+    "id": "news-a66c91f57450",
+    "title": "AI GOVERNANCE, COMPLIANCE AND ETHICS - THISDAYLIVE",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVFFOeEZoMTBzZGtNYTJyZ1FSdTJtQUUxX25IX3NEUV9zbDB0cERlQ3R0blJzLXlDYi1CZE5HZTZYeHhjVjF6M1ZhN0Q1S1pZMkx2U0tnYk56VU1mWloxUjZHMFUydGNnNUlLN3MzdVdPX0M3VnhNOUNBVDlzT2QyYg?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "AI GOVERNANCE, COMPLIANCE AND ETHICS  THISDAYLIVE",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
+  },
+  {
     "id": "news-d2d0fba903a0",
     "title": "Missouri AI regulation bills stall amid federal pressure - KCTV",
     "jurisdiction": "International",
@@ -36,6 +74,139 @@
     "summary": "‘Govt keeps options open for future AI legislation’ | Business News  Hindustan Times",
     "date_first_seen": "2026-04-21",
     "date_last_updated": "2026-04-21"
+  },
+  {
+    "id": "news-91ab4f337071",
+    "title": "Tennessee Lawmakers Reject Onerous Regulatory Framework For AI - Americans for Tax Reform",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWFhIemxvNGFySWlGNk9sSldQU3JVU29JMW5qeHduamFDSk03T01faXVkVm5xTGVQSVZ0cFQ4TWFEbkhvODNVV1FtRnpVV0lNcUpCNmhPMzY3eXZIOFpiODlmckdPSmgxN3BBb1NWNjJHYXVNWVUxWVlqUXZlR3Z5RS02Q0JUQQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-21",
+    "date_last_action": "2026-04-21",
+    "last_action_summary": "",
+    "summary": "Tennessee Lawmakers Reject Onerous Regulatory Framework For AI  Americans for Tax Reform",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
+  },
+  {
+    "id": "news-344825a7c4b5",
+    "title": "Mother Pushes California AI Chatbot Regulation After Son's Death - Let's Data Science",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM0Q0UzBCWHh0cnEzUVdtODEwYVM4TU9GSW5xYWFsdmZacjM0eFpFVkhTajVIQUpEOUU2TkNoSnlnWC03SENRTmV6TktJTHBrQzcyWFlvR3l1V3UzdFZhWW1oZ2FCN2MyMlI1ZnNyVExnYnlMX1VlV1YwQVNZcjNWQTNJOUpaLWNzVkdFOGhoejFpREdGSlZzb25sb3dkdHRHM1gtaQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-21",
+    "date_last_action": "2026-04-21",
+    "last_action_summary": "",
+    "summary": "Mother Pushes California AI Chatbot Regulation After Son's Death  Let's Data Science",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
+  },
+  {
+    "id": "news-c456868b137d",
+    "title": "Canada’s AI regulation will be “airtight” on bias, racism, and hate, Solomon says - BetaKit",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSFREMGMzUDlhc2RDTVlpb2F4Z2d4RU9Nc3Z1N3YtU1IyZFVRNlRxQXFZZHBVcUJHSXN0TUx0cFdWQzVGNXpHbnE0TzdLT3JWbzR5TFJGRk8xNGN5QWExblFDV0RTMEJzNFFXdXdnZ0FiU3dSLVRRemNWb1I5anNBeWo0UWV3elhrRUY2NERvMThVTDVLMGZHUFA5cHo?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-21",
+    "date_last_action": "2026-04-21",
+    "last_action_summary": "",
+    "summary": "Canada’s AI regulation will be “airtight” on bias, racism, and hate, Solomon says  BetaKit",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
+  },
+  {
+    "id": "news-3422a4a24588",
+    "title": "Canada Prioritizes Airtight AI Rules on Bias - Let's Data Science",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSzFRa2RUZ1g0NzlEX2piVXFrcU5tUHlpak5uRXJOVWFXenJENTdybldreXRKc1pOZE1CQmN4TWprZWtNd1dpa0tTX29zWTctdmdKX1k1QThhdnpOREVPUWlsSmhmVVhTZUxEblROdmo4WnM2M3RDTHBjOUVRUVR6dFVHZkNoVzIzdXROblljaw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-21",
+    "date_last_action": "2026-04-21",
+    "last_action_summary": "",
+    "summary": "Canada Prioritizes Airtight AI Rules on Bias  Let's Data Science",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
+  },
+  {
+    "id": "news-3b41075e46e4",
+    "title": "On AI, Canadian regulators are built to lag - Advisor.ca",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVy1INVBqZ0NfRmdmZzV0Y01UQVFEN3lhcGRHazhJZlBZVFdBTnotUnY0dXNCNWVMTWszakQzaFFwUkVtYzNaQklZRTRUcU9CaGlpam1OVDlVdHoxQWdFd1QxWndvWG9TZHMwN29Fa1F4N0xIZzRUblZ6QmtIOFlBX25oVFdCZUhudTF0ZmlOaW9CTUhjUEE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-21",
+    "date_last_action": "2026-04-21",
+    "last_action_summary": "",
+    "summary": "On AI, Canadian regulators are built to lag  Advisor.ca",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
+  },
+  {
+    "id": "news-b9e5879b285b",
+    "title": "EU AI Act: Mapping the Interplays with the GDPR - IAPP",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QOUtGeHJmaGxZaElEdkdWdzlES3JZYW5lb2NzLW5RTEdNak9LQXNJLWZqVGxvM1UwOVp1cWxCdE5uU2p4MG52VFNxMlMtQnNrMDBFZE1wa3lkY0J1TnREQXlCM1k3U1ZxR2h6RUFLd0RETktjdmNV?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Privacy"
+    ],
+    "date_introduced": "2026-04-21",
+    "date_last_action": "2026-04-21",
+    "last_action_summary": "",
+    "summary": "EU AI Act: Mapping the Interplays with the GDPR  IAPP",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
+  },
+  {
+    "id": "news-e7620d97e89a",
+    "title": "Dutch proposal for AI supervision: hybrid cooperation between market supervisory authorities - Stibbe",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX1pQaFd4ajZieXIwN2czeWE0Q0pNX2ZsV1E0cU9pZ3RNZXhxRlFpYURGUXhuSTRrZFl6bUh6ZzdmUnl0d1liTnlMRHJ5bkFzVHdFUUpKWnltQnA3SUJSekUwZ0xjU2pOQ3FqdUZkaDQzNVVTZXE1RkFsdEx1MVhGVG5DTTVWNW84RVJoeEFPNGFhVlJ2c2Flejd2TVl2VjdOY01YYVoyLUlwODlmWnkweHp3eEZFN1E?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-21",
+    "date_last_action": "2026-04-21",
+    "last_action_summary": "",
+    "summary": "Dutch proposal for AI supervision: hybrid cooperation between market supervisory authorities  Stibbe",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
   },
   {
     "id": "news-0b8bc7fc7abb",
@@ -169,6 +340,44 @@
     "summary": "AI Act: obligations, risks and opportunities in the new governance of artificial intelligence  Leaders League",
     "date_first_seen": "2026-04-21",
     "date_last_updated": "2026-04-21"
+  },
+  {
+    "id": "news-f38e37f9fae4",
+    "title": "Missouri AI regulation bills stall amid federal pressure - KFVS12",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNW1yMVFTNkVfQ0lZOUpnTWJMLTNFQnlxcWNYSkc5UHZHVmk3SEJCTzNhQm5yS3JBQi1YcDlrMGN6YS0xWjVYRFVtSUtsM2owVWRzN2tkelQ2SS1tc1BGQkpjNV9DTnlJV3REdDk5ZWpBajN1eDdpdENtQm5VRTNDOUVqRldFazg5WGl1bnAyQWtlS0N4cmfSAaoBQVVfeXFMUGIyZTU5c3l1WjNPYlBLRElUV2ZxczZlTVBfbDNmNDI2dDBaU2FIdlZIZXp2cTlydkkwWDA0WHZ5Nm1Ta1V5NVcxQzJzaDlZY2U1UjR1SHh5MGhJcUJhWXU1WWRGd0U1QmNLSU0yeUd2ZXNpLU90NGZ5VnpHeThmRGYxTTRqR0NHV0JQQzRvQXhUSE5LWE5wTVVfY3dEb0tfek0wc2Naa1JnQ1E?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-20",
+    "date_last_action": "2026-04-20",
+    "last_action_summary": "",
+    "summary": "Missouri AI regulation bills stall amid federal pressure  KFVS12",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
+  },
+  {
+    "id": "news-72f2e526b903",
+    "title": "The White House AI Framework for Fair Use and Why the Courts May Get There First - Dykema",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BSktuM0FSQXRabXJCNWtZUzFMM1UzSzNpNGRDUGc4QldzUnYzdkdlNlVHd3BjU3c1VlJublZSV3NERDZLaGo2Qg?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-20",
+    "date_last_action": "2026-04-20",
+    "last_action_summary": "",
+    "summary": "The White House AI Framework for Fair Use and Why the Courts May Get There First  Dykema",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
   },
   {
     "id": "news-e0d399a29583",
@@ -340,6 +549,25 @@
     "summary": "Govt Sets Up Technology and Policy Expert Committee to Strengthen AI Governance Framework  The Impressive Times",
     "date_first_seen": "2026-04-19",
     "date_last_updated": "2026-04-19"
+  },
+  {
+    "id": "news-56772efc6ad0",
+    "title": "MeitY forms tech-policy panel to guide AI governance group - lokmattimes.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZlVtMGE0X1FuamxiQUpxemlIQlR4VDVKV3JYQWtxMndNS2hkTUpsRDJmUFdaVDYyX2Fldm0xNk9QemdMV2lUYy1hWkM4djJiQll3eG9YbGJIU2twaUJlYTVMVWdESUptYVZVeG1OaTZPS2Z0d0kzV21KM042WExYbmpjbHpaSE1FcVdsMW1IdlRvM04wOHc0OU5nNUl3VmhMeXfSAacBQVVfeXFMTUREOUJmQ3pnRXM2MGtsUXJpYW1YWlNTN0RkVkYxWHMzTXFEZjFOcmtLYWFBVDV2b25BbEdubE9nZElPWHkza2w0NmEzWkk1c2l6SlAyWFVCUnlOZlhuRERlUUxVNWhMaEpUYUlmM3dyaF9IajRfZTNtU1doU05pRmkxQUt5TXczcm9jd1h4VFhTVEkzWkFxemR4RjE3RVhyNWZjQU43Yms?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-18",
+    "date_last_action": "2026-04-18",
+    "last_action_summary": "",
+    "summary": "MeitY forms tech-policy panel to guide AI governance group  lokmattimes.com",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
   },
   {
     "id": "news-67fdf96709e3",
@@ -1958,6 +2186,25 @@
     "date_last_updated": "2026-04-21"
   },
   {
+    "id": "news-c721cbe8305a",
+    "title": "AI Watch: Global regulatory tracker - Japan - White & Case",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaUQwSGpiS004cmZjZzJSMFBQY2NKT0pIOEVja0Q5TWtoVlA0STk3ejFzdmpzY0oxQWZWSi01RUhTanZVc3RQWmI5WXowSGF4X2JpWnViU242dy0tNTlvRFlZelB4VjBNQWlIWWpTVzJnQjc0WFB2YmsyX3ZtSzE5MWJBSVB5X1BsRG12UEszbDY?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-13",
+    "date_last_action": "2026-04-13",
+    "last_action_summary": "",
+    "summary": "AI Watch: Global regulatory tracker - Japan  White & Case",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
+  },
+  {
     "id": "news-16027b9494e4",
     "title": "OpenAI Backing Law That Protects It When AI Causes Mass Deaths and Other Mayhem - Futurism",
     "jurisdiction": "International",
@@ -3117,6 +3364,25 @@
     "date_last_updated": "2026-04-13"
   },
   {
+    "id": "news-c4fc8012ba53",
+    "title": "AI Watch: Global regulatory tracker - South Korea (UPDATED) - JD Supra",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbnFjZlZWMFoxeTBUU01QdUxjZklGMjF4c1JFSVh0Z09EQkpsQ2JRTWd1MVR6SmhveHVueDZXVC1tVVZfbmUxN0lDbXc3cVozamtBR1dOalVYYk5kYkplWW1vY0J6QzFxWnJtbFEzVmloOGVRUFE3UER2ZW1LRjZCbVh1OA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-07",
+    "date_last_action": "2026-04-07",
+    "last_action_summary": "",
+    "summary": "AI Watch: Global regulatory tracker - South Korea (UPDATED)  JD Supra",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
+  },
+  {
     "id": "news-27cf4da09462",
     "title": "New IFS Report on State AI Laws - Institute for Family Studies",
     "jurisdiction": "International",
@@ -4201,6 +4467,25 @@
     "date_last_updated": "2026-04-08"
   },
   {
+    "id": "news-20908745ad2d",
+    "title": "Trust3 AI Launches Trustscore to Give Compliance and Security Teams Enforceable Visibility into AI Agents Ahead of EU AI Act Deadline - StreetInsider",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPNnZ3VjNvX3lCTWpnb3JXV1JUcW15Qmh3ZUxjRXpVNlVRMTdVSTVyZkZRNERXTWNtQnVoU1lYcDYzeHJVZG9ROFphSjBMYUxhS2Rkcm5oYVZtVFNQS3VPTUdvd3hDRkFtSWJVOGVVbjBKV3EtUXpxa3lObTlEc2lHTlBQX19EVmc4M2tReHR1anFVWmcxSjZVdnJVSFpZTGpjd0ZSSTMyNGNYUzBIVzA2aHQ1eVNhcmRhcDk2aWRkWjFBSUpvNlZZYWFDYlRsRDJJX2JScXBsbFAzc2dJRUN6U3gwRHh2a1Z6eG13X2VrdnQxM2FtTzhqTU1GMlhKTmFYNGFSUlVjTXIyckZRal9PallYb3k5Qnc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-01",
+    "date_last_action": "2026-04-01",
+    "last_action_summary": "",
+    "summary": "Trust3 AI Launches Trustscore to Give Compliance and Security Teams Enforceable Visibility into AI Agents Ahead of EU AI Act Deadline  StreetInsider",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
+  },
+  {
     "id": "news-4f6077c23c62",
     "title": "White House Releases National AI Legislative Framework, as Competing Congressional Proposals Sharpen the Federal-State Divide — AI: The Washington Report - Mintz",
     "jurisdiction": "United States — Federal",
@@ -4940,6 +5225,25 @@
     "summary": "European Parliament votes to delay EU AI Act implementation  cio.com",
     "date_first_seen": "2026-03-31",
     "date_last_updated": "2026-03-31"
+  },
+  {
+    "id": "news-78d31d76b7ae",
+    "title": "Hamburg: HmbBfDI publishes 2025 Activity Report with AI and enforcement focus - DataGuidance",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcTEzVEZ3czB2UlZnTW9yZzBhSUNfWFRoQUhPTWQxRWMxT0dRQjZIdk4waUVwdzJ1MWwzOURmWWt3bktFSVdYcFBWNU1KT0xsbEdKNDNWZHQ4STZFVXUyeHhZOEZQbDBrMWN0T1pEWS1MQW9yUng5S2l6NHJycUxRTkJuQ081TGtRNlphc0ZPWlc?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-03-27",
+    "date_last_action": "2026-03-27",
+    "last_action_summary": "",
+    "summary": "Hamburg: HmbBfDI publishes 2025 Activity Report with AI and enforcement focus  DataGuidance",
+    "date_first_seen": "2026-04-22",
+    "date_last_updated": "2026-04-22"
   },
   {
     "id": "fed-register-2026-05925",
