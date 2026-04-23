@@ -1,5 +1,62 @@
 [
   {
+    "id": "news-47277cf158b3",
+    "title": "Centre Mulls Stricter AI Governance Framework Amid Rising Risks: Report - Inc42",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYW1yVVFvdE1GMXhNS1dEdkhCWV9LSzRZWW5RNGNKWlVZbHlreHAxRXh3eFU2cVNBY05MZUVjTnVIWXB1MFN5WEoxdEZIejNTWW8wOVZuYXJjRmNGTk1RYnV5V082VXVoQzhmVF9NV0xrdmxMZG14emEtdjM3UUI3VzJ3X3dUNDlqVmtpVHJtRy1YRG1WUjljb3RB?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-23",
+    "date_last_action": "2026-04-23",
+    "last_action_summary": "",
+    "summary": "Centre Mulls Stricter AI Governance Framework Amid Rising Risks: Report  Inc42",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-a241aeb10840",
+    "title": "India weighs stricter AI governance framework amid emerging risks; tougher rules likely: Report - Moneycontrol.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSHFRaGVDMGtnam5QZmdrN2ZnN1Fyekp3dkhYSW5ZaGpBVS13VkxIVEdldlN2c043TURSZ1FCTHQwVk9jZjNEaU9lTXNFdWFIUi1mOG96R1BlcDBuMGtKSGdjODF3V0xMMjdlWHM3d1FsSFpnVDd5REVmSTctUjZLZVpyMUlOeVNrS0NZem9ZdkNnMTlIUFM5MFNmUXF5dno4QUhRaE5pb09lb29fRDdKYVlnSThBY2tNUG50cTFZYWVwU2FjenJ2UGIxTVZjYjZDY3VMbExRSTZBR2ZrR0FPNHZYOTRpVFU3YlEyODFIMHZOUDZ5VW9jdXdUMWrSAYICQVVfeXFMTU51OUpvcF94U2JoSnVrUmJ4Y0pNSldubkw5RWVWc1JGaC1vbjNlelcyRDBEaFpzQU9JZk1ETHNkUHFWcGxuOHB0eTdYU2dZUm5xa283RDY5STNZY1o2MVJuNkVPUnp6S3BlNjE4YTVqVmxYSzNrUm9jUXRNVzY2d1Y3M2JiZFh2dmgzRl9VOGd0OHZBc2RQQVdkWWRIRHB3bTZHYWJETURQU0ZZRTBKQzg5Qm9VS0FZSzd1ZWNhMDNIU2Mxc0pURTlKb0gwSXUxb2k4VUdPQ0ZkMUVQa0RtRmpETlhoeE1TNXpic3NmZm5JakRyYVZOakFQM3ZGbmRDa2pB?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-23",
+    "date_last_action": "2026-04-23",
+    "last_action_summary": "",
+    "summary": "India weighs stricter AI governance framework amid emerging risks; tougher rules likely: Report  Moneycontrol.com",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-4a7fe7d55d6d",
+    "title": "Charting The EU AI Act Timeline – Key Dates From Adoption To Application - New Technology - European Union - Mondaq",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdy1xcm80NmpFcnB0RTZiQVMxb3pOczNFQWlPeEo3MERoZGFoMldsMUV5UFZ6VWJlOXhRRl9yZTRPZTh4NHNTLVVLWHJDRVRobDNuNzZsMkdvcXJCY1VwZ1JsWHIwSG1xZkp1aVdzOHhpRUw3NE9xV09jZFJERWtnZjd4U1hmaFpQM3pIeGNzb1IzUEhFelBhVTRCMXpuQ2l1a0RWQVZlNDI4Rk5Cei05Z1dHMXVlcjNCcFln?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-23",
+    "date_last_action": "2026-04-23",
+    "last_action_summary": "",
+    "summary": "Charting The EU AI Act Timeline – Key Dates From Adoption To Application - New Technology - European Union  Mondaq",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
     "id": "news-c7d53316f779",
     "title": "Amended AI bill passed by CT Senate after extensive questioning - CT Mirror",
     "jurisdiction": "United States — Federal",
@@ -36,6 +93,272 @@
     "summary": "AI GOVERNANCE, COMPLIANCE AND ETHICS  THISDAYLIVE",
     "date_first_seen": "2026-04-22",
     "date_last_updated": "2026-04-22"
+  },
+  {
+    "id": "fed-register-2026-07809",
+    "title": "Notice of Public Meetings of the Maryland Advisory Committee to the U.S. Commission on Civil Rights",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://www.federalregister.gov/documents/2026/04/22/2026-07809/notice-of-public-meetings-of-the-maryland-advisory-committee-to-the-us-commission-on-civil-rights",
+    "source_name": "Federal Register",
+    "type": "legislation",
+    "status": "In Progress",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "Announcement of meetings.",
+    "summary": "Notice is hereby given, pursuant to the provisions of the rules and regulations of the U.S. Commission on Civil Rights (Commission) and the Federal Advisory Committee Act, that the Maryland Advisory Committee (Committee) to the Commission will hold public meetings via Zoom. The purpose is for the committee to begin briefing planning on the chosen topic of artificial intelligence and its application in voting administration.",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-f207dddf345a",
+    "title": "ALEC Urges ‘light-touch’ AI Regulation Like, Montana - bigskybusinessjournal.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWZYQTlnSEtkamtRUVNCTzU5T284UFJuekJOczN3ZVphUzVwOGxGZmluMkxjaFV3SjRNMWNXYmhtdmVCdGktUW12Yzd4QzQzb2w1T05jeFV2bE9TZGY1LTFYaXkwYmMtNG5YbUdlWENqRTFWSTFWWUF3QkR0T0FyM1VmaV9nMDFsbXoyXzZEN1YwRU43b2xPRVBR?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "ALEC Urges ‘light-touch’ AI Regulation Like, Montana  bigskybusinessjournal.com",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-497064c13bf6",
+    "title": "Congress Has a Fresh Chance to Pass a Comprehensive Data Privacy Law - R Street Institute",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFptZXRZa0pzQ1kweFdMUFNmb3REUFY5MXhSbkNycG9ta0FId0lSZXJaSE04elhMWi1ZQ0FrM3ZMbEozQXdUMzQ4YUhHRDNOaGRsM2VPa05PZFFRM0w4Q3RQTUZnNW5EYzlmX1FRbXc2cVhtcWZwNDcwTEQxeUg4OTYtRHUzMXNSU1V1aDVIcGdsR3hlYXFUcGtlcDZIWkdhUHo3bg?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Privacy"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "Congress Has a Fresh Chance to Pass a Comprehensive Data Privacy Law  R Street Institute",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-d8421ab09b20",
+    "title": "AI for HR in Canada and the US: What's new for 2026 and what employers are doing - IAPP",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdEkxLVBaMlpkTHliMm5CanJ4WE4yWU4xUmFqc3k3bUpjVDcyRHVhSG9kSGVhZmJjeDVOT3hsQm5LMWcxR3c3SXdybXlxLWdRWG1UWm05U1dCMmE1QUF5MUZrdk9mOHhPRFZTbDFfZ29DdWRUb3EwWUN6MGRpcTFhU1RtV2tkWUtFUkRmcFhLb3R6eUxwbXZ1b2xqWU4wWW5HSFFZdU53?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "AI for HR in Canada and the US: What's new for 2026 and what employers are doing  IAPP",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-dee880372afa",
+    "title": "AI meets the gavel: Key legal battles and regulatory trends in the United States - JD Supra",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbm1ZR00tZUNLTUZYYXp6Y1UwY3B0M0VTR3lXTll1UTBUcEpiOEpOcDBuQ196VnR3azRfSXI0ZTRmM250dGJsc3h2LWZIa3VkazZqZVZRNktXNjM5aGEzVGFYSXNhSFdsWEd5cXhQVFA0R2pjdkE2R1RqRVBKdlR1WGtTbERqQQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "AI meets the gavel: Key legal battles and regulatory trends in the United States  JD Supra",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-d090d21dc57c",
+    "title": "On Capitol Hill, a debate over who AI at work is really working for - HR Executive",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXNMMlFfQUw5NkJMb3lnUW5jR0JUaHRYeG9uekRLSGZ2VXRUSU5WSm5SVDdXekMwMHplWFNaai1ocnk1MTdGV2NEVzlSMTRBaVNOVUczNUI5UzdBOXBGYTFkRmdMXzE5MUhKTXJCUmVHOWlja1JkS3lhNWNfeEhuUjNWVVhFczlaSzd6WDRXdU5nYVZ6Ync?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "On Capitol Hill, a debate over who AI at work is really working for  HR Executive",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-d2c7a0d7f251",
+    "title": "Amid artificial intelligence explosion, lawmakers debate best path to regulate - Mahomet Daily",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbGVwdE54WXh5Q19pTHJ2eWloWmNJVi1uTndMV2Fob2NucmRFRXViQllqWnI0SHRXTC1vZmppVWlvQ0FsclZyYnktbUw0QlR3OUgzbEhsUEVLdUxieG1aZjVuSHRzeTRoVGRPY0FjV0JpQkE2bVhsMXNOYnFkVE00ei1nbWtPdEhMLUFZc3hLV0t2azlkTk4wMDdFbkp3Tm5Rb2drcEtR?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "Amid artificial intelligence explosion, lawmakers debate best path to regulate  Mahomet Daily",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-493db9251b5d",
+    "title": "How Utah’s AI policy office is laying the foundation for governance - StateScoop",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DWVo3dGFWOTViY2R2TVh6ZjUwT3VUb1k2ZnNUR0RsODhfbGliQWVtOXg5Ui1RaFNtSnRrbkstd0dzYnJaeENFUWdna1ZabF9ZT25QR2tlQVFwcnZ5WV8wVmZNR2Nhdw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "How Utah’s AI policy office is laying the foundation for governance  StateScoop",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-a6685779e095",
+    "title": "Here’s how to jump-start your company’s responsible AI governance in 90 days - Fast Company",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNVNHZ0Vvemo2TFBTMjI4azBsWTB3TTNuaTh5RXRCQnhDR2ZRZ3c1V1o2QXVacEJLRXVGamVQRlU3V0NZRFowSHNqeTNXcldFNDRNZGZMN1JwQXdTQ3RIODhWekxCTUVqSnhRZmNQRlVvNENyUUxCZWtxbG1TWTVHSVBnSUlETDc0RTZLdjRSTU51MVJWRVdqSVROdjFqQ0w3SWdWRFVQUEw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "Here’s how to jump-start your company’s responsible AI governance in 90 days  Fast Company",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-18d37af8aa8d",
+    "title": "Building an Agentic AI Governance Framework for Enterprises - appinventiv.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WZnFZY2Y4cnQ0d3VnMUMzY1ExTmlLUHVWdWY1N1JGT2g1VUlXbzk3SzRyU25WNHZqQ1lXWm95d0NvWVNSX1l6bnB4UHFSZ2JxUXRsd19QcHYzNjJTd3pEcFpZc2ZvNzU5NFlsQ3VjczFpSW0teUE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "Building an Agentic AI Governance Framework for Enterprises  appinventiv.com",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-c2f5aae6f52c",
+    "title": "Government Constitutes AI Governance And Economic Group - Construction World",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1RNRVN3c0RraHdMeVY5VEkwdXJCVjYzdWtZSkJoNUhDeHNVc3V6cFFkU3NyUjJ5OGcxOENnSXBZZnZSLUxRLWRYX1JVN3BJQ1p6UkVCdmlFVG94amwyV18yMXM4d0x1TldJNDQyNTFsazFHR09lWkU3ZkJvQnZZQ19LS3N6cURHYlJZRUFNVGx4c1ZUcmtsUmFlbEZsaTRnRkNaVTZNV3UzRTdaSG5mVHI0TjZ2TTRqak9sazVTREtaWkJSd3c?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "Government Constitutes AI Governance And Economic Group  Construction World",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-739d32550238",
+    "title": "Red-state AI regulation push has links to the Left - Washington Examiner",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVZIVHZVWF9jd01aWFFaaF83cFdkYXdRYzR2STlKaERTUVBmeTlmUFdHSGNwVS1pTy1ZaUZHeVdzRnhfODg1SEhneEpyZTBWYXd5Zk1Rb2NQelVXNW9Ta1RqQTM1b3Y4WVp5NnNyRk5NdXM1d3o0b0stak1vQ0RGUF9EeVJQb2J4cHY5U0xhbTFEOFFYQzUtOHdhWnk3U3VDRFNMVUlIS1ZDZ0JlanBxMDhBWmY?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "Red-state AI regulation push has links to the Left  Washington Examiner",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-28cd41b20a3a",
+    "title": "The 12-point AI checkup: A practical starting point for Western Canadian organizations - MLT Aikins",
+    "jurisdiction": "Canada — Federal",
+    "jurisdiction_code": "CA-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJMjVMV1o2N3BJV2lmREZPVF9UTGwxaHhiZkhPSGVsTU5yeGpLNzQ0Q213bUk0QUJmZ2ZtcGtxN2RoRlhpeTZFc1lYMkVLREE3YVpKRHRNYlJ4OU9FVkJ3djZTRVk2MTVnUVZn?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "The 12-point AI checkup: A practical starting point for Western Canadian organizations  MLT Aikins",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
+    "id": "news-c33338a0a7cf",
+    "title": "Spain’s Supervisory Authority Issues New Guidance on AI‑Based Voice Transcription - Inside Privacy",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWHk3UG51TkdkWXI0X0RuVWltN0JtakE3eHgxa2ZLczNnQmtpU0F5SXhWQlVyTDJKSGo2cHZmUTJJTVMyTkw5aFZ4RnJ0ekJJeU1qSExZejhESVh3QllsamNibnhmVF9sNTl4LXItcWtrZ3VvOGh4ajNjbGE5U0xTcUhuY0VkUF9pZkpRZG1OdFRIeWMzR1dwZXFTdHhLUWVjNlMxakdOc0FBNTE4bzR2ODVQOEIwMmx3TVNIQTUwcDEyS0xyaUxKYWVnclFZRjludHVHYVR6cGlJMW8?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Privacy"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "Spain’s Supervisory Authority Issues New Guidance on AI‑Based Voice Transcription  Inside Privacy",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
   },
   {
     "id": "news-d2d0fba903a0",
@@ -4103,6 +4426,25 @@
     "summary": "AI and GDPR Monthly Update March  Dentons",
     "date_first_seen": "2026-04-08",
     "date_last_updated": "2026-04-08"
+  },
+  {
+    "id": "news-20101238804e",
+    "title": "EU’s AI Act Delays Let High-Risk Systems Dodge Oversight - Tech Policy Press",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOelhTeWh1dHhhSnpDSThCUlEtdS1TVDVHM05uTTU5SXlNYjJEZllVRkhlSGthTlZXdFRRTFBvZlhhNFV3QXphVjY4VmI3TzdZRGYtM29DNVZaTElDTHFKRnFNSjBMamw3MGJtY09Gc0V4WjIxaE1ZQkctemdER0pYUG15cUFZdw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-02",
+    "date_last_action": "2026-04-02",
+    "last_action_summary": "",
+    "summary": "EU’s AI Act Delays Let High-Risk Systems Dodge Oversight  Tech Policy Press",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
   },
   {
     "id": "news-c5a3ae4372f1",
@@ -9091,6 +9433,25 @@
     "date_last_updated": "2026-03-31"
   },
   {
+    "id": "congress-gov-hr4894-119",
+    "title": "Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://www.congress.gov/bill/119th-congress/house-bill/4894",
+    "source_name": "Congress.gov",
+    "type": "legislation",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-08-05",
+    "date_last_action": "2025-08-05",
+    "last_action_summary": "Introduced in House",
+    "summary": "Deceptive Practices and Voter Intimidation Prevention Act of 2025This bill generally prohibits deceptive communications and voter interference regarding federal elections.Specifically, the bill prohibits any person, within 60 days before a federal election, from communicating, causing to be communicated, or producing for communication certain information on voting, if the person (1) knows such information to be materially false, and (2) has the intent to impede or prevent another person from voting in an election.Additionally, the bill prohibits any person, within 60 days before a federal election, from&nbsp;using an artificial intelligence system to produce certain information on voting, if the person has the intent to use the system to (1) produce false information, and (2) impede or prevent another person from voting in an election.The bill also prohibits hindering, interfering with, or preventing voting or registering to vote.A private right of action for preventive relief is es...",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
+  },
+  {
     "id": "news-7dfc93f4b21c",
     "title": "EU AI Act News: Rules on General-Purpose AI Start Applying, Guidelines and Template for Summary of Training Data Finalized - Mayer Brown",
     "jurisdiction": "European Union",
@@ -9108,6 +9469,25 @@
     "summary": "EU AI Act News: Rules on General-Purpose AI Start Applying, Guidelines and Template for Summary of Training Data Finalized  Mayer Brown",
     "date_first_seen": "2026-03-31",
     "date_last_updated": "2026-03-31"
+  },
+  {
+    "id": "congress-gov-s2495-119",
+    "title": "Keep Call Centers in America Act of 2025",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2495",
+    "source_name": "Congress.gov",
+    "type": "legislation",
+    "status": "Proposed",
+    "domains": [
+      "Employment"
+    ],
+    "date_introduced": "2025-07-29",
+    "date_last_action": "2025-07-29",
+    "last_action_summary": "Introduced in Senate",
+    "summary": "Keep Call Centers in America Act of 2025This bill generally requires businesses to make U.S.-based, human customer service agents available to consumers and makes certain businesses ineligible for federal loans or grants if they relocate a call center overseas or contract for overseas call center work.Generally, at the beginning of a customer service communication, agents must disclose their location and, if the agent is outside of the United States, that the consumer may request immediate transfer to a U.S.-based agent. Businesses that use artificial intelligence (AI) for customer service communications must also disclose that a nonhuman AI or machine is being used and that the consumer may request immediate transfer to a U.S.-based, human agent.Separately, the Department of Labor must maintain a list of businesses that operate call centers of a specified size and that either relocate a call center out of the United States or contract call center work overseas. Businesses must gene...",
+    "date_first_seen": "2026-04-23",
+    "date_last_updated": "2026-04-23"
   },
   {
     "id": "fed-register-2025-13650",
