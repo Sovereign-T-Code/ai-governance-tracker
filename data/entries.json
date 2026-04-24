@@ -57,6 +57,196 @@
     "date_last_updated": "2026-04-23"
   },
   {
+    "id": "news-40a1f4975a6c",
+    "title": "Fact Check Team: Exploring the evolution of artificial intelligence regulations - The National News Desk",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObWZYamVqcTEtRWxlU1hXbWRvekw3VUlKUlJjRzM0eE0yNWx3ZlNWN2hQMF95ak5pY29aOU5wLVlhY1NZT1o4aVJ5eC1IYlh5aWVPOWQtbkhUTHhwNXJQczl1U2JLQlFpMW9pbk9GTF9mUERHN2J1QXNhWWJFQnNuTWFMQ0x2dFZyeFA5MnloWG9scUxsUi03Rjd2ZTB5Q2tHQ2lhZFplTEt5NWV2Y21ESDlUdGFrNzRFa2VqYnkybFIwWV9GQXAwTC11clhVV0VKQ2NQY1dQNzRLaHA1RU1BWFFuYm91WjJzUEd3U25Tc25PZFFDd3dRYXBVQl9DYmYzT0RoVDJkZzF1UQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-23",
+    "date_last_action": "2026-04-23",
+    "last_action_summary": "",
+    "summary": "Fact Check Team: Exploring the evolution of artificial intelligence regulations  The National News Desk",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
+  },
+  {
+    "id": "news-b66bde7b53d6",
+    "title": "DeSantis Pushes AI Bill of Rights Through Florida Legislature - Let's Data Science",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM0pSQklDc0RjRlFmSDd3QzZZWGNKZndIUzdPQlc3OEJsNUJrREVhVWs5anFFcU9UUWpyRE5BeTZMU3dfTUZ1RE16cDNvWjYxRnpTZEl5QTZxelB2S0hlNDFCcEExOVNjVG9IU0YwTHZfZkxaTVZMYVBkcUtiUVZDY3JlOEFXaEd0Rm85aDRrOUVLekthbXRvR29fOFNqMVdZdUNwTw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-23",
+    "date_last_action": "2026-04-23",
+    "last_action_summary": "",
+    "summary": "DeSantis Pushes AI Bill of Rights Through Florida Legislature  Let's Data Science",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
+  },
+  {
+    "id": "news-524820507e9b",
+    "title": "Why AI governance without guardrails is theater - cio.com",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY3FVdk5uMTNtYzlsODBXSVpTNnFwbjV4RkJwaTBQX2tSRzhDWWludnpvQmt6TVRDUEs2MTFvb2V6ZFNHbVlCVWtIWGtKZHRSamZ1RTZEajZCVTJ2RERudTctbG1KckRneXRSb04yRlhaSU9NcFhwZk9nUFgyWWJpeEhLTGxWYWVaWFFxd2ZyWUgxUQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-23",
+    "date_last_action": "2026-04-23",
+    "last_action_summary": "",
+    "summary": "Why AI governance without guardrails is theater  cio.com",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
+  },
+  {
+    "id": "news-159c447c80a0",
+    "title": "HKU hosts Hong Kong Global AI Governance Conference 2026, advancing global dialogue on AI governance - EurekAlert!",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KNy1ORjhONTJvaHRoZjEzSk9lRFRtWmFlQU03dm5oYlNYbUZqVzBlNUdveGZXTUtzSFZjVzJsZURPN0JLU181dkc1c01aLTYyR1NicW12Nkp5cTR1?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-23",
+    "date_last_action": "2026-04-23",
+    "last_action_summary": "",
+    "summary": "HKU hosts Hong Kong Global AI Governance Conference 2026, advancing global dialogue on AI governance  EurekAlert!",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
+  },
+  {
+    "id": "news-8e173ae1dd11",
+    "title": "AI governance debate intensifies amid rapid global expansion - Digital Watch Observatory",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01LThxcjZqLVJ6ZnczRVA5dGNYbzNIaGhScjQwejBVaVpCelBfcVA3TFBvOVBldEJ0NVk0aktRa0dBTklmTVBnUHpBd1paejhNSjVIWUVucmtlY3Q4dmZRbThVaXNHUFM0ZmRiTjBwS0FuaEdWMGJZX3hsdVltaVE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-23",
+    "date_last_action": "2026-04-23",
+    "last_action_summary": "",
+    "summary": "AI governance debate intensifies amid rapid global expansion  Digital Watch Observatory",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
+  },
+  {
+    "id": "news-0abf06319c83",
+    "title": "Japan ruling party proposes AI operator penalties - Let's Data Science",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdkRLRExaTXNuMWlHNktlRjl5WWh6eUpveEJzZGZnVGJvckt1dHpmX29iNl9naVpVYTRPbHExNl9KcDRTYmdYTFBwLUwxcHp0dzJvbHV4UDQxZHJlU3p1d1dYRnNIbGpDUzk1VjFOQUlSWl9YMW5paDU1VUw1QVJnZF9RRHdNMERCOFQxSTk4bTd3MzAyRlE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-23",
+    "date_last_action": "2026-04-23",
+    "last_action_summary": "",
+    "summary": "Japan ruling party proposes AI operator penalties  Let's Data Science",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
+  },
+  {
+    "id": "news-81a4cdb8bb31",
+    "title": "Addressing the AI Policy Challenge: My Appearance before the Standing Senate Committee on Transport and Communications - Michael Geist -",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNT1hIWExtNGxKUms0SGlYd2owYkJaWGI2TE9LT3BHMDQ2UnNBeWg1SEkzQzFuZURTMWNCbFNOT054ZVNjcnpfNUNkV1luX25IdjZ1dmhyazlqdTFlaUxlYVdCeWd1T0dRV1JZT0xWY1BzcDJlY0JjX0hvUzFCcFNpU0xBS1pJMjh1ZW5OampnYlRoQzl5aDhDTlkyNi1rVlhFN0JiWDBzZy1FTmFfTGEwVnFFZFotT01neHZTNUFXNlZSMU5YZTNyQ1lPQlVKSWowS1oyVzF6NmpfTVJHNUtoZnk4M1VJdElvekE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Transportation"
+    ],
+    "date_introduced": "2026-04-23",
+    "date_last_action": "2026-04-23",
+    "last_action_summary": "",
+    "summary": "Addressing the AI Policy Challenge: My Appearance before the Standing Senate Committee on Transport and Communications  Michael Geist -",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
+  },
+  {
+    "id": "news-5b34ef24e695",
+    "title": "EU AI Act Deadline: Customer Emotion AI Becomes High-Risk in August 2026. Most Contact Centers Have No Idea What's Coming. - CX Today",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmt6Z21DMDhWaWh0cEhJc21lYmp5VlZQUk5GaUgzbkpQRVkwR3hLRlVWTm9ZdG1HeFdOMEVRUE1iVTVfdkl0RG1PNUxlcHRLakJDZUZjNjNPUC12THVRUHhvREptbXo1SUVaNzlaTktIUzNqQXhXeklEUE1MMXlFWk53czA4WTRXUnQ1a3p5Qm9vdw?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-23",
+    "date_last_action": "2026-04-23",
+    "last_action_summary": "",
+    "summary": "EU AI Act Deadline: Customer Emotion AI Becomes High-Risk in August 2026. Most Contact Centers Have No Idea What's Coming.  CX Today",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
+  },
+  {
+    "id": "news-778bec6e42a5",
+    "title": "EU Biotech Act: The European Commission’s landmark proposal to strengthen biotechnology in Europe - White & Case LLP",
+    "jurisdiction": "European Union",
+    "jurisdiction_code": "EU",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGh0OC1pOEF1d29hdFVpNWt4WmRLSzhtZVZWcGxYVkNYUXRRMnpDaVVYUE42dDBBYzdHVDZPVEctWDc3ZEs0aHNVMGc1Ym1JYkF5LXJTUDhwY0NzUWJxY3BEREhwNmtFR0drYmVvSndWVklaenNRYlBWTW9yd05DaXhkRjRYLXVHZWVTbnVxeWw2YkVMRXY5YUt4TDMtRzdYQkpWWFVDVDh3SC1SQzhsX25CdXNrYjMxdVo4dWxpVjlaT0k?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-23",
+    "date_last_action": "2026-04-23",
+    "last_action_summary": "",
+    "summary": "EU Biotech Act: The European Commission’s landmark proposal to strengthen biotechnology in Europe  White & Case LLP",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
+  },
+  {
+    "id": "news-b174dc17be22",
+    "title": "South African privacy law and global regulation can shape employers’ AI governance - Pinsent Masons",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPanE2N1dHOTVFeEswWjVuZWZuMGdVeWtScDdqaG5YN2RvMG4zZmVKOEV4bUJyaGIwZ1ByS3NZaGFhN2xqaGFLRmo3V09RdFktcDU0LUEybVg5LVdkaEdsY2kyZmFjeDc4bVhXdTBUY2k5cC1NWWVKZkwtZmlhSl81TzBVYllZU1lQLTc0QUVlMkg4UjFWdGZhUXo1REc4S0w5Y3NZd0tmVkxBZjQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Privacy"
+    ],
+    "date_introduced": "2026-04-23",
+    "date_last_action": "2026-04-23",
+    "last_action_summary": "",
+    "summary": "South African privacy law and global regulation can shape employers’ AI governance  Pinsent Masons",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
+  },
+  {
     "id": "news-c7d53316f779",
     "title": "Amended AI bill passed by CT Senate after extensive questioning - CT Mirror",
     "jurisdiction": "United States — Federal",
@@ -361,6 +551,25 @@
     "date_last_updated": "2026-04-23"
   },
   {
+    "id": "news-e29689e0ad09",
+    "title": "New regulatory model may be needed to address AI threats like those posed by Anthropic's Mythos, OSC's Vingoe says - Financial Post",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2JFa25va1pIZmQ4a0JfVXZfX0tuOU5PV1hUZEowRzZabUhhTms3cG10LWdvQ183Rk1GV0F1VTFGbUJCNVFpWElDRUYxc0tIZVUzMnVnVWxSVjVLeHNTaldicTdDdXdmc0JZVEJJLVNlOUFaaU1ra1JpYk0wNGx2YzhBVC0yR1lES05udDFrM0k4dm1EZ2ZyV285MUZwVk16U0piRQ?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Financial Services"
+    ],
+    "date_introduced": "2026-04-22",
+    "date_last_action": "2026-04-22",
+    "last_action_summary": "",
+    "summary": "New regulatory model may be needed to address AI threats like those posed by Anthropic's Mythos, OSC's Vingoe says  Financial Post",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
+  },
+  {
     "id": "news-d2d0fba903a0",
     "title": "Missouri AI regulation bills stall amid federal pressure - KCTV",
     "jurisdiction": "International",
@@ -532,6 +741,25 @@
     "date_last_updated": "2026-04-22"
   },
   {
+    "id": "news-d2f173d1f70a",
+    "title": "She says ChatGPT is responsible for her son’s death. CA lawmakers are listening - Sacramento Bee",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYmF3MHJCVHdkQzdQUWdTSldvYzRRUmxtZ25vZ1A1QUd2XzdmZzE5LV9wVjVqMjh0LXBOWEg2Wnl0bnVsdFV3cUZHN1ZsOWV1STFXYlBPRm5BMlduUnY2dlFSZnRDWW5DbzRrV0ZNZEd1amphZ2wzTi1MdHExamtaVlNqVWRCTXZLdVcw0gGLAUFVX3lxTE0zUjZlRjhGNmItOU9OSWpDMzd3SUMwYVo0TWJBT2kySDNxXzdoRnFtbHcxLUdraktvNU1RRTdCTUhsdmZVRVNFX01nN29mQmJnMGM2WXFwRWRCVjZGYUdidlpFOXhGUTlxTHF5ZWRMc1lWRDZuOHVwNy1yS3RvNTVqVGtCT3lka1pZVGM?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-21",
+    "date_last_action": "2026-04-21",
+    "last_action_summary": "",
+    "summary": "She says ChatGPT is responsible for her son’s death. CA lawmakers are listening  Sacramento Bee",
+    "date_first_seen": "2026-04-21",
+    "date_last_updated": "2026-04-24"
+  },
+  {
     "id": "news-0b8bc7fc7abb",
     "title": "EU AI Act Shock: Emotion Recognition Is Now Illegal at Work. So Why Is Your Vendor Still Selling It? - UC Today",
     "jurisdiction": "European Union",
@@ -566,25 +794,6 @@
     "date_last_action": "2026-04-20",
     "last_action_summary": "",
     "summary": "Florida’s ‘AI Bill of Rights’: What happened, what’s in it, and what’s next?  Florida Phoenix",
-    "date_first_seen": "2026-04-21",
-    "date_last_updated": "2026-04-21"
-  },
-  {
-    "id": "news-d2f173d1f70a",
-    "title": "She says ChatGPT is responsible for her son’s death. CA lawmakers are listening - Sacramento Bee",
-    "jurisdiction": "International",
-    "jurisdiction_code": "INTL",
-    "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYmF3MHJCVHdkQzdQUWdTSldvYzRRUmxtZ25vZ1A1QUd2XzdmZzE5LV9wVjVqMjh0LXBOWEg2Wnl0bnVsdFV3cUZHN1ZsOWV1STFXYlBPRm5BMlduUnY2dlFSZnRDWW5DbzRrV0ZNZEd1amphZ2wzTi1MdHExamtaVlNqVWRCTXZLdVcw0gGLAUFVX3lxTE0zUjZlRjhGNmItOU9OSWpDMzd3SUMwYVo0TWJBT2kySDNxXzdoRnFtbHcxLUdraktvNU1RRTdCTUhsdmZVRVNFX01nN29mQmJnMGM2WXFwRWRCVjZGYUdidlpFOXhGUTlxTHF5ZWRMc1lWRDZuOHVwNy1yS3RvNTVqVGtCT3lka1pZVGM?oc=5",
-    "source_name": "Google News",
-    "type": "news",
-    "status": "Proposed",
-    "domains": [
-      "General"
-    ],
-    "date_introduced": "2026-04-20",
-    "date_last_action": "2026-04-20",
-    "last_action_summary": "",
-    "summary": "She says ChatGPT is responsible for her son’s death. CA lawmakers are listening  Sacramento Bee",
     "date_first_seen": "2026-04-21",
     "date_last_updated": "2026-04-21"
   },
@@ -3174,6 +3383,25 @@
     "date_last_updated": "2026-04-12"
   },
   {
+    "id": "news-c0890f0bd631",
+    "title": "Manatt Health: Health AI Policy Tracker - Manatt, Phelps & Phillips, LLP",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzlBakRvVFdBNU5IQm1vWXprVUlEd1BoTU4yQl8xSmNycnVSdUQ4LUdLUnhyTnVGbE90MVRpMHY0dVN1UVVnVU5tOTVqby1QMGdmRmhWY3Z1b3NCSWo1NUNNdW1MS3dqOFEyOTJxaWliaHpJX1FWdkE0VlNwb1l2aHZGZFlBMmFDQ1o3cWpxM3hDY2R0UUVnN2FRcG83MUxtaFE?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "Healthcare"
+    ],
+    "date_introduced": "2026-04-09",
+    "date_last_action": "2026-04-09",
+    "last_action_summary": "",
+    "summary": "Manatt Health: Health AI Policy Tracker  Manatt, Phelps & Phillips, LLP",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
+  },
+  {
     "id": "news-e1e2ff31dc2a",
     "title": "Commentary: Trump’s AI Framework: What Does It Accomplish? - Redmond Spokesman",
     "jurisdiction": "United States — Federal",
@@ -4122,6 +4350,25 @@
     "summary": "Trump Administration Releases National AI Policy Framework  JD Supra",
     "date_first_seen": "2026-04-07",
     "date_last_updated": "2026-04-07"
+  },
+  {
+    "id": "news-5cb1e55d14e4",
+    "title": "New York Finalizes RAISE Act for Frontier AI Models; Law Takes Effect January 1, 2027 - Wiley Rein",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWFRBUUxVT1JxQ3RfdDFmSFRWYmdmbXpGcTZURkVxQVd0WkFBaTd5WmpuTTJlNVdKTmEwcFp2V2I4NHlIbEg0OFBONC1rejlHRnlycnc4OGt2RXVyb3RHTE0tLTBQaFFxUHJXZjFucmhZTTNNQ21ROXZnTmhaRDI4Y2p6LUdFTkFxNVpKX1dNZnJNR2NNRTg4ZUtWUV85dTZ2cFVxc1hmbDhOcHVyNUtkaA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2026-04-03",
+    "date_last_action": "2026-04-03",
+    "last_action_summary": "",
+    "summary": "New York Finalizes RAISE Act for Frontier AI Models; Law Takes Effect January 1, 2027  Wiley Rein",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
   },
   {
     "id": "news-0985cd3a7760",
@@ -8557,6 +8804,25 @@
     "date_last_updated": "2026-03-29"
   },
   {
+    "id": "news-90766c03b6c2",
+    "title": "Hochul Reaches Deal on A.I. Regulation in New York - The New York Times",
+    "jurisdiction": "International",
+    "jurisdiction_code": "INTL",
+    "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5oN1FCQmZXdnNtVEktS3lXQk9WeDM4enVtREl4VVV5Q0g3M0tjcGlORTMwNUdPSjcyeDdrWkRVVXZHX1JnRi1NYm9GeTRoN1hLYlhhWTdsSDg3M3JTNlVoWmtWcGZzQTZDNVRZVWtLNkRHQzBua1p1YlIyMA?oc=5",
+    "source_name": "Google News",
+    "type": "news",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-12-19",
+    "date_last_action": "2025-12-19",
+    "last_action_summary": "",
+    "summary": "Hochul Reaches Deal on A.I. Regulation in New York  The New York Times",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
+  },
+  {
     "id": "news-e05173eb8c91",
     "title": "Policy on the Responsible Use of Artificial Intelligence Tools and Algorithms - Iberdrola",
     "jurisdiction": "International",
@@ -9336,6 +9602,25 @@
     "summary": "EPIC Endorses Algorithmic Accountability Act of 2025&nbsp;&nbsp;EPIC – Electronic Privacy Information Center",
     "date_first_seen": "2026-03-29",
     "date_last_updated": "2026-03-29"
+  },
+  {
+    "id": "congress-gov-s2912-119",
+    "title": "Deceptive Practices and Voter Intimidation Prevention Act of 2025",
+    "jurisdiction": "United States — Federal",
+    "jurisdiction_code": "US-FED",
+    "source_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2912",
+    "source_name": "Congress.gov",
+    "type": "legislation",
+    "status": "Proposed",
+    "domains": [
+      "General"
+    ],
+    "date_introduced": "2025-09-18",
+    "date_last_action": "2025-09-18",
+    "last_action_summary": "Introduced in Senate",
+    "summary": "Deceptive Practices and Voter Intimidation Prevention Act of 2025This bill generally prohibits deceptive communications and voter interference regarding federal elections.Specifically, the bill prohibits any person, within 60 days before a federal election, from communicating, causing to be communicated, or producing for communication certain information on voting, if the person (1) knows such information to be materially false, and (2) has the intent to impede or prevent another person from voting in an election.Additionally, the bill prohibits any person, within 60 days before a federal election, from&nbsp;using an artificial intelligence system to produce certain information on voting, if the person has the intent to use the system to (1) produce false information, and (2) impede or prevent another person from voting in an election.The bill also prohibits hindering, interfering with, or preventing voting or registering to vote.A private right of action for preventive relief is es...",
+    "date_first_seen": "2026-04-24",
+    "date_last_updated": "2026-04-24"
   },
   {
     "id": "news-af17015b8cc3",
